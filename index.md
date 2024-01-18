@@ -23,7 +23,7 @@ sections:
           - title: Something else
             url: /search
   - textcards:
-      title: Most common questions
+      title: 📚 Most common questions
       id: textcards
       cards:
         - title: I have trouble with my Singpass account
@@ -45,8 +45,8 @@ sections:
   - infopic:
       title: Have a specific question in mind?
       id: infopic
-      description: "🔍 Try directly search for it "
-      button: "Go to Search "
+      description: 🔍 Try directly search for it
+      button: Go to Search
       alt: Image alt text
       image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
       url: /search
