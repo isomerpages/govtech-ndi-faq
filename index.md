@@ -2,7 +2,7 @@
 layout: homepage
 title: Singpass Help Centre
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Singpass_logo.svg
 permalink: /
 notification: ""
 sections:
