@@ -1,6 +1,6 @@
 title: Singpass Help Centre
 url: https://www.singpass.gov.sg
-favicon: /images/Singpass_logo.svg
+favicon: /images/Site assets/Singpass_logo.svg
 colors:
   primary-color: "#3b3c3d"
   secondary-color: "#b0262d"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d2rpks4wslnenv.amplifyapp.com
 prod: https://master.d1um6a6kdbbku8.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Singpass_logo.svg
+shareicon: /images/Site assets/Singpass_logo.svg
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
