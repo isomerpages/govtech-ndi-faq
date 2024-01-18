@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Hello, how can we help?
+      subtitle: "  "
+      background: /images/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
       dropdown:
@@ -20,7 +20,7 @@ sections:
           - title: Singpass Face Verification
             url: ""
           - title: Finding a Singpass counter
-            url: /locate-counters
+            url: /counter-locations/
   - textcards:
       title: Hello, how can we help you today?
       id: textcards
@@ -37,6 +37,20 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
