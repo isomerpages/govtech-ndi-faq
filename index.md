@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Singpass Help Centre
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Hello, how can we help?
-      subtitle: "  "
+      subtitle: ""
       background: /images/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
