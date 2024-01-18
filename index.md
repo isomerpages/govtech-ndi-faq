@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hello, how can we help?
+      title: How can we help you today?
       background: /images/Site assets/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
