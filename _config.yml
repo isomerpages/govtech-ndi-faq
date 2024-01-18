@@ -2,7 +2,7 @@ title: Title
 url: https://www.singpass.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#4a90e2"
+  primary-color: "#3b3c3d"
   secondary-color: "#d93841"
   media-colors:
     - title: media-color-one
