@@ -20,6 +20,8 @@ sections:
             url: ""
           - title: Finding a Singpass counter
             url: /counter-locations/
+          - title: Something else
+            url: /search
   - textcards:
       title: Most frequent questions
       id: textcards
@@ -28,12 +30,8 @@ sections:
           description: ""
           linktext: Go to section
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+        - title: Face verification keeps failing
+          description: ""
           linktext: Learn more
           url: ""
         - title: Card
@@ -44,6 +42,7 @@ sections:
       description: Have a specific question or topic you're looking for?
       button: Try a direct search
       url: /search/
+      title: Search
   - resources:
       title: Latest updates
       id: resources
@@ -62,19 +61,4 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/Illust_w_Frame___Photo_Match_With_Database.svg
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-      url: /contact-us
 ---
