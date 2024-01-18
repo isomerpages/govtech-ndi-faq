@@ -36,6 +36,14 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infobar:
+      description: Have a specific question or topic you're looking for?
+      button: Try a direct search
+      url: /search/
   - resources:
       title: Latest updates
       id: resources
@@ -69,10 +77,4 @@ sections:
         - title: Infobox
           description: Infobox description
       url: /contact-us
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
