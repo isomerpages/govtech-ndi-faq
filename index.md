@@ -23,7 +23,7 @@ sections:
           - title: Something else
             url: /search
   - textcards:
-      title: Most frequent questions
+      title: Most common questions
       id: textcards
       cards:
         - title: I have trouble with my Singpass account
