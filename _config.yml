@@ -3,7 +3,7 @@ url: https://www.singpass.gov.sg
 favicon: /images/Site assets/Singpass_logo.svg
 colors:
   primary-color: "#3b3c3d"
-  secondary-color: "#b0262d"
+  secondary-color: "#d93841"
   media-colors:
     - title: media-color-one
       color: "#49759a"
