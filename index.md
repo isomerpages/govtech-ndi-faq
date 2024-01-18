@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Hello, how can we help?
-      background: /images/Placeholder_singpass.jpg
+      background: /images/Site assets/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
       dropdown:
