@@ -20,7 +20,7 @@ sections:
             url: ""
           - title: Finding a Singpass counter
             url: /counter-locations/
-          - title: Something else
+          - title: 🔍 Do a quick search
             url: /search
   - textcards:
       title: Most common topics 📚
