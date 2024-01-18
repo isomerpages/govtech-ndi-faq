@@ -21,7 +21,7 @@ sections:
           - title: Finding a Singpass counter
             url: /counter-locations/
   - textcards:
-      title: Hello, how can we help you today?
+      title: Most frequent questions
       id: textcards
       cards:
         - title: I have trouble with my Singpass account
@@ -36,6 +36,10 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - resources:
+      title: Latest updates
+      id: resources
+      button: View all updates
   - infopic:
       title: Updating your account details
       id: infopic
@@ -62,6 +66,9 @@ sections:
           description: Infobox description
         - title: Infobox
           description: Infobox description
+        - title: Infobox
+          description: Infobox description
+      url: /contact-us
   - infobar:
       title: Infobar title
       subtitle: Subtitle
