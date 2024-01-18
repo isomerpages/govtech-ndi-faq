@@ -10,7 +10,7 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      variant: side
+      variant: center
       backgroundColor: white
       dropdown:
         title: I need help with...
@@ -19,12 +19,11 @@ sections:
             url: ""
           - title: Singpass Face Verification
             url: ""
-          - title: Account details
-            url: ""
+          - title: Finding a Singpass counter
+            url: /locate-counters
   - textcards:
       title: Hello, how can we help you today?
       id: textcards
-      description: " "
       cards:
         - title: I have trouble with my Singpass account
           description: ""
