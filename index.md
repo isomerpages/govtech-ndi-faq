@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Hello, how can we help?
-      subtitle: ""
       background: /images/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
@@ -38,19 +37,19 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Updating your account details
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Singpass Face Verification
       id: infopic
-      description: Infopic description
+      description: How it helps protect you from scammers
       button: Button Text
       alt: Image alt text
+      image: /images/Illust_w_Frame___Photo_Match_With_Database.svg
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
