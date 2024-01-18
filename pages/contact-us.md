@@ -27,10 +27,5 @@ contacts:
       - email: support@singpass.gov.sg
       - other: ""
     title: Email
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="url">Feedback Form</a>
-    title: Share feedback
 feedback: ""
 ---
