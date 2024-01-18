@@ -58,7 +58,8 @@ sections:
       title: Singpass Face Verification
       id: infopic
       description: How it helps protect you from scammers
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       image: /images/Illust_w_Frame___Photo_Match_With_Database.svg
+      url: /example-page
 ---
