@@ -38,22 +38,18 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infobar:
-      description: Have a specific question or topic you're looking for?
-      button: Try a direct search
-      url: /search/
-      title: Search
+  - infopic:
+      title: Have a specific question in mind?
+      id: infopic
+      description: Try directly search for it
+      button: Go to Search
+      alt: Image alt text
+      image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
+      url: /search
   - resources:
       title: Latest updates
       id: resources
       button: View all updates
-  - infopic:
-      title: Updating your account details
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-      image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
   - infopic:
       title: Singpass Face Verification
       id: infopic
