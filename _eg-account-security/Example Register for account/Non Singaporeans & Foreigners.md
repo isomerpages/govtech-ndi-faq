@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Example Register for account
 ---
 <p>Singpass Foreign Account (SFA) is only issued by SFA organisations. Click
-<a href="https://go.gov.sg/singpass-sfa-rplist" rel="noopener" target="_blank"><u>here</u>
+<a href="https://go.gov.sg/singpass-sfa-rplist" rel="noopener" target="_blank"><u>here</u> 
 </a>for the current list of SFA organisations.
 <br>
 </p>
