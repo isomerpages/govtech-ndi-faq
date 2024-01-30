@@ -2,8 +2,8 @@ logo: /images/Site assets/help_center_logo.svg
 links:
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Eg Account Security
+    collection: eg-account-security
   - title: Find a counter
     url: /counter-locations
   - title: Contact Us
