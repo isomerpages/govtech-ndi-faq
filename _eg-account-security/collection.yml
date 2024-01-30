@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Reset Password MOCK PAGE.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Example Register for account/.keep
+      - Example Register for account/subfolder-page.md
