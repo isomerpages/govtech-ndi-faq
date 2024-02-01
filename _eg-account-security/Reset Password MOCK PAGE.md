@@ -14,6 +14,7 @@ description: ""
 <p>Please click&nbsp;<a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;and
 follow the on-screen instructions.</p>
 <p><strong>Need step-by-step guide?</strong>
+	<a name="anchor"></a> 
 </p>
 <p>Here is a&nbsp;<a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_Password_Reset_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>&nbsp;on
 how you can reset your Singpass password online.</p>
@@ -23,4 +24,3 @@ how you can reset your Singpass password online.</p>
 app.</p>
 
 
-<a name="anchor"></a> 
