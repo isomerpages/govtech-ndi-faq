@@ -21,3 +21,6 @@ how you can reset your Singpass password online.</p>
 <a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_Password_Reset_SFA_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;instead.</p>
 <p>Note: You will not be able to reset your Singpass password via the Singpass
 app.</p>
+
+
+<a name="anchor"></a> 
