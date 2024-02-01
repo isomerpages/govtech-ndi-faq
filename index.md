@@ -62,4 +62,13 @@ sections:
       alt: Image alt text
       image: /images/Illust_w_Frame___Photo_Match_With_Database.svg
       url: /example-page
+  - infopic:
+      title: Need in person help?
+      subtitle: Add an image and text
+      id: infopic
+      description: Visit our Singpass counter to get specific, in person help
+      button: Counter locations
+      url: /counter-locations
+      image: /images/Illust_w_Frame___App_Set_up_2___Man_Juggling_Services.svg
+      alt: Image alt text
 ---
