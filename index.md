@@ -71,4 +71,12 @@ sections:
       url: /counter-locations
       image: /images/Illust_w_Frame___App_Set_up_2___Man_Juggling_Services.svg
       alt: Image alt text
+  - infopic:
+      title: YouTube
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://www.youtube.com/watch?v=kbkKQONONmE
+      alt: Image alt text
 ---
