@@ -1,5 +1,5 @@
 collections:
-  register-and-set-up:
+  my-account:
     output: true
     order:
       - Register for Singpass/.keep
