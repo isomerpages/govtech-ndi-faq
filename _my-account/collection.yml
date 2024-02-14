@@ -1,0 +1,4 @@
+collections:
+  my-account:
+    output: true
+    order: []
