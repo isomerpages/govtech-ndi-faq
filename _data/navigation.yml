@@ -5,13 +5,11 @@ links:
   - title: Security
     collection: security
   - title: Using Singpass
-    url: /using-singpass
+    url: /using-singpass/overview
     sublinks:
       - title: Features & functions
-        url: /using-singpass
+        url: /using-singpass/overview
   - title: General info
     collection: general-info
   - title: Contact Us
     url: /contact-us/
-  - title: New folder
-    collection: using-singpass
