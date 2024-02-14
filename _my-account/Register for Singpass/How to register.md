@@ -5,7 +5,12 @@ variant: tiptap
 description: How do I register for a Singpass account?
 third_nav_title: Register for Singpass
 ---
-<h4>Before you register for a Singpass account</h4>
+<h4>I am living in Singapore. How do I register for a Singpass account?</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
+</div>
+<p><strong>Before you register for a Singpass account</strong>
+</p>
 <p>Check that you fulfil the following eligibility requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -18,7 +23,8 @@ Number (FIN) holder.</p>
 </ul>
 <p>Ensure that the address on your NRIC or FIN card is correct. If you need
 to update your address with the relevant authorities, please click <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss157 MuiTypography-colorPrimary" rel="noreferrer" target="_blank">here</a>.</p>
-<h4>To register for a Singpass account</h4>
+<p><strong>To register for a Singpass account</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
@@ -34,9 +40,6 @@ within 3 working days.</p>
 </li>
 </ul>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
-</div>
 <p></p>
 <hr>
 <p>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
