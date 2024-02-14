@@ -4,9 +4,14 @@ links:
     collection: my-account
   - title: Security
     collection: security
-  - title: Using Singpass
+  - title: "Features "
     collection: using-singpass
   - title: General info
     collection: general-info
   - title: Contact Us
     url: /contact-us/
+  - title: Using Singpass
+    url: /using-singpass
+    sublinks:
+      - title: Features & functions
+        url: /using-singpass
