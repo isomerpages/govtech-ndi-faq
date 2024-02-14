@@ -2,11 +2,11 @@ collections:
   my-account:
     output: true
     order:
-      - Register for Singpass/Mobile number already registered.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Who is eligible for Singpass?.md
       - Register for Singpass/Misplaced or did not receive PIN mailer.md
+      - Register for Singpass/Mobile number already registered.md
       - Setting up Singpass app/.keep
       - Setting up Singpass app/How do I download and set up my Singpass app?.md
       - Trouble logging in/.keep
