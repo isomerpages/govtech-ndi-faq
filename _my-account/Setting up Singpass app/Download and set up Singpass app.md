@@ -5,6 +5,8 @@ variant: tiptap
 description: Downloading and setting up your Singpass app
 third_nav_title: Setting up Singpass app
 ---
+<p><strong>How do I download and set up my Singpass app?</strong>
+</p>
 <h4>Download the Singpass app</h4>
 <p>Download the Singpass app from the official app store links below:</p>
 <ul data-tight="true" class="tight">
