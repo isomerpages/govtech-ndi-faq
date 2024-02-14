@@ -34,11 +34,12 @@ address. You will receive your PIN mailer in 3 working days.</p>
 <p>To request a PIN mailer, <a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 </li>
 <li>
-<p>Then, enter your 'NRIC or FIN number' and 'Date of issue'.</p>
+<p>Enter your 'NRIC or FIN number' and 'Date of issue'.</p>
 </li>
 </ul>
 </li>
 </ul>
+<hr>
 <p></p>
 <p>Learn more on how to reset your Singpass password with Face Verification</p>
 <div class="iframe-wrapper">
