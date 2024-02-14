@@ -9,8 +9,6 @@ links:
         url: /permalink
       - title: Managing my account details
         url: /permalink
-  - title: Security
-    collection: eg-account-security
   - title: Using Singpass
     url: /permalink
     sublinks: []
