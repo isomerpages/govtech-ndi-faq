@@ -27,4 +27,11 @@ Singpass Face Verification or SMS One-Time Password</p>
 </ol>
 <p>Alternatively, you may request for a PIN mailer to be sent to your registered
 address. You will receive your PIN mailer in 3 working days.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To request a PIN mailer, visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
+Select 'Services' on the top scroll bar &gt; Select 'Reset password'. Enter
+your 'NRIC or FIN number' and 'Date of issue'.</p>
+</li>
+</ul>
 <p></p>
