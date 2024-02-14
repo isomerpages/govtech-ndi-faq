@@ -1,4 +1,5 @@
 collections:
   my-account:
     output: true
-    order: []
+    order:
+      - Register and set up/.keep
