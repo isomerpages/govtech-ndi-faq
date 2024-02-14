@@ -79,4 +79,26 @@ sections:
       button: Button Text
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
+  - announcements:
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 14 February 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: |
+            <a href="https://www.w3schools.com">Visit W3Schools</a>
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
