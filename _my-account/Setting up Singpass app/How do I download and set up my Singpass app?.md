@@ -7,48 +7,58 @@ third_nav_title: Setting up Singpass app
 ---
 <h3>Download the Singpass app</h3>
 <p>Download the Singpass app from the official app store links below:</p>
-<p>For Apple iPhones</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="download on the apple app store" src="/images/Site assets/appStore_badge_Google.png">
-</div>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>For Apple iPhones</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="download on the apple app store" src="/images/Site assets/appStore_badge_Apple.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>For Apple iPhones: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank">App store</a>
+</p>
+</li>
+<li>
+<p>For Android phones: <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
+</p>
+</li>
+<li>
+<p>For Huawei phones: <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank">AppGallery</a>
+</p>
+</li>
+</ul>
+<p>Always check that the developer is Government Technology Agency before
+you download the app.</p>
+<h4>Set up your Singpass app</h4>
+<p>After downloading, launch the Singpass app and complete a one-time setup.
+The steps are as follows:</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+<p><strong>For local users with a mobile number registered with Singpass:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enter your Singpass ID and password</p>
+</li>
+<li>
+<p>Enter the SMS One-Time Password sent to your mobile number</p>
+</li>
+<li>
+<p>You may be prompted to perform a face scan enabled by Singpass Face Verification
+to authenticate your identity</p>
+</li>
+<li>
+<p>Follow the in-app instructions to set up your six-digit app passcode or
+biometric options</p>
+</li>
+</ol>
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>For overseas users or users without a mobile number registered with Singpass:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enter your Singpass ID and password</p>
+</li>
+<li>
+<p>You may be prompted to perform a face scan enabled by Singpass Face Verification
+to authenticate your identity</p>
+</li>
+<li>
+<p>Follow the in-app instructions to set up your six-digit app passcode or
+biometric options</p>
+</li>
+</ol>
 <p></p>
