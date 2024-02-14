@@ -40,10 +40,6 @@ Password PIN mailer</p>
 within 3 working days.</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
-<li>
 <p>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
 step-by-step instructions on how to register for a Singpass account.&nbsp;</p>
-</li>
-</ol>
 <p></p>
