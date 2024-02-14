@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
+<p><strong>I am living in Singapore. How do I register for a Singpass account?</strong>
+</p>
 <h4>Before you register for a Singpass account, please complete these two steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
