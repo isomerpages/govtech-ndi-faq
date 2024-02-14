@@ -1,10 +1,21 @@
 logo: /images/Site assets/help_center_logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Eg Account Security
+  - title: My Account
+    url: /permalink
+    sublinks:
+      - title: Registration
+        url: /permalink
+      - title: Trouble with my account
+        url: /permalink
+      - title: Managing my account details
+        url: /permalink
+  - title: Security
     collection: eg-account-security
-  - title: Find a counter
-    url: /counter-locations
+  - title: Using Singpass
+    url: /permalink
+    sublinks: []
+  - title: General info
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
