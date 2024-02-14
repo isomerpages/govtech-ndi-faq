@@ -2,8 +2,8 @@ collections:
   my-account:
     output: true
     order:
-      - Registering for Singpass/.keep
-      - Registering for Singpass/How to register.md
-      - Registering for Singpass/Who is eligible for Singpass?.md
+      - Register for Singpass/.keep
+      - Register for Singpass/How to register.md
+      - Register for Singpass/Who is eligible for Singpass?.md
       - Setting up Singpass app/.keep
       - Setting up Singpass app/How do I download and set up my Singpass app?.md
