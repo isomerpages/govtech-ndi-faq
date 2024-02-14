@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: General security
 ---
-<p>Here are some tips for you:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kbkKQONONmE?si=0BV2IejhU7pgaUZM"></iframe>
+</div>
+<h4>Here are some tips for you:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Set up Singpass 2FA (e.g. SMS-OTP or Singpass app), which provides an
@@ -21,9 +24,7 @@ Singpass account.</p>
 </li>
 <li>
 <p>Change your passwords regularly and use strong passwords. Strong passwords
-are alphanumeric and contain 8 to 24 characters.
-<br>
-</p>
+are alphanumeric and contain 8 to 24 characters.</p>
 </li>
 <li>
 <p>Beware of phishing websites that look like government websites to trick
@@ -38,9 +39,7 @@ browser.</p>
 </li>
 <li>
 <p>After you have completed your transaction, log out of the service instead
-of closing the browser window.
-<br>
-</p>
+of closing the browser window.</p>
 </li>
 <li>
 <p>Singpass does not send hyperlinks or QR codes through SMSes or WhatsApp.</p>
@@ -50,6 +49,7 @@ of closing the browser window.
 and transactional alerts promptly.</p>
 </li>
 </ul>
-<p>
-<br>To learn more about Singpass security measures and how you can play an
+<hr>
+<p>To learn more about Singpass security measures and how you can play an
 active part in protecting your Singpass, please visit:<a href="https://go.gov.sg/even-safer-singpass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/even-safer-singpass</u></a>.</p>
+<p></p>
