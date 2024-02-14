@@ -5,9 +5,9 @@ variant: tiptap
 description: I am living overseas. How do I register for a Singpass account?
 third_nav_title: Register for Singpass
 ---
-<p><strong>I am living overseas. How do I register for a Singpass account?</strong>
+<h4>I am living overseas. How do I register for a Singpass account?</h4>
+<p><strong>Before you register for a Singpass account</strong>
 </p>
-<h4>Before you register for a Singpass account</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check that you fulfil the following eligibility requirements:</p>
@@ -25,7 +25,8 @@ Number (FIN) holder.</p>
 <p>Ensure that your address had been updated with the relevant authorities.</p>
 </li>
 </ol>
-<h4>To register for a Singpass account</h4>
+<p><strong>To register for a Singpass account</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
