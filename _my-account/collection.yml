@@ -2,11 +2,11 @@ collections:
   my-account:
     output: true
     order:
-      - Trouble logging in/I cannot log into my Singpass account when using
-        agencies digital services.md
-      - Trouble logging in/.keep
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Who is eligible for Singpass?.md
       - Setting up Singpass app/.keep
       - Setting up Singpass app/How do I download and set up my Singpass app?.md
+      - Trouble logging in/.keep
+      - Trouble logging in/I cannot log into my Singpass account when using
+        agencies digital services.md
