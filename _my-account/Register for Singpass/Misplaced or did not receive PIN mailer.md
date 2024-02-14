@@ -11,11 +11,22 @@ third_nav_title: Register for Singpass
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">Click here</a> (reset
-password page) and fill in your details</p>
+password page)</p>
 </li>
 <li>
-<p>A new PIN mailer will then be sent to your registered overseas address
-within 10 working days (depending on overseas postal services).</p>
+<p>Enter your 'NRIC or FIN number' and 'Date of issue'.</p>
+</li>
+<li>
+<p>A new PIN mailer will then be sent to your registered address</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Local addresses will be sent with 3 working days</p>
+</li>
+<li>
+<p>Overseas addresses will be sent within 10 working days (depending on overseas
+postal services)</p>
+</li>
+</ul>
 </li>
 </ol>
 <p></p>
