@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<p><em>I received an error message saying that the mobile number I provided is already registered and cannot be used for Singpass with my account. What should I do?</em>
+<p><strong>I received an error message saying that the mobile number I provided is already registered and cannot be used for Singpass with my account. What should I do?</strong>
 </p>
 <p>Unless with your explicit consent in the case of the Multi-User SMS 2FA,
 only one mobile number can be registered to one Singpass account at any
