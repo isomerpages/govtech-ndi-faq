@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Digital IC
 ---
+<h4>Digital IC</h4>
 <p>The Digital IC is a feature in your Singpass app that displays your name,
 NRIC number/FIN, photograph, date of birth, sex, nationality, date of issue,
 registered address, pass type and status, pass issue and expiry date, and
