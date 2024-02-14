@@ -34,6 +34,10 @@ within 3 working days.</p>
 </li>
 </ul>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
+</div>
+<p></p>
 <hr>
 <p>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
 step-by-step instructions on how to register for a Singpass account.&nbsp;</p>
