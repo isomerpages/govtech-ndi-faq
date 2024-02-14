@@ -1,22 +1,27 @@
 ---
 title: How to register
 permalink: /my-account/register-and-set-up/how-to-register/
-variant: markdown
+variant: tiptap
 description: Register for a Singpass account
 third_nav_title: Registering for Singpass
 ---
-<h4> Before you register for a Singpass account, please complete these two steps:</h4>
-
-<h5>Check that you fulfil the following eligibility requirements: </h5>
-
-1.  You are at least 15 years old 
-2.  You are a Singapore Citizen or Permanent Resident or Foreign Identification
-3.  Number (FIN) holder.
-	
-<p>Ensure that the address&nbsp;had been updated with the relevant authorities.</p>
+<h4>Before you register for a Singpass account</h4>
+<p>Check that you fulfil the following eligibility requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You are at least 15 years old</p>
+</li>
+<li>
+<p>You are a Singapore Citizen or Permanent Resident or Foreign Identification</p>
+</li>
+<li>
+<p>Number (FIN) holder.</p>
+</li>
+</ul>
 <p></p>
-
-
+<p>Ensure that the address on your NRIC or FIN card is correct. If you need
+to update your address with the relevant authorities, please click <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss157 MuiTypography-colorPrimary" rel="noreferrer" target="_blank">here</a>.</p>
+<p></p>
 <h4>To register for a Singpass account</h4>
 <ul data-tight="true" class="tight">
 <li>
