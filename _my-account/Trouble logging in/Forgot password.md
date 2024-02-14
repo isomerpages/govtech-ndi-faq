@@ -7,6 +7,8 @@ third_nav_title: Trouble logging in
 ---
 <p><strong>I forgot my Singpass password. How do I reset it?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>If you have set up your Singpass 2FA, you can reset your password instantly
 online:</p>
 <ol data-tight="true" class="tight">
@@ -23,8 +25,11 @@ Singpass Face Verification or SMS One-Time Password</p>
 </li>
 <li>
 <p>Create your new Singpass password</p>
+<p></p>
 </li>
 </ol>
+</li>
+<li>
 <p>Alternatively, you may request for a PIN mailer to be sent to your registered
 address. You will receive your PIN mailer in 3 working days.</p>
 <ul data-tight="true" class="tight">
@@ -32,6 +37,8 @@ address. You will receive your PIN mailer in 3 working days.</p>
 <p>To request a PIN mailer, visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
 Select 'Services' on the top scroll bar &gt; Select 'Reset password'. Enter
 your 'NRIC or FIN number' and 'Date of issue'.</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
