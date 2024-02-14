@@ -2,8 +2,6 @@ collections:
   my-account:
     output: true
     order:
-      - Register for Singpass/Issues with new MOM pass.md
-      - Register for Singpass/One time account update.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Who is eligible for Singpass?.md
@@ -11,7 +9,9 @@ collections:
       - Register for Singpass/Check application status.md
       - Register for Singpass/Misplaced or did not receive PIN mailer.md
       - Register for Singpass/Mobile number already registered.md
+      - Register for Singpass/Issues with new MOM pass.md
       - Register for Singpass/Verification code prompt.md
+      - Register for Singpass/One time account update.md
       - Setting up Singpass app/.keep
       - Setting up Singpass app/How do I download and set up my Singpass app?.md
       - Trouble logging in/.keep
