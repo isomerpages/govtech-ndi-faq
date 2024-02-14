@@ -5,8 +5,7 @@ variant: tiptap
 description: Registering for a Singpass account
 third_nav_title: Register and set up
 ---
-<p>Before you register for a Singpass account, please complete these two
-steps:</p>
+<h4>Before you register for a Singpass account, please complete these two steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check that you fulfil the following eligibility requirements:</p>
@@ -25,7 +24,7 @@ Number (FIN) holder.&nbsp;</p>
 <p></p>
 </li>
 </ol>
-<p>To register for a Singpass account</p>
+<h4>To register for a Singpass account</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
