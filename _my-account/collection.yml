@@ -2,6 +2,8 @@ collections:
   my-account:
     output: true
     order:
+      - Trouble with my account/I cannot log into my Singpass account when using
+        agencies digital services.md
       - Trouble with my account/.keep
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
