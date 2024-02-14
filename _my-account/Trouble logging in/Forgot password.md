@@ -25,6 +25,6 @@ Singpass Face Verification or SMS One-Time Password</p>
 <p>Create your new Singpass password</p>
 </li>
 </ol>
-<p>
-<br>Alternatively, you may request for a PIN mailer to be sent to your registered
+<p>Alternatively, you may request for a PIN mailer to be sent to your registered
 address. You will receive your PIN mailer in 3 working days.</p>
+<p></p>
