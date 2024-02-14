@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Singpass Help Centre
-description: Get help with Singpass problems and issues. Browse or search our
-  Help Centre to get official answers to your Singpass questions.
+description: Find help for your Singpass problems and issues. Browse or search
+  our Help Centre to get official answers to your Singpass questions.
 image: /images/Site assets/Singpass_logo.svg
 permalink: /
 notification: ""
