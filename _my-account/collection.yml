@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Register for Singpass/Issues with new MOM pass.md
       - Register for Singpass/One time account update.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
