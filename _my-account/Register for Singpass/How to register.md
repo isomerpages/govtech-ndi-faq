@@ -28,8 +28,8 @@ to update your address with the relevant authorities, please click <a href="http
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
-Select 'Register for Singpass' under Services</p>
+<p><a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+register for a Singpass account</p>
 </li>
 <li>
 <p>Register instantly with Singpass Face Verification or Request for a One-Time
