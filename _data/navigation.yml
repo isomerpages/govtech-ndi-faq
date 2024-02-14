@@ -1,6 +1,8 @@
 logo: /images/Site assets/help_center_logo.svg
 links:
-  - title: My Account
+  - title: My account
+    collection: my-account
+  - title: My Account (copy)
     url: /permalink
     sublinks:
       - title: Registration
