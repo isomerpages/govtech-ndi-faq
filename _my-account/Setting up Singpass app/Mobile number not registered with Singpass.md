@@ -31,8 +31,8 @@ easily.
 </ul>
 </li>
 <li>
-<p>Check that the developer is <strong>Government Technology Agency</strong> before
-you download the app</p>
+<p>Check that the developer is Government Technology Agency before you download
+the app</p>
 </li>
 <li>
 <p>Launch the app and complete a one-time setup</p>
