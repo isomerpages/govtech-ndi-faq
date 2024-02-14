@@ -13,15 +13,12 @@ third_nav_title: Trouble logging in
 online:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>
-</p>
+<p><a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+reset your password</p>
 </li>
 <li>
-<p>Select 'Services' on the top menu bar</p>
-</li>
-<li>
-<p>Select 'Reset password' and enter your NRIC or FIN details, followed by
-Singpass Face Verification or SMS One-Time Password</p>
+<p>Enter your NRIC or FIN details, followed by Singpass Face Verification
+or SMS One-Time Password</p>
 </li>
 <li>
 <p>Create your new Singpass password</p>
@@ -34,20 +31,17 @@ Singpass Face Verification or SMS One-Time Password</p>
 address. You will receive your PIN mailer in 3 working days.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To request a PIN mailer, visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
-Select 'Services' on the top scroll bar &gt; Select 'Reset password'. Enter
-your 'NRIC or FIN number' and 'Date of issue'.</p>
+<p>To request a PIN mailer, <a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
+</li>
+<li>
+<p>Then, enter your 'NRIC or FIN number' and 'Date of issue'.</p>
 </li>
 </ul>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Resetting your Singpass password with Face Verification</p>
+<p>Learn more on how to reset your Singpass password with Face Verification</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tfYvC7Ox3gY?si=r8Y70ln8Sasp5Mqe"></iframe>
 </div>
-</li>
-</ul>
 <p></p>
