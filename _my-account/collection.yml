@@ -2,6 +2,9 @@ collections:
   my-account:
     output: true
     order:
+      - Trouble logging in/.keep
+      - Trouble logging in/Forgot password.md
+      - Trouble logging in/Can't log in when using agencies digital services.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Who is eligible for Singpass?.md
@@ -18,8 +21,5 @@ collections:
       - Setting up Singpass app/Mobile number not registered with Singpass.md
       - Setting up Singpass app/Additional verification.md
       - Setting up Singpass app/SMS or Face Verification after set up.md
-      - Trouble logging in/Forgot password.md
-      - Trouble logging in/.keep
-      - Trouble logging in/Can't log in when using agencies digital services.md
       - Managing my Singpass account/.keep
       - Managing my Singpass account/Change Singpass ID.md
