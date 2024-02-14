@@ -1,9 +1,7 @@
 logo: /images/Site assets/help_center_logo.svg
 links:
-  - title: Register And Set Up
-    collection: register-and-set-up
-  - title: My Account (copy)
-    url: /permalink
+  - title: My Account
+    url: /my-account
     sublinks:
       - title: Registration
         url: /permalink
