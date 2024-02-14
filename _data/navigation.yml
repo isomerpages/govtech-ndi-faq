@@ -9,6 +9,8 @@ links:
         url: /permalink
       - title: Managing my account details
         url: /permalink
+  - title: My account
+    collection: my-account
   - title: Using Singpass
     url: /permalink
     sublinks: []
