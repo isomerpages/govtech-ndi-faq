@@ -10,8 +10,8 @@ third_nav_title: Register for Singpass
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
-Select 'Reset password' under Services</p>
+<p><a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">Click here</a> and
+fill in your details</p>
 </li>
 <li>
 <p>A new PIN mailer will then be sent to your registered overseas address
