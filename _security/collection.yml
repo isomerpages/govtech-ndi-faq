@@ -1,4 +1,5 @@
 collections:
   security:
     output: true
-    order: []
+    order:
+      - General information/.keep
