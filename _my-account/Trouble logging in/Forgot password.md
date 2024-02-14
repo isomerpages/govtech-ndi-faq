@@ -41,7 +41,13 @@ your 'NRIC or FIN number' and 'Date of issue'.</p>
 </ul>
 </li>
 </ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Resetting your Singpass password with Face Verification</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gnfja8sqy_M?si=5w6LwJEZckMxNUNp"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tfYvC7Ox3gY?si=r8Y70ln8Sasp5Mqe"></iframe>
 </div>
+</li>
+</ul>
 <p></p>
