@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Trouble logging in/.keep
-      - Trouble logging in/Forgot or reset password.md
+      - Trouble logging in/Forgot password.md
       - Trouble logging in/Can't log in when using agencies digital services.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
