@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Setting up Singpass app
 ---
+<p><strong>What do I need to set up Singpass app?</strong>
+</p>
+<p>You will require your smartphone, an Internet connection, and a registered
+Singpass account.</p>
