@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Trouble logging in
 ---
-<p><strong>I forgot my Singpass password. How do I reset it?</strong>
+<h4>I forgot my Singpass password. How do I reset it?</h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tfYvC7Ox3gY?si=r8Y70ln8Sasp5Mqe"></iframe>
+</div>
+<p><strong>If you have set up your Singpass 2FA, you can reset your password instantly online:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you have set up your Singpass 2FA, you can reset your password instantly
-online:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
@@ -25,24 +26,14 @@ or SMS One-Time Password</p>
 <p></p>
 </li>
 </ol>
-</li>
-<li>
-<p>Alternatively, you may request for a PIN mailer to be sent to your registered
-address. You will receive your PIN mailer in 3 working days.</p>
-<ul data-tight="true" class="tight">
+<p><strong>Alternatively, you may request for a PIN mailer to be sent to your registered address. You will receive your PIN mailer in 3 working days.</strong>
+</p>
+<ol data-tight="true" class="tight">
 <li>
 <p>To request a PIN mailer, <a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 </li>
 <li>
 <p>Enter your 'NRIC or FIN number' and 'Date of issue'.</p>
 </li>
-</ul>
-</li>
-</ul>
-<hr>
-<p></p>
-<p>Learn more on how to reset your Singpass password with Face Verification</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tfYvC7Ox3gY?si=r8Y70ln8Sasp5Mqe"></iframe>
-</div>
+</ol>
 <p></p>
