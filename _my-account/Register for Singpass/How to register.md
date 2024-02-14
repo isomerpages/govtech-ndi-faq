@@ -5,7 +5,7 @@ variant: tiptap
 description: How do I register for a Singpass account?
 third_nav_title: Register for Singpass
 ---
-<h4>I am living in Singapore. How do I register for a Singpass account?</h4>
+<h4>How do I register for a Singpass account?</h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
