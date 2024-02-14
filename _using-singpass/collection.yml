@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Sign with Singpass/What is Sign with Singpass.md
+      - Sign with Singpass/What is Sign with Singpass?.md
       - Sign with Singpass/.keep
       - Digital IC/What is the Digital IC?.md
       - Digital IC/.keep
