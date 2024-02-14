@@ -2,4 +2,5 @@ collections:
   my-account:
     output: true
     order:
+      - Register and set up/Registering for a Singpass account.md
       - Register and set up/.keep
