@@ -2,5 +2,5 @@ collections:
   security:
     output: true
     order:
-      - 2FA (2 Factor Authentication)/.keep
+      - 2FA Two Factor Authentication/.keep
       - General information/.keep
