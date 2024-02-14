@@ -1,8 +1,0 @@
-collections:
-  eg-account-security:
-    output: true
-    order:
-      - Reset Password MOCK PAGE.md
-      - Example Register for account/Non Singaporeans & Foreigners.md
-      - Example Register for account/.keep
-      - Example Register for account/General registration.md
