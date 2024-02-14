@@ -94,9 +94,10 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
+        - title: <a href="https://www.w3schools.com"> Infobox </a>
+          description: <a href="https://www.w3schools.com">Visit W3Schools</a>
         - title: Infobox
-          description: |
-            <a href="https://www.w3schools.com">Visit W3Schools</a>
+          description: Infobox description
         - title: Infobox
           description: Infobox description
         - title: Infobox
