@@ -1,4 +1,5 @@
 collections:
   using-singpass:
     output: true
-    order: []
+    order:
+      - MyInfo/.keep
