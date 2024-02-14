@@ -5,75 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Setting up Singpass app
 ---
-<h4>Downloading Singpass app</h4>
+<h4>Download the Singpass app</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download the Singpass app from the links to the official app stores below:</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Apple iPhones</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Android phones</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Download the Singpass app from the official app store links below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For Apple iPhones:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="download on the Apple app store" src="/images/appStore_badge_Apple.png">
+<img style="width: 20%;" height="auto" width="100%" alt="download on the apple app store" src="/images/Site assets/appStore_badge_Apple.png">
 </div>
+</li>
+<li>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="get it on Google Play" src="/images/appStore_badge_Google.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Explore it on Huawei AppGallery" src="/images/appStore_badge_Huawei.png">
-</div>
+</li>
+</ul>
 <p></p>
 </li>
 <li>
