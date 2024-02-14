@@ -24,11 +24,9 @@ to update your address with the relevant authorities, please click <a href="http
 <h4>To register for a Singpass account</h4>
 <p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
 Select 'Register for Singpass' under Services</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Register instantly with Singpass Face Verification or Request for a One-Time
 Password PIN mailer</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>The One-Time Password PIN mailer will be mailed to your registered address
 within 3 working days.</p>
