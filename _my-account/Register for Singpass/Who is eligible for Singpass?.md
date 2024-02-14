@@ -5,55 +5,40 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<p>The minimum age requirement is <strong>15 years old</strong>.</p>
+<p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Singapore Citizen and Permanent Resident</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Employment Pass and Personalised Employment Pass holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>EntrePass holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>S Pass holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Long Term Visit Pass-Plus (LTVP+) holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Long Term Visit Pass holders</p>
+</li>
+<li>
 <p>Work Permit holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Student Pass holders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Immigration Exemption Order holders</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
+<hr>
+<p>For more information, please refer to the <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>instructional guide</u></a>.</p>
 <p></p>
