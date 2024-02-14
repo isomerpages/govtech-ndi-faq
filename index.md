@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Singpass Help Centre
-description: An Isomer site of the Singapore Government
+description: Get help with Singpass problems and issues. Browse or search our
+  Help Centre to get official answers to your Singpass questions.
 image: /images/Site assets/Singpass_logo.svg
 permalink: /
 notification: ""
