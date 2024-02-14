@@ -1,14 +1,5 @@
 logo: /images/Site assets/help_center_logo.svg
 links:
-  - title: My Account
-    url: /my-account
-    sublinks:
-      - title: Registration & set up
-        url: /page
-      - title: Trouble with my account
-        url: /permalink
-      - title: Managing my account details
-        url: /permalink
   - title: My account
     collection: my-account
   - title: Using Singpass
