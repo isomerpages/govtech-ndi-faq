@@ -21,7 +21,7 @@ third_nav_title: Setting up Singpass app
 </p>
 </li>
 </ul>
-<p>Always check that the developer is <strong>Government Technology Agency</strong> before
+<p>Always check that the developer is Government Technology Agency before
 you download the app.</p>
 <h4>Set up your Singpass app</h4>
 <p>After downloading, launch the Singpass app and complete a one-time setup.
