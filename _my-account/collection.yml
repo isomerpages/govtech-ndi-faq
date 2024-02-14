@@ -2,7 +2,7 @@ collections:
   my-account:
     output: true
     order:
-      - Register for Singpass/Why I am prompted to enter a verification code.md
+      - Register for Singpass/Verification code prompt.md
       - Register for Singpass/Check application status.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
