@@ -5,25 +5,18 @@ variant: markdown
 description: Register for a Singpass account
 third_nav_title: Registering for Singpass
 ---
-<h4>Before you register for a Singpass account, please complete these two steps:</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Check that you fulfil the following eligibility requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You are at least 15 years old,</p>
-</li>
-<li>
-<p>You are a Singapore Citizen or Permanent Resident or Foreign Identification
-Number (FIN) holder.&nbsp;</p>
-</li>
-</ul>
-</li>
-<li>
+<h4> Before you register for a Singpass account, please complete these two steps:</h4>
+
+<h5>Check that you fulfil the following eligibility requirements: </h5>
+
+1.  You are at least 15 years old 
+2.  You are a Singapore Citizen or Permanent Resident or Foreign Identification
+3.  Number (FIN) holder.
+	
 <p>Ensure that the address&nbsp;had been updated with the relevant authorities.</p>
 <p></p>
-</li>
-</ol>
+
+
 <h4>To register for a Singpass account</h4>
 <ul data-tight="true" class="tight">
 <li>
