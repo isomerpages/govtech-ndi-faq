@@ -20,8 +20,8 @@ password page)</p>
 <p>A new PIN mailer will then be sent to your registered address</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>It will arrive within 3 working days for local address and 10 working
-days for overseas address (depending on the overseas postal services)</p>
+<p>It will arrive within 3 working days for a local address and 10 working
+days for an overseas address (depending on the overseas postal services)</p>
 </li>
 </ul>
 </li>
