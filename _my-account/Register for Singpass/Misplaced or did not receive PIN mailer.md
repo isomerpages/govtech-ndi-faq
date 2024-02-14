@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<p><em>I have misplaced (or did not receive) my PIN mailer, what should I do?</em>
+<p><strong>I have misplaced (or did not receive) my PIN mailer, what should I do?</strong>
 </p>
 <h4>Request a new PIN mailer from Singpass</h4>
 <ol data-tight="true" class="tight">
