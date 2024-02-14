@@ -2,4 +2,5 @@ collections:
   general-info:
     output: true
     order:
+      - About Singpass/What is Singpass?.md
       - About Singpass/.keep
