@@ -23,7 +23,7 @@ Number (FIN) holder.</p>
 <p>Ensure that your address had been updated with the relevant authorities.</p>
 </li>
 </ol>
-<h4><br>To register for a Singpass account</h4>
+<h4>To register for a Singpass account</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
