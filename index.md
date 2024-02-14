@@ -96,7 +96,7 @@ sections:
       infoboxes:
         - title: <a href="https://www.w3schools.com"> Infobox </a>
           description: <a href="https://www.w3schools.com">Visit W3Schools</a>
-        - title: Infobox
+        - title: hello
           description: Infobox description
         - title: Infobox
           description: Infobox description
