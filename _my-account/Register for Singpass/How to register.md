@@ -37,7 +37,8 @@ Password PIN mailer</p>
 </li>
 <li>
 <p>The One-Time Password PIN mailer will be mailed to your registered address
-within 3 working days.</p>
+within 3 working days for a local address and 10 working days for an overseas
+address (depending on the overseas postal services).</p>
 </li>
 </ul>
 <p></p>
