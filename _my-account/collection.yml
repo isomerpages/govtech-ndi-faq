@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Managing my Singpass account/Change Singpass ID.md
       - Managing my Singpass account/.keep
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
