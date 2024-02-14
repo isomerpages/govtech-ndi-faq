@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MyInfo
 ---
+<h4>MyInfo</h4>
 <p>MyInfo is a service that allows Singpass users to manage their personal
 data and pre-fill forms, with their consent, in digital services transactions.
 This includes data that is retrieved across participating Government agencies.</p>
