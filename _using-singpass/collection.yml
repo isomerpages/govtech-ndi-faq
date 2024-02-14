@@ -2,4 +2,5 @@ collections:
   using-singpass:
     output: true
     order:
+      - MyInfo/What is Myinfo?.md
       - MyInfo/.keep
