@@ -6,6 +6,13 @@ description: ""
 third_nav_title: Register for Singpass
 ---
 <h4>How do I check on my application for a Singpass account?</h4>
-<p>To check on your application status, visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
-Select '<strong>Services</strong>' on the top scroll bar &gt; Select '<strong>Check Status</strong>'
-&gt; Enter your NRIC or FIN Number.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To check on your application status, <a href="https://www.singpass.gov.sg/home/ui/check-application-status/check-application-form" rel="noopener noreferrer nofollow" target="_blank">click here</a> 
+</p>
+</li>
+<li>
+<p>Enter your NRIC or FIN Number.</p>
+</li>
+</ol>
+<p></p>
