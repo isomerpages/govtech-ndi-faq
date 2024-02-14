@@ -5,7 +5,7 @@ variant: tiptap
 description: Register for a Singpass account
 third_nav_title: Register for Singpass
 ---
-<h4>Before you register</h4>
+<h4>Before you register for a Singpass account</h4>
 <p>Check that you fulfil the following eligibility requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
