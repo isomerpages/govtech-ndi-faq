@@ -19,11 +19,15 @@ Number (FIN) holder.</p>
 <p>Ensure that the address on your NRIC or FIN card is correct. If you need
 to update your address with the relevant authorities, please click <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss157 MuiTypography-colorPrimary" rel="noreferrer" target="_blank">here</a>.</p>
 <h4>To register for a Singpass account</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
 Select 'Register for Singpass' under Services</p>
+</li>
+<li>
 <p>Register instantly with Singpass Face Verification or Request for a One-Time
 Password PIN mailer</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>The One-Time Password PIN mailer will be mailed to your registered address
 within 3 working days.</p>
