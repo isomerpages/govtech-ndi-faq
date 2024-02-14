@@ -32,13 +32,11 @@ Select 'Register for Singpass' under Services</p>
 <li>
 <p>Register instantly with Singpass Face Verification or Request for a One-Time
 Password PIN mailer</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>The One-Time Password PIN mailer will be mailed to your registered overseas
 address within 10 working days (depending on overseas postal services).</p>
 <p></p>
-</li>
-</ul>
 </li>
 </ul>
 <hr>
