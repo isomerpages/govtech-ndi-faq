@@ -1,4 +1,5 @@
 collections:
   general-info:
     output: true
-    order: []
+    order:
+      - About Singpass/.keep
