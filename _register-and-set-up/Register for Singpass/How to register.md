@@ -5,8 +5,12 @@ variant: tiptap
 description: Register for a Singpass account
 third_nav_title: Register for Singpass
 ---
-<h4>Before you register for a Singpass account</h4>
+<h4>Before you register:</h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Check that you fulfil the following eligibility requirements:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>You are at least 15 years old</p>
@@ -19,15 +23,19 @@ third_nav_title: Register for Singpass
 </li>
 </ul>
 <p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>Ensure that the address on your NRIC or FIN card is correct. If you need
 to update your address with the relevant authorities, please click <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss157 MuiTypography-colorPrimary" rel="noreferrer" target="_blank">here</a>.</p>
+</li>
+</ol>
 <p></p>
-<h4>To register for a Singpass account</h4>
-<ul data-tight="true" class="tight">
+<h4>To register for a Singpass account:</h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Visit&nbsp;<a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>&nbsp;&gt;
 Select 'Register for Singpass' under Services</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Register instantly with Singpass Face Verification or Request for a One-Time
 Password PIN mailer</p>
@@ -37,7 +45,10 @@ Password PIN mailer</p>
 within 3 working days.</p>
 </li>
 </ul>
-<p>
-<br>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
+</li>
+<li>
+<p>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
 step-by-step instructions on how to register for a Singpass account.&nbsp;</p>
+</li>
+</ol>
 <p></p>
