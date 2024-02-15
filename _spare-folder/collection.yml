@@ -1,0 +1,4 @@
+collections:
+  spare-folder:
+    output: true
+    order: []
