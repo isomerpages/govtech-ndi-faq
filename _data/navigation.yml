@@ -9,6 +9,8 @@ links:
     sublinks:
       - title: Features & functions
         url: /using-singpass/overview/
+      - title: Setting up Singpass app
+        url: /using-singpass/setting-up-singpass-app/download-setup-app/
   - title: General info
     collection: general-info
   - title: Contact Us
