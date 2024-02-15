@@ -7,7 +7,7 @@ third_nav_title: Digital IC
 ---
 <h4>Digital IC</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J5GrO-RQybc?si=f93iFIFj7hSw4jVT"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J5GrO-RQybc?si=FfpxJhQMTqEaxK77"></iframe>
 </div>
 <p>The Digital IC is a feature in your Singpass app that displays your name,
 NRIC number/FIN, photograph, date of birth, sex, nationality, date of issue,
