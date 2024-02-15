@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Trouble logging in
 ---
-<h4>I did not receive a One-Time Password after multiple requests. What should I do?</h4>
+<h3>I did not receive a One-Time Password after multiple requests. What should I do?</h3>
 <p>Please try again after 5 minutes, as the mobile network may be congested.
 If you are still unable to receive One-Time Passwords, please contact Singpass
 Helpdesk at <a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>support@singpass.gov.sg</u></a> or
