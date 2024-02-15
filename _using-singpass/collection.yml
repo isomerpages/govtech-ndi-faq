@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Setting up Singpass app/Additional verification during set up.md
       - Setting up Singpass app/Can I skip the additional verification?.md
       - Setting up Singpass app/Collection of biometric data during Face
         Verification.md
