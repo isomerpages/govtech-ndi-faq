@@ -7,11 +7,11 @@ description: MyInfo is a service that allows Singpass users to manage their
   transactions...
 third_nav_title: Myinfo
 ---
-<h3>MyInfo</h3>
+<h3>Myinfo</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NGj3XXU-HgE?si=nDfmglKWNkyTMMvu"></iframe>
 </div>
-<p>MyInfo is a service that allows Singpass users to manage their personal
+<p>Myinfo is a service that allows Singpass users to manage their personal
 data and pre-fill forms, with their consent, in digital services transactions.
 This includes data that is retrieved across participating Government agencies.</p>
 <p>This means that users need only provide personal data once to the digital
