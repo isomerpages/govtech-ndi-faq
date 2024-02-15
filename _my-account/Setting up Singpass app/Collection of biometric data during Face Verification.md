@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Setting up Singpass app
 ---
-<h4>Does Singpass collect biometric data during the use of Singpass Face Verification?</h4>
+<h3>Does Singpass collect biometric data during the use of Singpass Face Verification?</h3>
 <p>Yes. Your facial data is collected and used for purposes such as authenticating
 your identity and improving Singpass Face Verification.</p>
 <p>Unless prohibited by law, facial data may be:</p>
