@@ -2,6 +2,7 @@ collections:
   spare-folder:
     output: true
     order:
+      - Request expired right after scanning QR code.md
       - Difficulty when logging into a government app.md
       - Trouble logging in with Singpass account.md
       - Trouble logging in with Singpass app.md
