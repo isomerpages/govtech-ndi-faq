@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sign with Singpass
 ---
-<h4>Sign with Singpass</h4>
+<h3>Sign with Singpass</h3>
 <p>Sign with Singpass allows Singpass users to digitally sign documents such
 as contracts and agreements with signing certificates issued by the National
 Certification Authority, Assurity Trusted Solutions Pte. Ltd. contained
