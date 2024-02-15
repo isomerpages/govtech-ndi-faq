@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<h4>I have misplaced (or did not receive) my PIN mailer, what should I do?</h4>
-<p><strong>You can request for a new PIN mailer to be sent to you</strong>
-</p>
+<h3>I have misplaced (or did not receive) my PIN mailer, what should I do?</h3>
+<h4>You can request for a new PIN mailer to be sent to you</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">Click here</a> (reset
