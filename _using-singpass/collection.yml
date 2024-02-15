@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Setting up Singpass app/I have deactivated my phone's front camera.md
       - Setting up Singpass app/Installing on multiple devices.md
       - Setting up Singpass app/Download & set up Singpass app.md
       - Setting up Singpass app/.keep
