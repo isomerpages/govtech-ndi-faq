@@ -2,17 +2,13 @@ collections:
   my-account:
     output: true
     order:
-      - Setting up my Singpass app/What do I need to set up Singpass app?.md
-      - Setting up my Singpass app/Download & set up Singpass app.md
-      - Setting up my Singpass app/Mobile number not registered with Singpass.md
-      - Setting up my Singpass app/Additional verification during set up.md
-      - Setting up my Singpass app/Can I skip the additional verification?.md
-      - Setting up my Singpass app/Collection of biometric data during Face
-        Verification.md
-      - Setting up my Singpass app/I have deactivated my phone's front camera.md
-      - Setting up my Singpass app/SMS or Face Verification after set up.md
-      - Setting up my Singpass app/Installing on multiple devices.md
-      - Setting up my Singpass app/.keep
+      - Trouble logging in/.keep
+      - Trouble logging in/Forgot password.md
+      - Trouble logging in/Did not receive OTP or One Time Password.md
+      - Trouble logging in/Trouble logging in with Singpass account.md
+      - Trouble logging in/Trouble logging in with Singpass app.md
+      - Trouble logging in/Difficulty when logging into a government app.md
+      - Trouble logging in/Request expired right after scanning QR code.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Who is eligible for Singpass?.md
@@ -23,12 +19,16 @@ collections:
       - Register for Singpass/Verification code prompt.md
       - Register for Singpass/One time account update.md
       - Register for Singpass/Issues with new MOM pass.md
-      - Trouble logging in/.keep
-      - Trouble logging in/Forgot password.md
-      - Trouble logging in/Did not receive OTP or One Time Password.md
-      - Trouble logging in/Trouble logging in with Singpass account.md
-      - Trouble logging in/Trouble logging in with Singpass app.md
-      - Trouble logging in/Difficulty when logging into a government app.md
-      - Trouble logging in/Request expired right after scanning QR code.md
+      - Setting up my Singpass app/.keep
+      - Setting up my Singpass app/What do I need to set up Singpass app?.md
+      - Setting up my Singpass app/Download & set up Singpass app.md
+      - Setting up my Singpass app/Mobile number not registered with Singpass.md
+      - Setting up my Singpass app/Additional verification during set up.md
+      - Setting up my Singpass app/Can I skip the additional verification?.md
+      - Setting up my Singpass app/Collection of biometric data during Face
+        Verification.md
+      - Setting up my Singpass app/I have deactivated my phone's front camera.md
+      - Setting up my Singpass app/SMS or Face Verification after set up.md
+      - Setting up my Singpass app/Installing on multiple devices.md
       - Managing my Singpass account/.keep
       - Managing my Singpass account/Change Singpass ID.md
