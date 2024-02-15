@@ -2,10 +2,10 @@ collections:
   my-account:
     output: true
     order:
-      - Trouble logging in/Did not receive One Time Password.md
       - Trouble logging in/.keep
       - Trouble logging in/Forgot password.md
       - Trouble logging in/Can't log in with Singpass to digital services.md
+      - Trouble logging in/Did not receive One Time Password.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
       - Register for Singpass/Registering from overseas.md
