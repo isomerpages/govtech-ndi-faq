@@ -1,5 +1,0 @@
-collections:
-  my-account:
-    output: true
-    order:
-      - Trouble logging in/.keep
