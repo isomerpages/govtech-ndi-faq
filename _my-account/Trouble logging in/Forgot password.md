@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Trouble logging in
 ---
 <h3>I forgot my Singpass password. How do I reset it?</h3>
-<p></p>
+<p>Video guide:</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tfYvC7Ox3gY?si=r8Y70ln8Sasp5Mqe"></iframe>
 </div>
