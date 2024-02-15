@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Setting up Singpass app/.keep
       - Overview.md
       - MyInfo/.keep
       - MyInfo/What is Myinfo?.md
