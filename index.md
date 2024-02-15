@@ -40,7 +40,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: I want to report a scam related to Singpass I wan
-          description: Card description
+          description: Card description I want to report a scam related to Singpass I want
+            to report a
           linktext: Learn more
           url: ""
   - infopic:
