@@ -2,7 +2,7 @@ collections:
   security:
     output: true
     order:
-      - General security/Keeping my Singpass account safe.md
+      - General security/How can I keep my Singpass account safe?.md
       - General security/.keep
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
