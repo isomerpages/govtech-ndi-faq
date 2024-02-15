@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Setting up Singpass app/SMS or Face Verification after set up.md
       - Setting up Singpass app/Mobile number not registered with Singpass.md
       - Setting up Singpass app/What do I need to set up Singpass app?.md
       - Setting up Singpass app/.keep
