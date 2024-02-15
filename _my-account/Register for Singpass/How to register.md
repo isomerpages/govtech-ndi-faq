@@ -8,7 +8,7 @@ third_nav_title: Register for Singpass
 <h3>How do I register for a Singpass account?</h3>
 <p>Video guide:</p>
 <div class="iframe-wrapper">
-<iframe height="270" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/exCzf_6llbM?si=4vR89jBxZCjGM7qx"></iframe>
 </div>
 <h4>Before you register for a Singpass account:</h4>
 <p>Check that you fulfil the following eligibility requirements:</p>
