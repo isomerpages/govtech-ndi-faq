@@ -27,6 +27,7 @@ details.</p>
 that private organisations have their separate operational considerations
 and may need time to accept and onboard new verification methods.</p>
 <p></p>
+<hr>
 <p><em>Tags: identity, card</em>
 </p>
 <p></p>
