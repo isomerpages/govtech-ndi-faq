@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Setting up my Singpass app/What do I need to set up Singpass app?.md
       - Setting up my Singpass app/Download & set up Singpass app.md
       - Setting up my Singpass app/Mobile number not registered with Singpass.md
       - Setting up my Singpass app/Additional verification during set up.md
