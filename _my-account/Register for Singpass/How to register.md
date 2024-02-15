@@ -6,7 +6,7 @@ description: How do I register for a Singpass account?
 third_nav_title: Register for Singpass
 ---
 <h3>How do I register for a Singpass account?</h3>
-<h4>Before you register for a Singpass account</h4>
+<h4>Before you register for a Singpass account:</h4>
 <p>Check that you fulfil the following eligibility requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,7 +19,7 @@ Number (FIN) holder.</p>
 </ul>
 <p>Ensure that the address on your NRIC or FIN card is correct. If you need
 to update your address with the relevant authorities, please click <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss157 MuiTypography-colorPrimary" rel="noreferrer" target="_blank">here</a>.</p>
-<h4>To register for a Singpass account</h4>
+<h4>To register for a Singpass account:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
