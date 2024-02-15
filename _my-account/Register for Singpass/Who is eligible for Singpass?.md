@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<h4>Who is eligible for Singpass?</h4>
+<h3>Who is eligible for Singpass?</h3>
 <p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
 <ul data-tight="true" class="tight">
