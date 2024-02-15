@@ -2,4 +2,5 @@ collections:
   spare-folder:
     output: true
     order:
+      - How to register.md
       - Change Singpass ID.md
