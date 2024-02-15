@@ -2,5 +2,6 @@ collections:
   spare-folder:
     output: true
     order:
+      - Registering from overseas.md
       - How to register.md
       - Change Singpass ID.md
