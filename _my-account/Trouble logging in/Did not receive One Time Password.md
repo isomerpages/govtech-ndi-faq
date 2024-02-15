@@ -9,4 +9,4 @@ third_nav_title: Trouble logging in
 <p>Please try again after 5 minutes, as the mobile network may be congested.
 If you are still unable to receive One-Time Passwords, please contact Singpass
 Helpdesk at <a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>support@singpass.gov.sg</u></a> or
-+65 6335 3533.</p>
+<a href="tel:+6563353533" rel="noopener noreferrer nofollow" target="_blank">+65 6335 3533</a>.</p>
