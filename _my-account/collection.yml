@@ -2,11 +2,11 @@ collections:
   my-account:
     output: true
     order:
-      - Trouble logging in/Difficulty logging into a government app.md
       - Trouble logging in/.keep
       - Trouble logging in/Forgot password.md
-      - Trouble logging in/Can't log in with Singpass to digital services.md
       - Trouble logging in/Did not receive OTP or One Time Password.md
+      - Trouble logging in/Can't log in with Singpass to digital services.md
+      - Trouble logging in/Difficulty logging into a government app.md
       - Trouble logging in/Request has expired right after scanning QR code.md
       - Register for Singpass/.keep
       - Register for Singpass/How to register.md
