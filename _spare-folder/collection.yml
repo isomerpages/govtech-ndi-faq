@@ -2,8 +2,6 @@ collections:
   spare-folder:
     output: true
     order:
-      - Managing my Singpass account/Change Singpass ID.md
-      - Managing my Singpass account/.keep
       - Trouble logging in/.keep
       - Trouble logging in/Forgot password.md
       - Trouble logging in/Did not receive OTP or One Time Password.md
@@ -11,6 +9,8 @@ collections:
       - Trouble logging in/Trouble logging in with Singpass app.md
       - Trouble logging in/Difficulty when logging into a government app.md
       - Trouble logging in/Request expired right after scanning QR code.md
+      - Managing my Singpass account/.keep
+      - Managing my Singpass account/Change Singpass ID.md
       - One time account update.md
       - Verification code prompt.md
       - Issues with new MOM pass.md
