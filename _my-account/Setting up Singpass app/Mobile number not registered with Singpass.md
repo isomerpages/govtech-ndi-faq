@@ -5,27 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Setting up Singpass app
 ---
-<p><strong>I have not registered my mobile number with Singpass (i.e. I do not have SMS FA). How can I set up Singpass app on my mobile device?</strong>
-</p>
-<p></p>
+<h3>I have not registered my mobile number with Singpass (i.e. I do not have SMS FA). How can I set up Singpass app on my mobile device?</h3>
 <p>If you have not set up your 2FA, you can still set up the Singpass app
-easily.
-<br>
-<br>Simply follow these steps:</p>
+easily.</p>
+<h4>Simply follow these steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download the Singpass app from the official app stores</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For Apple iPhones: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"><u>App store</u></a>
+<p>For Apple iOS devices: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"><u>App store</u></a>
 </p>
 </li>
 <li>
-<p>For Android phones: <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a>
+<p>For Android devices: <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a>
 </p>
 </li>
 <li>
-<p>For Huawei phones: <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank"><u>AppGallery</u></a>
+<p>For Huawei devices: <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank"><u>AppGallery</u></a>
 </p>
 </li>
 </ul>
