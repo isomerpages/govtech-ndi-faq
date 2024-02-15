@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Setting up my Singpass app/I have deactivated my phone's front camera.md
       - Setting up my Singpass app/SMS or Face Verification after set up.md
       - Setting up my Singpass app/Installing on multiple devices.md
       - Setting up my Singpass app/.keep
