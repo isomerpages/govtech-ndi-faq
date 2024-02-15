@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Trouble logging in/.keep
-      - Trouble logging in/Request expired right after scanning QR code.md
