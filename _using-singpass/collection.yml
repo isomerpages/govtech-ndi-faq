@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Set up Singpass app/.keep
+      - Singpass app/.keep
       - Myinfo/.keep
       - Myinfo/What is Myinfo?.md
       - Digital IC/.keep
