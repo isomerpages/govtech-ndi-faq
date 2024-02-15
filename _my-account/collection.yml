@@ -2,7 +2,7 @@ collections:
   my-account:
     output: true
     order:
-      - Trouble logging in/Can't log in using Singpass app.md
+      - Trouble logging in/Can't log in with Singpass app.md
       - Trouble logging in/.keep
       - Trouble logging in/Forgot password.md
       - Trouble logging in/Did not receive OTP or One Time Password.md
