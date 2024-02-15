@@ -42,11 +42,6 @@ address (depending on the overseas postal services).</p>
 <p></p>
 <p></p>
 <hr>
-<p>Need more guidance?</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
+<p>Need more guidance? Refer to our <a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a> for
 step-by-step instructions on how to register for a Singpass account.&nbsp;</p>
-</li>
-</ul>
 <p></p>
