@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Setting up my Singpass app/Can I skip the additional verification?.md
       - Setting up my Singpass app/Collection of biometric data during Face
         Verification.md
       - Setting up my Singpass app/I have deactivated my phone's front camera.md
