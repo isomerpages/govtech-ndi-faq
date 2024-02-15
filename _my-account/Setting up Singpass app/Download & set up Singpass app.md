@@ -5,21 +5,20 @@ variant: tiptap
 description: Downloading and setting up your Singpass app
 third_nav_title: Setting up Singpass app
 ---
-<p><strong>How do I download and set up my Singpass app?</strong>
-</p>
+<h3>How do I download and set up my Singpass app?</h3>
 <h4>Download the Singpass app</h4>
 <p>Download the Singpass app from the official app store links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For Apple iPhones: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank">App store</a>
+<p>For Apple iOS devices: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank">App store</a>
 </p>
 </li>
 <li>
-<p>For Android phones: <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
+<p>For Android devices: <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
 </p>
 </li>
 <li>
-<p>For Huawei phones: <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank">AppGallery</a>
+<p>For Huawei devices: <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank">AppGallery</a>
 </p>
 </li>
 </ul>
