@@ -7,7 +7,7 @@ description: MyInfo is a service that allows Singpass users to manage their
   transactions...
 third_nav_title: MyInfo
 ---
-<h4>MyInfo</h4>
+<h3>MyInfo</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NGj3XXU-HgE?si=nDfmglKWNkyTMMvu"></iframe>
 </div>
