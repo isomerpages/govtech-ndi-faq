@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Singpass app/What is Singpass app?.md
       - Singpass app/.keep
       - Myinfo/.keep
       - Myinfo/What is Myinfo?.md
