@@ -51,7 +51,7 @@ of closing the browser window.</p>
 and transactional alerts promptly.</p>
 </li>
 </ul>
-<hr>
+<p></p>
 <p>To learn more about Singpass security measures and how you can play an
 active part in protecting your Singpass, please visit:<a href="https://go.gov.sg/even-safer-singpass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/even-safer-singpass</u></a>.</p>
 <p></p>
