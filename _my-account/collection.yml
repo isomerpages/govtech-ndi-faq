@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Register for Singpass/Registering from overseas.md
       - Register for Singpass/Who is eligible for Singpass?.md
       - Register for Singpass/Check application status.md
       - Register for Singpass/How to register.md
