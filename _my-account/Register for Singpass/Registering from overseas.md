@@ -5,9 +5,8 @@ variant: tiptap
 description: I am living overseas. How do I register for a Singpass account?
 third_nav_title: Register for Singpass
 ---
-<h4>I am living overseas. How do I register for a Singpass account?</h4>
-<p><strong>Before you register for a Singpass account</strong>
-</p>
+<h3>I am living overseas. How do I register for a Singpass account?</h3>
+<h4>Before you register for a Singpass account</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check that you fulfil the following eligibility requirements:</p>
@@ -25,8 +24,7 @@ Number (FIN) holder.</p>
 <p>Ensure that your address had been updated with the relevant authorities.</p>
 </li>
 </ol>
-<p><strong>To register for a Singpass account</strong>
-</p>
+<h4>To register for a Singpass account</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a> &gt;
@@ -43,5 +41,5 @@ address within 10 working days (depending on overseas postal services).</p>
 </li>
 </ul>
 <hr>
-<p>Refer to our&nbsp;<a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a>&nbsp;for
+<p>Need more guidance? Refer to our&nbsp;<a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guide</u></a>&nbsp;for
 step-by-step instructions on how to register for a Singpass account.</p>
