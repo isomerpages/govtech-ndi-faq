@@ -2,6 +2,7 @@ collections:
   spare-folder:
     output: true
     order:
+      - Did not receive OTP or One Time Password.md
       - Forgot password.md
       - One time account update.md
       - Verification code prompt.md
