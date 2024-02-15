@@ -1,5 +1,5 @@
 collections:
-  spare-folder:
+  my-account:
     output: true
     order:
       - Register for Singpass/Misplaced or did not receive PIN mailer.md
