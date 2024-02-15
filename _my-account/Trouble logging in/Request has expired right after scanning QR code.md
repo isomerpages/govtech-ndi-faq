@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Trouble logging in
 ---
-<h4>After I scan the QR code on the login page, my app launches and there is a message stating that “this request has expired”. What should I do?</h4>
+<h3>After I scan the QR code on the login page, my app launches and there is a message stating that “this request has expired”. What should I do?</h3>
 <p>Please ensure that your device is set to update the date and time automatically.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
