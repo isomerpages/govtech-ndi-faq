@@ -2,6 +2,7 @@ collections:
   spare-folder:
     output: true
     order:
+      - Misplaced or did not receive PIN mailer.md
       - Check application status.md
       - Who is eligible for Singpass?.md
       - Registering from overseas.md
