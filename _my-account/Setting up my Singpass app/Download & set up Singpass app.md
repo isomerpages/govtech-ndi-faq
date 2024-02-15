@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Setting up my Singpass app
 ---
 <h3>How do I download and set up my Singpass app?</h3>
-<h4>Download the Singpass app</h4>
+<h4>Download the Singpass app:</h4>
 <p>Download the Singpass app from the official app store links below:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,7 +24,7 @@ third_nav_title: Setting up my Singpass app
 </ul>
 <p>Always check that the developer is Government Technology Agency before
 you download the app.</p>
-<h4>Set up your Singpass app</h4>
+<h4>Set up your Singpass app:</h4>
 <p>After downloading, launch the Singpass app and complete a one-time setup.
 The steps are as follows:</p>
 <p><strong>For local users with a mobile number registered with Singpass:</strong>
