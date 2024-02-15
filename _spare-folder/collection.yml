@@ -1,4 +1,5 @@
 collections:
   spare-folder:
     output: true
-    order: []
+    order:
+      - Change Singpass ID.md
