@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Register for Singpass
 ---
-<h4>Why do I have to perform a one-time account update upon logging in?</h4>
+<h3>Why do I have to perform a one-time account update upon logging in?</h3>
 <p>This is to better protect your Singpass account. You need to provide and
 verify your personal details, and select your preferred mode of contact
 (email or mobile number) to receive prompt notifications when there are
