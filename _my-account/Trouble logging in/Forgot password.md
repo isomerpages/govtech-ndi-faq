@@ -26,7 +26,7 @@ or SMS One-Time Password</p>
 <p></p>
 </li>
 </ol>
-<h4>Alternatively, you may request for a PIN mailer to be sent to your registered address. </h4>
+<h4>Alternatively, you may request for a PIN mailer to be sent to your registered address.</h4>
 <p>You will receive your PIN mailer in 3 working days.</p>
 <ol data-tight="true" class="tight">
 <li>
