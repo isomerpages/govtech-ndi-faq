@@ -16,5 +16,5 @@ service, instead of repeatedly providing data for every online transaction.
 Users can view their own personal data profile on their Singpass app under
 Profile.</p>
 <p></p>
-<p><em>Search tags: my, info</em>
+<p><em>Tags: my, info</em>
 </p>
