@@ -5,13 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: General security
 ---
-<h4>How can I keep my Singpass account safe?</h4>
+<h3>How can I keep my Singpass account safe?</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kbkKQONONmE?si=0BV2IejhU7pgaUZM"></iframe>
 </div>
-<p><strong>Here are some tips for you:</strong>
-</p>
+<h4>Here are some tips for you:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Set up Singpass 2FA (e.g. SMS-OTP or Singpass app), which provides an
