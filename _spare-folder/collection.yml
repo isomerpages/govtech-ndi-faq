@@ -2,6 +2,7 @@ collections:
   spare-folder:
     output: true
     order:
+      - Register for Singpass/One time account update.md
       - Register for Singpass/.keep
       - Trouble logging in/.keep
       - Trouble logging in/Forgot password.md
