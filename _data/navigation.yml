@@ -1,7 +1,5 @@
 logo: /images/Site assets/help_center_logo.svg
 links:
-  - title: My account
-    collection: my-account
   - title: Security
     collection: security
   - title: Using Singpass
