@@ -2,6 +2,7 @@ collections:
   spare-folder:
     output: true
     order:
+      - Register for Singpass/Misplaced or did not receive PIN mailer.md
       - Register for Singpass/Mobile number already registered.md
       - Register for Singpass/Issues with new MOM pass.md
       - Register for Singpass/Verification code prompt.md
