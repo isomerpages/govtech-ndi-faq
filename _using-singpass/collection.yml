@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Overview.md
       - Setting up Singpass app/.keep
       - Setting up Singpass app/Download & set up Singpass app.md
       - Setting up Singpass app/What do I need to set up Singpass app?.md
@@ -13,7 +14,6 @@ collections:
       - Setting up Singpass app/I have deactivated my phone's front camera.md
       - Setting up Singpass app/SMS or Face Verification after set up.md
       - Setting up Singpass app/Installing on multiple devices.md
-      - Overview.md
       - MyInfo/.keep
       - MyInfo/What is Myinfo?.md
       - Digital IC/.keep
