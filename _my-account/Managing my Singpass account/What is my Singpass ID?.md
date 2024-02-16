@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Managing my Singpass account
 ---
+<h3>What is my Singpass ID?</h3>
+<p>When you set up your Singpass account, your system-generated Singpass
+ID is your NRIC/FIN by default.</p>
