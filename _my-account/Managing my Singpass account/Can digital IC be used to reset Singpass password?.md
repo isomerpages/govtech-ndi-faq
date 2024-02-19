@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Managing my Singpass account
 ---
+<h3>Can my Digital IC on the Singpass app be used to reset my Singpass account password?</h3>
+<p>You will need to enter the date of issuance of your identity card/long
+term pass to reset your Singpass password online.</p>
