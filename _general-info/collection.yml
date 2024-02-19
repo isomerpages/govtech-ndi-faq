@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Problem with new pass issued by MOM.md
       - Registering from overseas.md
       - Use of overseas mobile number.md
       - Reset password for Singpass Foreign user Account.md
