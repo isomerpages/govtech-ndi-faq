@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - About Singpass/Feedback on translations.md
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
       - Singaporeans living overseas/.keep
