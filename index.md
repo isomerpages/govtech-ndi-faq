@@ -36,7 +36,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Card
-          description: Card description
+          description: Card description will go here
           linktext: Learn more
           url: ""
         - title: I want to report a scam related to Singpass I wan
