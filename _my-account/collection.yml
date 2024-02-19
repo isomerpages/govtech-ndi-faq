@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Suspending my account/Reactivating a suspended account.md
       - Suspending my account/.keep
       - Trouble logging in/.keep
       - Trouble logging in/Forgot (or reset) password.md
