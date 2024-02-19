@@ -5,8 +5,10 @@ collections:
       - Overview.md
       - Singpass app/.keep
       - Singpass app/What is Singpass app?.md
-      - Login and QR code/Using the QR code scanner.md
       - Login and QR code/.keep
+      - Login and QR code/Using the QR code scanner.md
+      - Login shortcuts/.keep
+      - Login shortcuts/What are Login Shortcuts?.md
       - Myinfo/.keep
       - Myinfo/What is Myinfo?.md
       - Myinfo/Myinfo Helpdesk contact details.md
@@ -15,10 +17,8 @@ collections:
       - My Cards/.keep
       - Sign with Singpass/.keep
       - Sign with Singpass/What is Sign with Singpass?.md
-      - Login shortcuts/What are Login Shortcuts?.md
-      - Login shortcuts/.keep
       - Inbox/.keep
-      - NS Benefits/What is the NS benefits feature?.md
       - NS Benefits/.keep
-      - Corppass/What is My Corporate Profile on Singpass app?.md
+      - NS Benefits/What is the NS benefits feature?.md
       - Corppass/.keep
+      - Corppass/What is My Corporate Profile on Singpass app?.md
