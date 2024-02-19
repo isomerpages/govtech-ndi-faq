@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Suspending your account/.keep
-      - Reactivating a suspended account.md
       - General security/How can I keep my Singpass account safe?.md
       - General security/.keep
       - 2FA Two Factor Authentication/.keep
