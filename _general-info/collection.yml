@@ -2,10 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Work pass holders/Problem with new pass issued by MOM.md
-      - Work pass holders/Access to Singpass with expired Work Permit.md
-      - Work pass holders/Occupation inaccurately reflected.md
-      - Work pass holders/.keep
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
@@ -13,6 +9,10 @@ collections:
       - Singaporeans living overseas/.keep
       - Singaporeans living overseas/Use of overseas mobile number.md
       - Singaporeans living overseas/Registering from overseas.md
+      - Work pass holders/.keep
+      - Work pass holders/Problem with new pass issued by MOM.md
+      - Work pass holders/Access to Singpass with expired Work Permit.md
+      - Work pass holders/Occupation inaccurately reflected.md
       - Singpass Foreign users/.keep
       - Singpass Foreign users/Singpass ID for Singpass Foreign user Account.md
       - Singpass Foreign users/Reset password for Singpass Foreign user
