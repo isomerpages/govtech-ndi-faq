@@ -9,8 +9,8 @@ third_nav_title: About Singpass
 <p>Refer to our&nbsp;<a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guides</u></a>&nbsp;for
 step-by-step instructions on how to register for a Singpass account and
 set up your 2FA.</p>
-<p>&nbsp;There are dedicated Singpass counters island-wide to assist you
-on the following:</p>
+<p>There are dedicated Singpass counters island-wide to assist you on the
+following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="my-account/register-and-set-up/how-to-register/" rel="noopener noreferrer nofollow" target="_blank"><u>Register for Singpass account</u></a>
