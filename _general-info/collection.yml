@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Work pass holders/Problem with new pass issued by MOM.md
       - Work pass holders/Access to Singpass with expired Work Permit.md
       - Work pass holders/Occupation inaccurately reflected.md
       - Work pass holders/.keep
