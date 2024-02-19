@@ -2,5 +2,6 @@ collections:
   general-info:
     output: true
     order:
+      - Singpass ID for Singpass Foreign user Account.md
       - About Singpass/What is Singpass?.md
       - About Singpass/.keep
