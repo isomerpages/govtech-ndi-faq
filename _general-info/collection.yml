@@ -2,7 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Singaporeans living overseas.md
       - Problem with new pass issued by MOM.md
       - Registering from overseas.md
       - Use of overseas mobile number.md
