@@ -2,10 +2,10 @@ collections:
   security:
     output: true
     order:
-      - Suspending your account/Reactivating a suspended account.md
-      - Suspending your account/.keep
-      - General security/How can I keep my Singpass account safe?.md
       - General security/.keep
+      - General security/How can I keep my Singpass account safe?.md
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
+      - Suspending your account/.keep
+      - Suspending your account/Reactivating a suspended account.md
