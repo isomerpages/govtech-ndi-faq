@@ -14,5 +14,14 @@ the old number.
 secondary users SMS-OTP will automatically be sent to the primary users
 new mobile number. There is no need for the secondary user to update Singpass
 separately.</p>
-<p></p>
+<h4>To update your mobile number:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Log into your account at <a href="https://go.gov.sg/singpass-login" rel="noopener" target="_blank"><u>Singpass Portal</u></a>
+</p>
+</li>
+<li>
+<p>Select 'Update Profile' icon</p>
+</li>
+</ul>
 <p></p>
