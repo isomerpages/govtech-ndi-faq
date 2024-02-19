@@ -5,6 +5,7 @@ collections:
       - Overview.md
       - Singpass app/.keep
       - Singpass app/What is Singpass app?.md
+      - Login and QR code/Using the QR code scanner.md
       - Login and QR code/.keep
       - Myinfo/.keep
       - Myinfo/What is Myinfo?.md
