@@ -9,9 +9,8 @@ third_nav_title: About Singpass
 <p>Refer to our&nbsp;<a href="https://go.gov.sg/singpass-guides" rel="noopener" target="_blank"><u>Instructional Guides</u></a>&nbsp;for
 step-by-step instructions on how to register for a Singpass account and
 set up your 2FA.</p>
-<p>&nbsp;</p>
-<p>There are dedicated Singpass counters island-wide to assist you on the
-following:</p>
+<p>&nbsp;There are dedicated Singpass counters island-wide to assist you
+on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="my-account/register-and-set-up/how-to-register/" rel="noopener noreferrer nofollow" target="_blank"><u>Register for Singpass account</u></a>
@@ -29,7 +28,6 @@ following:</p>
 <p>Update account information, e.g. mobile number</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>If you visiting a Singpass counter, please bring the following documents
 for verification purposes:</p>
 <table>
@@ -110,8 +108,7 @@ S-Pass)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Important Notes:</p>
+<p>&nbsp;Important Notes:</p>
 <p>Only original documents listed in the above table will be accepted at
 the Singpass counter for verification (Documents, such as In-Principle-
 Approval (IPA) Letter, police report for lost NRIC, ez-link card and senior
@@ -130,6 +127,5 @@ for an account on the following Monday after their work pass has been issued.</p
 </ul>
 <p>You are strictly not allowed to authorise another person to request/reset
 your Singpass on your behalf.</p>
-<p>&nbsp;</p>
 <p>Click&nbsp;<a href="https://go.gov.sg/singpass-counters" rel="noopener" target="_blank"><u>here</u></a>&nbsp;to
 locate the Singpass counter nearest to you.&nbsp;</p>
