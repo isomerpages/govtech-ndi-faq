@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Singaporeans living overseas
 ---
-<h3>I am an overseas user and already have my 2FA set up. What do I need to set up Singpass app on my mobile device?</h3>
+<h3>I am an overseas user. How can I set up Singpass app on my mobile device?</h3>
+<h4>If you already have 2FA (i.e. SMS-2FA) set up:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download the Singpass app from the official app store links below:</p>
@@ -37,7 +38,33 @@ Verification to activate the app.</p>
 </ul>
 </li>
 </ol>
-<p>
-<br>For more details, you may refer to the&nbsp;<a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_App_iOS_Guide.pdf" rel="noopener" target="_blank"><u>iOS instructional guide</u></a>&nbsp;or&nbsp;
+<p>For more details, you may refer to the&nbsp;<a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_App_iOS_Guide.pdf" rel="noopener" target="_blank"><u>iOS instructional guide</u></a>&nbsp;or&nbsp;
 <a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_App_Android_Guide.pdf" rel="noopener" target="_blank"><u>Android instructional guide</u> 
 </a>.</p>
+<h4>If you do not have 2FA (i.e. SMS-2FA) set up:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download Singpass app from the official app stores.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check that the app developer is "Government Technology Agency".</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Verification</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A PIN mailer will be sent to your registered mailing address within 10
+working days (depending on overseas postal services). Follow the instructions
+in the PIN mailer to complete the app setup, and you're done!</p>
+</li>
+</ul>
+</li>
+</ol>
+<p>Alternatively, you may choose to use Face Verification to verify your
+identity.</p>
+<p>Note: All Singpass correspondence will be sent to your mailing address
+registered with the Immigrations and Checkpoints Authority of Singapore
+(ICA).</p>
+<p></p>
