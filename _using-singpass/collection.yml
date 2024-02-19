@@ -2,19 +2,19 @@ collections:
   using-singpass:
     output: true
     order:
-      - Inbox/.keep
-      - NS Benefits/.keep
-      - E Service shortcuts/.keep
-      - My Cards/.keep
-      - Login and QR code/.keep
-      - Corppass/.keep
       - Overview.md
-      - Singpass app/What is Singpass app?.md
       - Singpass app/.keep
-      - Myinfo/Myinfo Helpdesk contact details.md
+      - Singpass app/What is Singpass app?.md
+      - Login and QR code/.keep
       - Myinfo/.keep
+      - Myinfo/Myinfo Helpdesk contact details.md
       - Myinfo/What is Myinfo?.md
       - Digital IC/.keep
       - Digital IC/What is the Digital IC?.md
+      - My Cards/.keep
       - Sign with Singpass/.keep
       - Sign with Singpass/What is Sign with Singpass?.md
+      - E Service shortcuts/.keep
+      - Inbox/.keep
+      - NS Benefits/.keep
+      - Corppass/.keep
