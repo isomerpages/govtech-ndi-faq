@@ -9,5 +9,3 @@ third_nav_title: Suspending my account
 <p>Please ensure that you are using a Singapore registered mobile number
 for this call. In addition, if you have exceeded the maximum number of
 tries per day, you will not be able to proceed.</p>
-<p><a href="https://staging.d1um6a6kdbbku8.amplifyapp.com/my-account/trouble-logging-in/forgot-password/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
