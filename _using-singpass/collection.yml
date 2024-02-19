@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - E Service shortcuts/.keep
       - My Cards/.keep
       - Login and QR code/.keep
       - Corppass/.keep
