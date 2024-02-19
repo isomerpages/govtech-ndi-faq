@@ -9,7 +9,8 @@ third_nav_title: Singaporeans living overseas
 <h4>If you already have 2FA (i.e. SMS-2FA) set up:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download the Singpass app from the official app store links below:</p>
+<p>Download the Singpass app from the official app store links below: (Check
+that the app developer is "Government Technology Agency")</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For Apple iOS devices: <a href="https://apps.apple.com/us/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"><u>App store</u></a>
@@ -24,9 +25,6 @@ third_nav_title: Singaporeans living overseas
 </p>
 </li>
 </ul>
-</li>
-<li>
-<p>Check that the app developer is "Government Technology Agency".</p>
 </li>
 <li>
 <p>Open the app and complete a one-time setup.</p>
