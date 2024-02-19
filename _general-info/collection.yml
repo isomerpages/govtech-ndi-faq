@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Foreign users/Singpass ID for Singpass Foreign user Account.md
       - Foreign users/Reset password for Singpass Foreign user Account.md
       - Foreign users/Problem with new pass issued by MOM.md
       - Foreign users/.keep
