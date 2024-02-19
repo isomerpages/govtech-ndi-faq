@@ -2,6 +2,7 @@ collections:
   my-account:
     output: true
     order:
+      - Reactivating a suspended account.md
       - Trouble logging in/.keep
       - Trouble logging in/Forgot (or reset) password.md
       - Trouble logging in/Did not receive OTP or One Time Password.md
