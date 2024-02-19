@@ -30,9 +30,6 @@ collections:
       - Setting up my Singpass app/I have deactivated my phone's front camera.md
       - Setting up my Singpass app/SMS or Face Verification after set up.md
       - Setting up my Singpass app/Installing on multiple devices.md
-      - Managing my Singpass account/Check if Singpass FA has been set up.md
-      - Managing my Singpass account/Use of overseas mobile number.md
-      - Managing my Singpass account/Change mobile phone number.md
       - Managing my Singpass account/.keep
       - Managing my Singpass account/What is my Singpass ID?.md
       - Managing my Singpass account/Change Singpass ID.md
@@ -42,9 +39,12 @@ collections:
         mailer) be sent to?.md
       - Managing my Singpass account/Can digital IC be used to reset Singpass
         password?.md
-      - Managing my Singpass account/Need to reset password after not logging in
-        for awhile.md
+      - Managing my Singpass account/Change mobile phone number.md
+      - Managing my Singpass account/Use of overseas mobile number.md
       - Managing my Singpass account/Change of address.md
       - Managing my Singpass account/Change preferred mode of contact.md
       - Managing my Singpass account/New mobile device.md
       - Managing my Singpass account/Lost mobile device.md
+      - Managing my Singpass account/Check if Singpass FA has been set up.md
+      - Managing my Singpass account/Need to reset password after not logging in
+        for awhile.md
