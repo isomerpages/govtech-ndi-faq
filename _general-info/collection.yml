@@ -6,8 +6,6 @@ collections:
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
       - About Singpass/Feedback on translations.md
-      - Singaporeans living overseas/I don't have a Singapore registered mobile
-        number.md
       - Singaporeans living overseas/.keep
       - Singaporeans living overseas/How does Singpass app benefit overseas
         users?.md
@@ -16,6 +14,8 @@ collections:
       - Singaporeans living overseas/Unable to use existing 2FA modes to set up
         Singpass app.md
       - Singaporeans living overseas/Using overseas mobile number for SMS FA.md
+      - Singaporeans living overseas/I don't have a Singapore registered mobile
+        number.md
       - Singaporeans living overseas/OneKey Token.md
       - Work pass holders/.keep
       - Work pass holders/Problem with new pass issued by MOM.md
