@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Contact information.md
-      - Locate a Singpass counter.md
