@@ -27,7 +27,6 @@ Mo Kio, Bishan, Hougang, Yishun, Serangoon, Punggol, Woodlands)</p>
 Payoh, Potong Pasir, Whampoa, Telok Blangah, Tanjong Pagar, Tiong Bahru)</p>
 </li>
 </ul>
-<p></p>
 <hr>
 <h3>East</h3>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
@@ -192,7 +191,6 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
 </li>
 </ul>
-<p></p>
 <hr>
 <h3>West</h3>
 <p><strong>Bukit Batok CC​​</strong> 
@@ -379,7 +377,192 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </ul>
 <hr>
 <h3>North</h3>
-<p></p>
+<p><strong>Cheng San CC​​</strong>
+<br>06​​ Ang Mo Kio Street 53​​, Singapore 569205​​
+<br>(<a href="https://maps.app.goo.gl/wAwasvrnbKSDsDeRA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6564588222" rel="noopener noreferrer nofollow" target="_blank"><u>6458 8222</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Chong Pang CC​​</strong>
+<br>126​​ Yishun Street 11​​, #01​​-427​​, Singapore 760126​​
+<br>(<a href="https://maps.app.goo.gl/cTYtMfcEUM1BvTNp9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567588258" rel="noopener noreferrer nofollow" target="_blank"><u>6758 8258</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 2pm - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Fu Chun CC​​</strong>
+<br>353​​ Woodlands Avenue 1​​, #01​​-753​​, Singapore 730353​​
+<br>(<a href="https://maps.app.goo.gl/i7V5UokgG51kXpXv7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563656911" rel="noopener noreferrer nofollow" target="_blank"><u>6365 6911</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 2pm - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Hougang CC​​<br></strong>35​​ Hougang Avenue 3​​, Singapore 538840​​
+<br>(<a href="https://maps.app.goo.gl/a7f2L1r8mB3NSKbv9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6562828887" rel="noopener noreferrer nofollow" target="_blank"><u>6282 8887</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Land Transport Authority (Sing Ming) </strong>
+<br><em>– temporarily closed</em>
+<br>10​​ Sin Ming Drive​​, Singapore 575701​​
+<br>(<a href="https://maps.app.goo.gl/z45QcLnsxyJQMLXR9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Opening Hours: 8am - 4.30pm, Mon - Fri;​ 8am - 12pm, Sat​​</p>
+</li>
+</ul>
+<p><strong>Marymount CC</strong>​​
+<br>191​​ Sin Ming Avenue​​, #01​​-01​​, Singapore 575738​​
+<br>(<a href="https://maps.app.goo.gl/LgMaAKz4baPgd6VN6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6564515955" rel="noopener noreferrer nofollow" target="_blank"><u>6451 5955</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Nee Soon Central CC​​</strong>
+<br>01​​ Northpoint Drive​​, #01​​-201​​, Singapore 768019​​
+<br>(<a href="https://maps.app.goo.gl/Sx5SBhnD8JqAofFW9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567527687" rel="noopener noreferrer nofollow" target="_blank"><u>6752 7687</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>One Punggol​​</strong>
+<br>01​​ Punggol Drive​​, Singapore 828629​​
+<br>(<a href="https://maps.app.goo.gl/bxbrzhbtk7me3yie8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6566005292" rel="noopener noreferrer nofollow" target="_blank"><u>6600 5292</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 9am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Punggol 21 CC​​</strong>
+<br>80​​ Punggol Field​​, #01​​-01​​, Singapore 828815​​
+<br>(<a href="https://maps.app.goo.gl/LPdLczNBD4sJMswD6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563120508" rel="noopener noreferrer nofollow" target="_blank"><u>6312 0508</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Punggol CC​​</strong>
+<br>03​​ Hougang Avenue 6​​, Singapore 538808​​
+<br>(<a href="https://maps.app.goo.gl/o1zdsDE9byy2av2s8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563871833" rel="noopener noreferrer nofollow" target="_blank"><u>6387 1833</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Rivervale CC​​</strong>
+<br>02​​ Rivervale Close​​, #01​​-01​​, Singapore 544583​​
+<br>(<a href="https://maps.app.goo.gl/RaZoNApbkwqkpKZd9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6568755376" rel="noopener noreferrer nofollow" target="_blank"><u>6875 5376</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Sengkang CC​​</strong>
+<br>02​​ Sengkang Square​​, #01​​-01​​, Singapore 545025​​
+<br>(<a href="https://maps.app.goo.gl/8K83u2vgkHC5NNHB7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563125400" rel="noopener noreferrer nofollow" target="_blank"><u>6312 5400</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>ServiceSG@Bukit Canberra​​</strong>
+<br>21​​ Canberra Link​​, #01​​-62​​, Singapore 756973​​
+<br>(<a href="https://maps.app.goo.gl/voFWTZoz6i7dpFQp6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>The Serangoon​​</strong>
+<br>10​​ Serangoon North Avenue 2​​, Singapore 555877​​
+<br>(<a href="https://maps.app.goo.gl/EjP2UriFPfJhxbzh6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6562824369" rel="noopener noreferrer nofollow" target="_blank"><u>6282 4369</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Woodlands CC</strong>​​
+<br>832​​ Woodlands Street 83​​, #01​​-65​​, Singapore 730832​​
+<br>(<a href="https://maps.app.goo.gl/iZoUyH4Z2fzVrtet8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563628832" rel="noopener noreferrer nofollow" target="_blank"><u>6362 8832</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Yio Chu Kang CC​​</strong>
+<br>633​​ Ang Mo Kio Avenue 6​​, #01​​-5135​​, Singapore 560633​​
+<br>(<a href="https://maps.app.goo.gl/Qui7VEYTXTXHaKLD6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6564570414" rel="noopener noreferrer nofollow" target="_blank"><u>6457 0414</u></a> /
+<a href="tel:+6564588409" rel="noopener noreferrer nofollow" target="_blank"><u>6458 8409</u>
+</a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
+</li>
+</ul>
 <hr>
 <h3>Central</h3>
 <p></p>
