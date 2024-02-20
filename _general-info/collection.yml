@@ -2,7 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Services available to Singpass Foreign user Accounts.md
       - Overview.md
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
