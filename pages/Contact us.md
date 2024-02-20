@@ -24,3 +24,7 @@ to 2pm.</p>
 <h4>Email us ✉️</h4>
 <p>Please contact us at <strong><a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a></strong>
 </p>
+<p></p>
+<h4>Find a Singpass counter 🏛️</h4>
+<p><a href="http://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
+find a Singpass counter nearest to you</p>
