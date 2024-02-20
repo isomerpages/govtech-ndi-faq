@@ -385,4 +385,5 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <h3>Central</h3>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="#top" class="backtotop" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+</p>
