@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/.keep
       - General security info/.keep
       - General security info/How can I keep my Singpass account safe?.md
