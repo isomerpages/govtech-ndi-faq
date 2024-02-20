@@ -4,8 +4,8 @@ permalink: /contact-us/counter-locations/
 variant: tiptap
 description: ""
 ---
-<h3>Full list of Singpass Counters</h3>
-<h4>East</h4>
+<h4>Full list of Singpass Counters, by area</h4>
+<h3>East</h3>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
 467352​​
 <br>(<a href="https://maps.app.goo.gl/E9aq5nrvGudeEMWN7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -162,6 +162,190 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <ul>
 <li>
 <p>Tel: <a href="tel:+6567881912" rel="noopener noreferrer nofollow" target="_blank"><u>6788 1912</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
+</li>
+</ul>
+<p></p>
+<h3>West</h3>
+<p><strong>Bukit Batok CC​​</strong>
+<br>21​​ Bukit Batok Central​​, Singapore 659959​​
+<br>(<a href="https://maps.app.goo.gl/CnnYKN5bPawsCZ846" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6565646317" rel="noopener noreferrer nofollow" target="_blank"><u>6564 6317</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Bukit Batok East CC​​</strong>
+<br>268​​ Bukit Batok East Avenue 4​​, #01​​-256​​, Singapore 650268​​
+<br>(<a href="https://maps.app.goo.gl/B4mqrJ5ArgN9Rqy48" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6565659330" rel="noopener noreferrer nofollow" target="_blank"><u>6565 9330</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Bukit Panjang CC​​</strong>
+<br>08​​ Pending Road​​, Singapore 678295​​
+<br>(<a href="https://maps.app.goo.gl/HeQsm6N4dQZBW5Wx9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6565060900" rel="noopener noreferrer nofollow" target="_blank"><u>6506 0900</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Buona Vista CC​​</strong>
+<br>36​​ Holland Drive​​, #01​​-01​​, Singapore 270036​​
+<br>(<a href="https://maps.app.goo.gl/iPyqau1jAhad8uGG8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567785163" rel="noopener noreferrer nofollow" target="_blank"><u>6778 5163</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Chua Chu Kang CC​​</strong>
+<br>35​​ Teck Whye Avenue​​, Singapore 688892​​
+<br>(<a href="https://maps.app.goo.gl/C4XTGV7wuoZJEUu86" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567691694" rel="noopener noreferrer nofollow" target="_blank"><u>6769 1694</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Clementi CC​​</strong>
+<br>220​​ Clementi Avenue 4​​, Singapore 129880​​
+<br>(<a href="https://maps.app.goo.gl/2LeQ4i7SLHB6KQJQ6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567781950" rel="noopener noreferrer nofollow" target="_blank"><u>6778 1950</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Gek Poh Ville CC​​</strong>
+<br>01​​ Jurong West Street 74​​, Singapore 649149​​
+<br>(<a href="https://maps.app.goo.gl/Gy1oGeoZRnigUZDb8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567920095" rel="noopener noreferrer nofollow" target="_blank"><u>6792 0095</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Hong Kah North CC​​</strong>
+<br>30​​ Bukit Batok Street 31​​, Singapore 659440​​
+<br>(<a href="https://maps.app.goo.gl/VuamzEP8r4wmwxCZ9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6565673130" rel="noopener noreferrer nofollow" target="_blank"><u>6567 3130</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Keat Hong CC​​</strong>
+<br>02​​ Choa Chu Kang Loop​​, #01​​-01​​, Singapore 689687​​
+<br>(<a href="https://maps.app.goo.gl/cY1BFAsiMtA3pW1y9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567694194" rel="noopener noreferrer nofollow" target="_blank"><u>6769 4194</u></a> /
+<a href="tel:+6567691598" rel="noopener noreferrer nofollow" target="_blank"><u>6769 1598</u>
+</a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Taman Jurong CC​​</strong>
+<br>01​​ Yung Sheng Road​​, Singapore 618495​​
+<br>(<a href="https://maps.app.goo.gl/KefmFf7mZxST8LqF6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6562651711" rel="noopener noreferrer nofollow" target="_blank"><u>6265 1711</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>The Frontier CC​​</strong>
+<br>60​​ Jurong West Central 3​​, #01​​-01​​, Singapore 648346​​
+<br>(<a href="https://maps.app.goo.gl/oucwAszAYfwojbmz9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567958229" rel="noopener noreferrer nofollow" target="_blank"><u>6795 8229</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Ulu Pandan CC​​</strong>
+<br>170​​ Ghim Moh Road​​, Singapore 279621​​
+<br>(<a href="https://maps.app.goo.gl/LHbtcMUm7ksqgawz7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6564693154" rel="noopener noreferrer nofollow" target="_blank"><u>6469 3154</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>West Coast CC​​</strong>
+<br>02​​ Clementi West Street 2​​, Singapore 129605​​
+<br>(<a href="https://maps.app.goo.gl/h9GnJRhGr7LcuzDdA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567791098" rel="noopener noreferrer nofollow" target="_blank"><u>6779 1098</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Yew Tee CC​​</strong>
+<br>20​​ Choa Chu Kang Street 52​​, #01​​-01​​, Singapore 689286​​
+<br>(<a href="https://maps.app.goo.gl/GhmQGahYfozL917d8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6567693672" rel="noopener noreferrer nofollow" target="_blank"><u>6769 3672</u></a>
+</p>
+</li>
+<li>
+<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+</li>
+</ul>
+<p><strong>Zhenghua CC​​</strong>
+<br>01​​ Segar Road​​, #01​​-01​​, Singapore 677738​​
+<br>(<a href="https://maps.app.goo.gl/hK2gwMjgxLYuK7226" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
+<ul>
+<li>
+<p>Tel: <a href="tel:+6563106702" rel="noopener noreferrer nofollow" target="_blank"><u>6310 6702</u></a>
 </p>
 </li>
 <li>
