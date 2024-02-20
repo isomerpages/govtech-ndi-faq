@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - Suspending your account/Why do I have to suspend my Singpass account?.md
       - Suspending your account/How do I suspend my Singpass account?.md
       - Suspending your account/Unable to suspend after calling Helpdesk.md
       - Suspending your account/Unable to suspend through self service.md
