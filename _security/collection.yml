@@ -2,11 +2,11 @@ collections:
   security:
     output: true
     order:
-      - Biometric authentication/Precautions to take with biometrics.md
-      - Biometric authentication/What strong biometrics can I set up?.md
-      - Biometric authentication/Singpass app only supports strong biometrics.md
-      - Biometric authentication/Strong vs weak biometrics.md
       - Biometric authentication/.keep
+      - Biometric authentication/Strong vs weak biometrics.md
+      - Biometric authentication/Singpass app only supports strong biometrics.md
+      - Biometric authentication/What strong biometrics can I set up?.md
+      - Biometric authentication/Precautions to take with biometrics.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/How to use Singpass Face Verification.md
