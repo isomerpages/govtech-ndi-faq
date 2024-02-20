@@ -1,0 +1,46 @@
+collections:
+  my-account:
+    output: true
+    order:
+      - Trouble logging in/.keep
+      - Trouble logging in/Forgot (or reset) password.md
+      - Trouble logging in/Did not receive OTP or One Time Password.md
+      - Trouble logging in/Trouble logging in with Singpass account.md
+      - Trouble logging in/Trouble logging in with Singpass app.md
+      - Trouble logging in/Difficulty when logging into a government app.md
+      - Trouble logging in/Request expired right after scanning QR code.md
+      - Register for Singpass/.keep
+      - Register for Singpass/How to register.md
+      - Register for Singpass/Who is eligible for Singpass?.md
+      - Register for Singpass/Check application status.md
+      - Register for Singpass/Misplaced or did not receive PIN mailer.md
+      - Register for Singpass/Mobile number already registered.md
+      - Register for Singpass/Verification code prompt.md
+      - Register for Singpass/One time account update.md
+      - Setting up my Singpass app/.keep
+      - Setting up my Singpass app/Download & set up Singpass app.md
+      - Setting up my Singpass app/What do I need to set up Singpass app?.md
+      - Setting up my Singpass app/Mobile number not registered with Singpass.md
+      - Setting up my Singpass app/Additional verification during set up.md
+      - Setting up my Singpass app/Can I skip the additional verification?.md
+      - Setting up my Singpass app/Collection of biometric data during Face
+        Verification.md
+      - Setting up my Singpass app/I have deactivated my phone's front camera.md
+      - Setting up my Singpass app/SMS or Face Verification after set up.md
+      - Setting up my Singpass app/Installing on multiple devices.md
+      - Managing my account/.keep
+      - Managing my account/What is my Singpass ID?.md
+      - Managing my account/Change Singpass ID.md
+      - Managing my account/Change Singpass password.md
+      - Managing my account/Password requirements.md
+      - Managing my account/Where would one time Singpass password (PIN mailer)
+        be sent to?.md
+      - Managing my account/Can digital IC be used to reset Singpass password?.md
+      - Managing my account/Need to reset password after not logging in for
+        awhile.md
+      - Managing my account/Change mobile phone number.md
+      - Managing my account/Change of address.md
+      - Managing my account/Change preferred mode of contact.md
+      - Managing my account/New mobile device.md
+      - Managing my account/Lost mobile device.md
+      - Managing my account/Check if Singpass FA has been set up.md

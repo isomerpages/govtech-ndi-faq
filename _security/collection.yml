@@ -1,0 +1,23 @@
+collections:
+  security:
+    output: true
+    order:
+      - General security info/.keep
+      - General security info/How can I keep my Singpass account safe?.md
+      - 2FA Two Factor Authentication/.keep
+      - 2FA Two Factor Authentication/What is Singpass 2FA?.md
+      - 2FA Two Factor Authentication/Set up SMS 2FA.md
+      - Singpass Face Verification/.keep
+      - Singpass Face Verification/What is Singpass Face Verification?.md
+      - Singpass Face Verification/How to use Singpass Face Verification.md
+      - Biometric authentication/.keep
+      - Biometric authentication/Strong vs weak biometrics.md
+      - Biometric authentication/Singpass app only supports strong biometrics.md
+      - Biometric authentication/What strong biometrics can I set up?.md
+      - Biometric authentication/Precautions to take with biometrics.md
+      - Suspending your account/.keep
+      - Suspending your account/Why do I have to suspend my Singpass account?.md
+      - Suspending your account/How do I suspend my Singpass account?.md
+      - Suspending your account/Unable to suspend after calling Helpdesk.md
+      - Suspending your account/Unable to suspend through self service.md
+      - Suspending your account/Reactivating a suspended account.md

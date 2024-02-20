@@ -1,0 +1,25 @@
+collections:
+  using-singpass:
+    output: true
+    order:
+      - Overview.md
+      - Singpass app/.keep
+      - Singpass app/What is Singpass app?.md
+      - Login and QR code/.keep
+      - Login and QR code/Using the QR code scanner.md
+      - Login shortcuts/.keep
+      - Login shortcuts/What are Login Shortcuts?.md
+      - Login shortcuts/How to use Login Shorcuts.md
+      - Myinfo/.keep
+      - Myinfo/What is Myinfo?.md
+      - Myinfo/Myinfo helpdesk.md
+      - Digital IC/.keep
+      - Digital IC/What is the Digital IC?.md
+      - My Cards/.keep
+      - Sign with Singpass/.keep
+      - Sign with Singpass/What is Sign with Singpass?.md
+      - Inbox/.keep
+      - NS Benefits/.keep
+      - NS Benefits/What is the NS benefits feature?.md
+      - Corppass/.keep
+      - Corppass/What is My Corporate Profile on Singpass app?.md

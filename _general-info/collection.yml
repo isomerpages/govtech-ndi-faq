@@ -1,0 +1,59 @@
+collections:
+  general-info:
+    output: true
+    order:
+      - About Singpass/.keep
+      - About Singpass/What is Singpass?.md
+      - About Singpass/Where can I get help?.md
+      - About Singpass/Feedback on translations.md
+      - Singaporeans living overseas/.keep
+      - Singaporeans living overseas/How does Singpass app benefit overseas
+        users?.md
+      - Singaporeans living overseas/Registering account from overseas.md
+      - Singaporeans living overseas/Setting up your Singpass app overseas.md
+      - Singaporeans living overseas/Misplaced or did not receive PIN mailer.md
+      - Singaporeans living overseas/Using overseas mobile number for SMS FA.md
+      - Singaporeans living overseas/Unable to use existing 2FA modes to set up
+        Singpass app.md
+      - Singaporeans living overseas/I don't have a Singapore registered mobile
+        number.md
+      - Singaporeans living overseas/OneKey Token.md
+      - Singpass Foreign user Account/.keep
+      - Singpass Foreign user Account/Overview.md
+      - Singpass Foreign user Account/Services available.md
+      - Singpass Foreign user Account/Register for a Singpass Foreign user
+        Account (SFA).md
+      - Singpass Foreign user Account/Which Foreign ID document to use?.md
+      - Singpass Foreign user Account/IRAS Unique Account (IRAS UA).md
+      - Singpass Foreign user Account/What is my Singpass ID? (for foreign
+        users).md
+      - Singpass Foreign user Account/Singpass ID format (for foreign users).md
+      - Singpass Foreign user Account/Retrieving Foreign ID.md
+      - Singpass Foreign user Account/One time password expired.md
+      - Singpass Foreign user Account/Reset password (for foreign users).md
+      - Singpass Foreign user Account/Suspending Singpass Foreign user Account.md
+      - Singpass Foreign user Account/Problem with new pass issued by MOM.md
+      - Family or trusted care usage/.keep
+      - Family or trusted care usage/Overview.md
+      - Family or trusted care usage/What services are available for Multi User
+        2FA?.md
+      - Family or trusted care usage/How to sign up for Multi User 2FA?.md
+      - Family or trusted care usage/Is this only for family members?.md
+      - Family or trusted care usage/Is this available for overseas users?.md
+      - Family or trusted care usage/Documents needed for LPA Donee.md
+      - Family or trusted care usage/Documents needed for Court Order Deputy.md
+      - Family or trusted care usage/Unable to be physically present for
+        verification.md
+      - Family or trusted care usage/Setting up without secondary user present.md
+      - Family or trusted care usage/Secondary user has lost of mental
+        capacity.md
+      - Family or trusted care usage/What information do primary users see?.md
+      - Family or trusted care usage/Changing primary mobile number as a
+        secondary user.md
+      - Family or trusted care usage/Can a secondary user be linked to multiple
+        primary numbers?.md
+      - Family or trusted care usage/Terminating Multi User 2FA service.md
+      - Work pass holders/.keep
+      - Work pass holders/Expired or cancelled Work Permit.md
+      - Work pass holders/Error with new pass issued by MOM.md
+      - Work pass holders/Occupation inaccurately reflected.md
