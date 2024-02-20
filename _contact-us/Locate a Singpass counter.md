@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>East</h3>
 <p><strong>Bedok CC​​</strong> 
-<br>850​​ New Upper Changi Road​​, Singapore 467352​​
+<br><a href="https://maps.app.goo.gl/E9aq5nrvGudeEMWN7" rel="noopener noreferrer nofollow" target="_blank">850​​ New Upper Changi Road​​, Singapore 467352​​</a>
 <br>(<a href="https://maps.app.goo.gl/E9aq5nrvGudeEMWN7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul data-tight="true" class="tight">
 <li>
