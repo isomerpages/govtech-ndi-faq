@@ -57,8 +57,8 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Kaki Bukit CC​​<br></strong>(<a href="https://maps.app.goo.gl/hCv5NG8BTFnsHc2c9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>670​​ Bedok North Street 3​​, Singapore 469627​​</p>
+<p><strong>Kaki Bukit CC​​<br></strong>670​​ Bedok North Street 3​​, Singapore
+469627​​<strong><br></strong>(<a href="https://maps.app.goo.gl/hCv5NG8BTFnsHc2c9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6564454223" rel="noopener noreferrer nofollow" target="_blank"><u>6445 4223</u></a>
@@ -68,9 +68,8 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Kallang CC​​</strong>
-<br>(<a href="https://maps.app.goo.gl/iRNpihdr7jiGtCL98" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>45​​ Boon Keng Road​​, Singapore 339771​​</p>
+<p><strong>Kallang CC​​<br></strong>45​​ Boon Keng Road​​, Singapore 339771​​
+<br>(<a href="https://maps.app.goo.gl/iRNpihdr7jiGtCL98" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6562984582" rel="noopener noreferrer nofollow" target="_blank"><u>6298 4582</u></a>
@@ -113,8 +112,8 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Marine Parade CC​​<br></strong>(<a href="https://maps.app.goo.gl/7dCfTR48sjJBAQoCA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>278​​ Marine Parade Road​​, Singapore 449282​​</p>
+<p><strong>Marine Parade CC​​<br></strong>278​​ Marine Parade Road​​, Singapore
+449282​​<strong><br></strong>(<a href="https://maps.app.goo.gl/7dCfTR48sjJBAQoCA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6563467703" rel="noopener noreferrer nofollow" target="_blank"><u>6346 7703</u></a>
@@ -124,8 +123,9 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Pasir Ris East CC​​<br></strong>(<a href="https://maps.app.goo.gl/ryYUjcHrXXKp8kNJ9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>01​​ Pasir Ris Drive 4​​, #01​​-08​​, Singapore 519457​​</p>
+<p><strong>Pasir Ris East CC​​<br></strong>01​​ Pasir Ris Drive 4​​, #01​​-08​​,
+Singapore 519457​​
+<br>(<a href="https://maps.app.goo.gl/ryYUjcHrXXKp8kNJ9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6565842798" rel="noopener noreferrer nofollow" target="_blank"><u>6584 2798</u></a>
@@ -135,8 +135,9 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Public Service Centre​​ (Our Tampines Hub)<br></strong>(<a href="https://maps.app.goo.gl/r9r9myfKB2ZZeVyCA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>01​​ Tampines Walk​​, #01​​-21​​, Singapore 528523​​</p>
+<p><strong>Public Service Centre​​ (Our Tampines Hub)<br></strong>01​​ Tampines
+Walk​​, #01​​-21​​, Singapore 528523​​
+<br>(<a href="https://maps.app.goo.gl/r9r9myfKB2ZZeVyCA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6567850004" rel="noopener noreferrer nofollow" target="_blank"><u>6785 0004</u></a>
@@ -146,8 +147,8 @@ description: ""
 <p>Opening Hours: 9am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Tampines East CC​​<br></strong>(<a href="https://maps.app.goo.gl/rvrRvUmYciHCkcLH9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>10​​ Tampines Street 23​​, Singapore 529341​​</p>
+<p><strong>Tampines East CC​​<br></strong>10​​ Tampines Street 23​​, Singapore
+529341​​<strong><br></strong>(<a href="https://maps.app.goo.gl/rvrRvUmYciHCkcLH9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6567863227" rel="noopener noreferrer nofollow" target="_blank"><u>6786 3227</u></a>
@@ -157,8 +158,9 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Tampines West CC​<br></strong>(<a href="https://maps.app.goo.gl/ohTsDbVTgA3gMGUk7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)
-<br>05​​ Tampines Avenue 3​​, Singapore 529705​​</p>
+<p><strong>Tampines West CC​</strong>
+<br>05​​ Tampines Avenue 3​​, Singapore 529705​​
+<br>(<a href="https://maps.app.goo.gl/ohTsDbVTgA3gMGUk7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
 <p>Tel: <a href="tel:+6567881912" rel="noopener noreferrer nofollow" target="_blank"><u>6788 1912</u></a>
