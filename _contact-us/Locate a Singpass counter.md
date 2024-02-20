@@ -565,7 +565,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </ul>
 <hr>
 <h3>Central</h3>
-<p><strong>Bidadari CC​​</strong>
+<p><strong>Bidadari CC​​</strong> 
 <br>11​​ Bidadari Park Drive​​, #01​​-60​​, Singapore 367803​​
 <br>(<a href="https://maps.app.goo.gl/xFJTYkv3izZVhimm6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -577,7 +577,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Kim Seng CC​​</strong>
+<p><strong>Kim Seng CC​​</strong> 
 <br>570​​ Havelock Road​​, Singapore 169640​​
 <br>(<a href="https://maps.app.goo.gl/iMAMkgEzgmE19jZX6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -589,7 +589,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Potong Pasir CC​​</strong>
+<p><strong>Potong Pasir CC​​</strong> 
 <br>06​​ Potong Pasir Avenue 2​​, Singapore 358361​​
 <br>(<a href="https://maps.app.goo.gl/t2htgZH3hWAqRFUR9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -601,7 +601,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Radin Mas CC​​</strong>
+<p><strong>Radin Mas CC​​</strong> 
 <br>51​​ Telok Blangah Crescent​​, Singapore 098917​​
 <br>(<a href="https://maps.app.goo.gl/JdUK26XoMbEaAggKA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -613,7 +613,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Tanjong Pagar CC​​</strong>
+<p><strong>Tanjong Pagar CC​​</strong> 
 <br>101​​ Cantonment Road​​, Singapore 089774​​
 <br>(<a href="https://maps.app.goo.gl/AQpxqcxR739AQi5A8" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -625,7 +625,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Tiong Bahru CC​​</strong>
+<p><strong>Tiong Bahru CC​​</strong> 
 <br>67A​​ Eu Chin Street​​, Singapore 169715​​
 <br>(<a href="https://maps.app.goo.gl/JzSrDQ2zqvJG7wfD7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
