@@ -45,7 +45,7 @@ description: ""
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Jalan Besar CC​​</strong>
+<p><strong>Jalan Besar CC​​</strong> 
 <br>69​​ Jellicoe Rd​​, Singapore 208737​​
 <br>(<a href="https://maps.app.goo.gl/bzESJUjkAZNHMA7Y9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
@@ -91,7 +91,7 @@ description: ""
 </li>
 </ul>
 <p><strong>Kampong Glam CC​​<br></strong>385​​ Beach Road​​, Singapore 199581​​<strong><br></strong>(
-<a href="https://maps.app.goo.gl/U3mMruAaropgbxLd6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u>
+<a href="https://maps.app.goo.gl/U3mMruAaropgbxLd6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u> 
 </a>)</p>
 <ul>
 <li>
@@ -159,7 +159,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
-<p><strong>Tampines West CC​</strong>
+<p><strong>Tampines West CC​</strong> 
 <br>05​​ Tampines Avenue 3​​, Singapore 529705​​
 <br>(<a href="https://maps.app.goo.gl/ohTsDbVTgA3gMGUk7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
