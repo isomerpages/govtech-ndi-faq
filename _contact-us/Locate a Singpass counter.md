@@ -610,7 +610,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </p>
 </li>
 <li>
-<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+<p>Opening Hours: 10am - 6pm, Mon - Sun (Except Public Holidays)</p>
 </li>
 </ul>
 <p><strong>Tanjong Pagar CC​​</strong> 
@@ -622,11 +622,11 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </p>
 </li>
 <li>
-<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
+<p>Opening Hours: 10am - 6pm, Mon - Sun (Except Public Holidays)</p>
 </li>
 </ul>
-<p><strong>Tiong Bahru CC​​</strong> 
-<br>67A​​ Eu Chin Street​​, Singapore 169715​​
+<p><strong>Tiong Bahru CC</strong> 
+<br>67A Eu Chin Street, Singapore 169715
 <br>(<a href="https://maps.app.goo.gl/JzSrDQ2zqvJG7wfD7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
 <ul>
 <li>
@@ -634,6 +634,6 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </p>
 </li>
 <li>
-<p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
+<p>Opening Hours: 10am - 6pm, Mon - Sun (Except Public Holidays)</p>
 </li>
 </ul>
