@@ -11,24 +11,24 @@ find a Singpass counter nearest to you</p>
 <p>Quick navigation:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="#East" rel="noopener noreferrer nofollow" target="_blank">East</a> </strong>(Jalan
+<p><strong><a href="#East">East</a> </strong>(Jalan
 Basar, Kallang, Paya Labar, Marine Parade, Bedok, Tampines, Changi)</p>
 </li>
 <li>
-<p><strong><a href="#West" rel="noopener noreferrer nofollow" target="_blank">West</a></strong> (Buona
+<p><strong><a href="#West">West</a></strong> (Buona
 Vista, Ghim Moh, Holland Village, Clementi, Bukit Batok, Jurong)</p>
 </li>
 <li>
-<p><strong><a href="#North" rel="noopener noreferrer nofollow" target="_blank">North</a> </strong>(Ang
+<p><strong><a href="#North">North</a> </strong>(Ang
 Mo Kio, Bishan, Hougang, Yishun, Serangoon, Punggol, Woodlands)</p>
 </li>
 <li>
-<p><strong><a href="#Central" rel="noopener noreferrer nofollow" target="_blank">Central</a></strong> (Toa
+<p><strong><a href="#Central">Central</a></strong> (Toa
 Payoh, Potong Pasir, Whampoa, Telok Blangah, Tanjong Pagar, Tiong Bahru)</p>
 </li>
 </ul>
 <hr>
-<h3>East</h3>
+<h3 id="East">East</h3>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
 467352​​
 <br>(<a href="https://maps.app.goo.gl/E9aq5nrvGudeEMWN7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -192,7 +192,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </li>
 </ul>
 <hr>
-<h3>West</h3>
+<h3 id="West">West</h3>
 <p><strong>Bukit Batok CC​​</strong> 
 <br>21​​ Bukit Batok Central​​, Singapore 659959​​
 <br>(<a href="https://maps.app.goo.gl/CnnYKN5bPawsCZ846" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -376,7 +376,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </li>
 </ul>
 <hr>
-<h3>North</h3>
+<h3 id="North">North</h3>
 <p><strong>Cheng San CC​​</strong> 
 <br>06​​ Ang Mo Kio Street 53​​, Singapore 569205​​
 <br>(<a href="https://maps.app.goo.gl/wAwasvrnbKSDsDeRA" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -564,7 +564,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </li>
 </ul>
 <hr>
-<h3>Central</h3>
+<h3 id="Central">Central</h3>
 <p><strong>Bidadari CC​​</strong> 
 <br>11​​ Bidadari Park Drive​​, #01​​-60​​, Singapore 367803​​
 <br>(<a href="https://maps.app.goo.gl/xFJTYkv3izZVhimm6" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -637,5 +637,3 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
-</p>
