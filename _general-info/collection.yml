@@ -34,8 +34,6 @@ collections:
       - Work pass holders/Error with new pass issued by MOM.md
       - Work pass holders/Expired or cancelled Work Permit.md
       - Work pass holders/Occupation inaccurately reflected.md
-      - Family or trusted care usage/Changing primary mobile number as a
-        secondary user.md
       - Family or trusted care usage/.keep
       - Family or trusted care usage/Overview.md
       - Family or trusted care usage/What services are available for Multi User
@@ -43,7 +41,6 @@ collections:
       - Family or trusted care usage/How to sign up for Multi User 2FA?.md
       - Family or trusted care usage/Is this only for family members?.md
       - Family or trusted care usage/Is this available for overseas users?.md
-      - Family or trusted care usage/What information do primary users see?.md
       - Family or trusted care usage/Documents needed for LPA Donee.md
       - Family or trusted care usage/Documents for Court Order deputy.md
       - Family or trusted care usage/Setting up without secondary user present.md
@@ -51,4 +48,7 @@ collections:
         verification.md
       - Family or trusted care usage/Secondary user has lost of mental
         capacity.md
+      - Family or trusted care usage/What information do primary users see?.md
+      - Family or trusted care usage/Changing primary mobile number as a
+        secondary user.md
       - Family or trusted care usage/Terminating Multi User 2FA service.md
