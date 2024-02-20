@@ -8,9 +8,9 @@ third_nav_title: Family or trusted care usage
 <h3>How can I sign up for the Multi-User SMS 2FA service?</h3>
 <p>Both the primary and secondary users of the mobile number are required
 to present their NRIC/FIN to verify their identities and consent to the
-terms of the arrangement at any of the <a href="/contact-us/counter-locations/" rel="noopener noreferrer nofollow" target="_blank">Singpass counters</a> islandwide to
-activate this option. A video call can be arranged with the Singpass Helpdesk
-for users who are not able to visit our Singpass counters.
+terms of the arrangement at any of the <a href="http://go.gov.sg/singpass-counters" rel="noopener" target="_blank"><u>Singpass counters</u></a> islandwide
+to activate this option. A video call can be arranged with the Singpass
+Helpdesk for users who are not able to visit our Singpass counters.
 <br>
 <br>Primary users can link their mobile number with up to six (6) secondary
 users. However, as a security feature, the secondary users account can
