@@ -2,9 +2,9 @@ collections:
   security:
     output: true
     order:
-      - Singpass Face Verification/How to use Singpass Face Verification.md
-      - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/.keep
+      - Singpass Face Verification/What is Singpass Face Verification?.md
+      - Singpass Face Verification/How to use Singpass Face Verification.md
       - General security info/.keep
       - General security info/How can I keep my Singpass account safe?.md
       - 2FA Two Factor Authentication/.keep
