@@ -9,6 +9,6 @@ contacts:
       - email: support@singpass.gov.sg
       - other: "Note: This page is not in use. For admins, please use the other Contact
           Us folder in the Workspace section on Isomer CMS"
-    title: Helpdesk
+    title: Page not in use
 feedback: https://form.gov.sg/6531efe4fc4301001161fbce
 ---
