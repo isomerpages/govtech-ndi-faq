@@ -2,10 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Family or trusted care usage/.keep
-      - Family or trusted care usage/Overview.md
-      - Family or trusted care usage/Difficulty to be physically present for
-        verification.md
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
@@ -22,12 +18,8 @@ collections:
       - Singaporeans living overseas/I don't have a Singapore registered mobile
         number.md
       - Singaporeans living overseas/OneKey Token.md
-      - Work pass holders/.keep
-      - Work pass holders/Expired or cancelled Work Permit.md
-      - Work pass holders/Problem with new pass issued by MOM.md
-      - Work pass holders/Occupation inaccurately reflected.md
-      - Foreign users/Foreign Users – definition.md
       - Foreign users/.keep
+      - Foreign users/Foreign Users – definition.md
       - Foreign users/Services available to Singpass Foreign user Accounts.md
       - Foreign users/Register for a Singpass Foreign user Account (SFA).md
       - Foreign users/I have multiple foreign documents.md
@@ -38,3 +30,11 @@ collections:
       - Foreign users/One time password expired.md
       - Foreign users/Reset password for Singpass Foreign user Account.md
       - Foreign users/Suspending Singpass Foreign Account.md
+      - Work pass holders/.keep
+      - Work pass holders/Expired or cancelled Work Permit.md
+      - Work pass holders/Problem with new pass issued by MOM.md
+      - Work pass holders/Occupation inaccurately reflected.md
+      - Family or trusted care usage/.keep
+      - Family or trusted care usage/Overview.md
+      - Family or trusted care usage/Difficulty to be physically present for
+        verification.md
