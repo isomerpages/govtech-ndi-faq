@@ -4,9 +4,6 @@ permalink: /contact-us/counter-locations/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe style="border:0;" height="320" width="480" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.75258244699!2d103.9334068759223!3d1.324329161655381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22b51290f06d%3A0x986731c0bc3f4251!2sBedok%20Community%20Centre!5e0!3m2!1sen!2ssg!4v1708408863204!5m2!1sen!2ssg"></iframe>
-</div>
 <h3>Full list of Singpass Counters</h3>
 <h4>East</h4>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
