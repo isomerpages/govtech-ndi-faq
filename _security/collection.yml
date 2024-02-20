@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - Biometric authentication/What strong biometrics can I set up?.md
       - Biometric authentication/Singpass app only supports strong biometrics.md
       - Biometric authentication/Strong vs weak biometrics.md
       - Biometric authentication/.keep
