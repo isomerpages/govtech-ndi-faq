@@ -9,12 +9,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Scam Support</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Available 24/7</p>
-</li>
-</ul>
+<p>Scam Support (available 24/7)</p>
 </li>
 <li>
 <p>General Enquires</p>
@@ -26,7 +21,6 @@ to 2pm.</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <h4>Email us ✉️</h4>
 <p>Please contact us at <strong><a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a></strong>
 </p>
