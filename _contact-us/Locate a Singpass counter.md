@@ -11,23 +11,23 @@ find a Singpass counter nearest to you</p>
 <p>Quick navigation:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">East</a> </strong>(Jalan
+<p><strong><a href="#East">East</a> </strong>(Jalan
 Basar, Kallang, Paya Labar, Marine Parade, Bedok, Tampines, Changi)</p>
 </li>
 <li>
-<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">West</a></strong> (Buona
+<p><strong><a href="#West">West</a></strong> (Buona
 Vista, Ghim Moh, Holland Village, Clementi, Bukit Batok, Jurong)</p>
 </li>
 <li>
-<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">North</a> </strong>(Ang
+<p><strong><a href="#North">North</a> </strong>(Ang
 Mo Kio, Bishan, Hougang, Yishun, Serangoon, Punggol, Woodlands)</p>
 </li>
 <li>
-<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">Central</a></strong> (Toa
+<p><strong><a href="#Central">Central</a></strong> (Toa
 Payoh, Potong Pasir, Whampoa, Telok Blangah, Tanjong Pagar, Tiong Bahru)</p>
 </li>
 </ul>
-<h3>East</h3>
+<h3 id="East">East</h3>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
 467352​​
 <br>(<a href="https://maps.app.goo.gl/E9aq5nrvGudeEMWN7" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -216,6 +216,9 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
+
+<h3 id="West">West</h3>
+
 <p><strong>Bukit Panjang CC​​</strong> 
 <br>08​​ Pending Road​​, Singapore 678295​​
 <br>(<a href="https://maps.app.goo.gl/HeQsm6N4dQZBW5Wx9" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
@@ -374,10 +377,10 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
 </li>
 </ul>
-<h3>North</h3>
+<h3 id="North">North</h3>
 <p></p>
 <p></p>
-<h3>Central</h3>
+<h3 id="Central">Central</h3>
 <p></p>
 <p></p>
 <p></p>
