@@ -34,7 +34,6 @@ collections:
       - Work pass holders/Error with new pass issued by MOM.md
       - Work pass holders/Expired or cancelled Work Permit.md
       - Work pass holders/Occupation inaccurately reflected.md
-      - Family or trusted care usage/Terminating Multi User 2FA service.md
       - Family or trusted care usage/.keep
       - Family or trusted care usage/Overview.md
       - Family or trusted care usage/What services are available for Multi User
@@ -46,3 +45,4 @@ collections:
       - Family or trusted care usage/Deputy under Deputyship Court Order.md
       - Family or trusted care usage/Unable to be physically present for
         verification.md
+      - Family or trusted care usage/Terminating Multi User 2FA service.md
