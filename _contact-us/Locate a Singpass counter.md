@@ -218,6 +218,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)​​</p>
 </li>
 </ul>
+<hr>
 <h3>West</h3>
 <p><strong>Bukit Panjang CC​​</strong> 
 <br>08​​ Pending Road​​, Singapore 678295​​
@@ -377,9 +378,10 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun​​ (Except Public Holidays)</p>
 </li>
 </ul>
+<hr>
 <h3>North</h3>
 <p></p>
-<p></p>
+<hr>
 <h3>Central</h3>
 <p></p>
 <p></p>
