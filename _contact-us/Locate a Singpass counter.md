@@ -637,3 +637,5 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 <p>Opening Hours: 10am - 6pm, Mon - Sun (Except Public Holidays)</p>
 </li>
 </ul>
+
+<a href="#top">Back to top ↑</a>
