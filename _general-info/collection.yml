@@ -2,6 +2,8 @@ collections:
   general-info:
     output: true
     order:
+      - Family or trusted care usage/Difficulty to be physically present at
+        counter for verification.md
       - Family or trusted care usage/Overview.md
       - Family or trusted care usage/.keep
       - About Singpass/.keep
