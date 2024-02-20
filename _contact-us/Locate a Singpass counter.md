@@ -7,7 +7,26 @@ description: ""
 <h3>Find a Singpass counter</h3>
 <p><a href="http://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
 find a Singpass counter nearest to you</p>
-<h3>View the full list of Singpass Counters:</h3>
+<h3>Full list of Singpass Counters:</h3>
+<p>Quick navigation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">East</a> </strong>(Jalan
+Basar, Kallang, Paya Labar, Marine Parade, Bedok, Tampines, Changi)</p>
+</li>
+<li>
+<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">West</a></strong> (Buona
+Vista, Ghim Moh, Holland Village, Clementi, Bukit Batok, Jurong)</p>
+</li>
+<li>
+<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">North</a> </strong>(Ang
+Mo Kio, Bishan, Hougang, Yishun, Serangoon, Punggol, Woodlands)</p>
+</li>
+<li>
+<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">Central</a></strong> (Toa
+Payoh, Potong Pasir, Whampoa, Telok Blangah, Tanjong Pagar, Tiong Bahru)</p>
+</li>
+</ul>
 <h3>East</h3>
 <p><strong>Bedok CC​​<br></strong>850​​ New Upper Changi Road​​, Singapore
 467352​​
@@ -172,7 +191,7 @@ Walk​​, #01​​-21​​, Singapore 528523​​
 </li>
 </ul>
 <p></p>
-<h3>West</h3>
+<h3></h3>
 <p><strong>Bukit Batok CC​​</strong> 
 <br>21​​ Bukit Batok Central​​, Singapore 659959​​
 <br>(<a href="https://maps.app.goo.gl/CnnYKN5bPawsCZ846" rel="noopener noreferrer nofollow" target="_blank"><u>See on Google Maps</u></a>)</p>
