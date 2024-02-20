@@ -6,9 +6,9 @@ agency_name: Singpass Helpdesk
 contacts:
   - content:
       - phone: +65 6335 3534
-      - email: support@singpass.gov.sg
-      - other: "Note: This page is not in use. For admins, please use the other Contact
-          Us folder in the Workspace section on Isomer CMS"
-    title: Page not in use
-feedback: https://form.gov.sg/6531efe4fc4301001161fbce
+      - email: ""
+      - other: <ul>   <li>Scam Support (24/7)</li>   <li>General Enquires (8am-8pm,
+          Mon-Fri; 8am-2pm, Sat)</li></ul>
+    title: Singpass Helpdesk
+feedback: ""
 ---
