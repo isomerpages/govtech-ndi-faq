@@ -2,7 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Register for a Singpass Foreign user Account (SFA).md
       - Services available to Singpass Foreign user Accounts.md
       - Overview.md
       - About Singpass/.keep
