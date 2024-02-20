@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Family or trusted care usage
 ---
+<h3>How can I terminate the Multi-User SMS 2FA service?</h3>
+<p>Either party may visit any of the <a href="/contact-us/counter-locations" rel="noopener noreferrer nofollow" target="_blank">Singpass counters</a> islandwide to
+terminate the Multi-User SMS 2FA.</p>
