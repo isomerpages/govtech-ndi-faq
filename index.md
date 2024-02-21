@@ -8,10 +8,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Singpass Help Centre
-      background: /images/Site assets/Placeholder_singpass.jpg
-      variant: side
-      backgroundColor: gray
+      title: Hello! Welcome to Singpass Help Centre
+      background: /images/Frame_7509.png
+      variant: center
+      backgroundColor: white
       size: md
       alignment: left
   - textcards:
