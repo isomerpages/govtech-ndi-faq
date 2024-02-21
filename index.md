@@ -51,24 +51,23 @@ sections:
       cards:
         - title: My Account
           description: |-
-            - Registration <br>
-            - Troubleshooting <br>
-            - Managing account details
+            • Registration <br>
+            • Troubleshooting <br>
+            • Managing account details
           linktext: Learn more
           url: ""
         - title: Security
           description: |-
-            <ul>
-            <li>2-factor authentication</li>
-            <li> Face verification </li>
-            </ul>
+            • 2-factor authentication <br> 
+            • Face verification <br>
+            • Report a scam
           linktext: Learn more
           url: ""
         - title: Using Singpass
           description: |-
-            - Singpass app <br>
-            - Corppass <br>
-            - Digital IC & cards
+            • Singpass app <br>
+            • Corppass <br>
+            • Digital IC & cards
           linktext: Learn more
           url: ""
         - title: General Info
