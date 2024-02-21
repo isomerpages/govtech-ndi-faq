@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - Report a scam/Received SMS OTP that I did not request.md
       - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/.keep
       - General security info/.keep
