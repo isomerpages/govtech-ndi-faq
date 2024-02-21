@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/.keep
       - General security info/.keep
       - General security info/How can I keep my Singpass account safe?.md
