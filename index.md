@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Hello! Welcome to Singpass Help Centre
       background: /images/Frame_7509.png
-      variant: center
+      variant: side
       backgroundColor: white
       size: md
       alignment: left
