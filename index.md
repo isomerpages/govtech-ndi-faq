@@ -46,7 +46,6 @@ sections:
           url: ""
   - textcards:
       title: Browse topics
-      subtitle: Add informational text
       id: textcards
       cards:
         - title: My Account
@@ -79,7 +78,6 @@ sections:
           url: ""
   - infopic:
       title: Need in-person help?
-      subtitle: Add an image and text
       id: infopic
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
@@ -88,7 +86,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Keep your Singpass safe and secure
-      subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Learn security tips
@@ -97,9 +94,9 @@ sections:
   - announcements:
       id: announcements
       announcement_items:
-        - title: New Announcement
+        - title: New update
           date: 14 February 2024
-          announcement: Announcement content
+          announcement: Insert release notes content
           link_text: ""
           link_url: ""
       title: Latest updates
