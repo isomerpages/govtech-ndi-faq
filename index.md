@@ -12,7 +12,6 @@ sections:
       background: /images/Site assets/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
-      subtitle: How can we help?
   - textcards:
       title: Frequently-asked questions
       id: textcards
