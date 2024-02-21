@@ -91,6 +91,7 @@ sections:
       button: Learn security tips
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
+      image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
   - announcements:
       id: announcements
       announcement_items:
