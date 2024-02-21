@@ -2,9 +2,9 @@ collections:
   security:
     output: true
     order:
-      - Report a scam/Received SMS OTP that I did not request.md
-      - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/.keep
+      - Report a scam/Reporting a scam or account compromised.md
+      - Report a scam/Received SMS OTP that I did not request.md
       - General security info/.keep
       - General security info/How can I keep my Singpass account safe?.md
       - 2FA Two Factor Authentication/.keep
