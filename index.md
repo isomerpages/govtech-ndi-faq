@@ -58,23 +58,24 @@ sections:
           url: ""
         - title: Security
           description: |-
-            - 2-factor authentication
-            - Face verification
-            - Report a scam
+            <ul>
+            <li>2-factor authentication</li>
+            <li> Face verification </li>
+            </ul>
           linktext: Learn more
           url: ""
         - title: Using Singpass
           description: |-
-            - Singpass app
-            - Corppass
+            - Singpass app <br>
+            - Corppass <br>
             - Digital IC & cards
           linktext: Learn more
           url: ""
         - title: General Info
           description: |-
-            - About Singpass
-            - Singpass for Foreign Users
-            - Work pass holders
+            • About Singpass <br>
+            • Singpass for Foreign Users <br>
+            • Work pass holders
           linktext: Learn more
           url: ""
   - infopic:
