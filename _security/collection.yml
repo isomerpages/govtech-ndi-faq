@@ -10,13 +10,13 @@ collections:
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
-      - Singpass Face Verification/How to set up?.md
-      - Singpass Face Verification/Why is my Singpass Face Verification
-        unsuccessful?.md
-      - Singpass Face Verification/How is my data protected?.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/How to use Singpass Face Verification.md
+      - Singpass Face Verification/How to set up?.md
+      - Singpass Face Verification/How is my data protected?.md
+      - Singpass Face Verification/Why is my Singpass Face Verification
+        unsuccessful?.md
       - Singpass Face Verification/What if my facial features change?.md
       - Biometric authentication/.keep
       - Biometric authentication/Strong vs weak biometrics.md
