@@ -63,8 +63,18 @@ sections:
             - Report a scam
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Using Singpass
+          description: |-
+            - Singpass app
+            - Corppass
+            - Digital IC & cards
+          linktext: Learn more
+          url: ""
+        - title: General Info
+          description: |-
+            - About Singpass
+            - Singpass for Foreign Users
+            - Work pass holders
           linktext: Learn more
           url: ""
   - infopic:
