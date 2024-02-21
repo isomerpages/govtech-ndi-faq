@@ -76,7 +76,6 @@ sections:
   - infopic:
       title: Keep your Singpass safe and secure
       id: infopic
-      description: Infopic description
       button: Learn security tips
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
