@@ -24,24 +24,47 @@ sections:
           - title: 🔍 Do a quick search
             url: /search
   - textcards:
-      title: Most common topics 📚
+      title: Frequently-asked questions
       id: textcards
       cards:
-        - title: I have trouble with my Singpass account
+        - title: I forgot my Singpass password. How do I reset it?
           description: ""
-          linktext: Go to section
+          linktext: Reset password
           url: ""
-        - title: Face verification keeps failing
+        - title: How do I register for a Singpass account?
           description: ""
-          linktext: Learn more
+          linktext: Register here
           url: ""
-        - title: Card
+        - title: How do I update my mobile number or email?
           description: Card description will go here
-          linktext: Learn more
+          linktext: Update personal details
           url: ""
         - title: I want to report a scam related to Singpass I wan
           description: Card description I want to report a scam related to Singpass I want
             to report a
+          linktext: Report here
+          url: ""
+  - textcards:
+      title: Browse topics
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: My Account
+          description: |-
+            - Registration <br>
+            - Troubleshooting <br>
+            - Managing account details
+          linktext: Learn more
+          url: ""
+        - title: Security
+          description: |-
+            - 2-factor authentication
+            - Face verification
+            - Report a scam
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
           linktext: Learn more
           url: ""
   - infopic:
