@@ -70,7 +70,7 @@ sections:
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
       url: /counter-locations
-      image: /images/Illust_w_Frame___App_Set_up_2___Man_Juggling_Services.svg
+      image: /images/Illust_w_Frame___Loading_Man_for_Personal.png
       alt: Image alt text
   - infopic:
       title: Keep your Singpass safe and secure
