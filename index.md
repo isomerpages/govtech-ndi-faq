@@ -8,21 +8,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: How can we help?
+      title: Welcome to Singpass Help Centre
       background: /images/Site assets/Placeholder_singpass.jpg
       variant: center
       backgroundColor: white
-      dropdown:
-        title: I need help with...
-        options:
-          - title: Resetting my Singpass password
-            url: ""
-          - title: Singpass Face Verification
-            url: ""
-          - title: Finding a Singpass counter
-            url: /counter-locations/
-          - title: 🔍 Do a quick search
-            url: /search
+      subtitle: How can we help?
   - textcards:
       title: Frequently-asked questions
       id: textcards
@@ -36,12 +26,11 @@ sections:
           linktext: Register here
           url: ""
         - title: How do I update my mobile number or email?
-          description: Card description will go here
+          description: ""
           linktext: Update personal details
           url: ""
         - title: I want to report a scam related to Singpass I wan
-          description: Card description I want to report a scam related to Singpass I want
-            to report a
+          description: ""
           linktext: Report here
           url: ""
   - textcards:
