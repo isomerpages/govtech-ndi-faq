@@ -10,6 +10,7 @@ collections:
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
+      - Singpass Face Verification/Why was it unsuccessful?.md
       - Singpass Face Verification/How is my data protected?.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
