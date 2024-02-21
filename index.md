@@ -10,8 +10,10 @@ sections:
   - hero:
       title: Welcome to Singpass Help Centre
       background: /images/Site assets/Placeholder_singpass.jpg
-      variant: center
-      backgroundColor: white
+      variant: side
+      backgroundColor: gray
+      size: md
+      alignment: left
   - textcards:
       title: Frequently-asked questions
       id: textcards
