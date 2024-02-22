@@ -44,7 +44,7 @@ sections:
             • Troubleshooting <br>
             • Managing account details
           linktext: Learn more
-          url: /my-account
+          url: /my-account/trouble-logging-in/forgot-password/
         - title: Security
           description: |-
             • 2-factor authentication <br> 
