@@ -5,6 +5,8 @@ collections:
       - Report a scam/.keep
       - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/Received SMS OTP that I did not request.md
+      - General security/How is Singpass app 2FA without needing Singpass ID and
+        password?.md
       - General security/.keep
       - General security/How can I keep my Singpass account safe?.md
       - General security/Why does Singpass app have no logout button?.md
