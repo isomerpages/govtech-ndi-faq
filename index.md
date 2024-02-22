@@ -30,7 +30,7 @@ sections:
           description: ""
           linktext: Update personal details
           url: ""
-        - title: I want to report a scam related to Singpass I wan
+        - title: I want to report a scam related to Singpass
           description: ""
           linktext: Report here
           url: ""
