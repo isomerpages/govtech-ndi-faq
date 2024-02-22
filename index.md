@@ -44,7 +44,7 @@ sections:
             • Troubleshooting <br>
             • Managing account details
           linktext: Learn more
-          url: ""
+          url: /my-account
         - title: Security
           description: |-
             • 2-factor authentication <br> 
