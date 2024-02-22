@@ -25,15 +25,15 @@ sections:
         - title: How do I register for a Singpass account?
           description: ""
           linktext: Register here
-          url: ""
+          url: /my-account/register-and-set-up/how-to-register/
         - title: How do I update my mobile number or email?
           description: ""
           linktext: Update personal details
-          url: ""
+          url: /my-account/managing-my-singpass-account/change-mobile-number/
         - title: I want to report a scam related to Singpass
           description: ""
           linktext: Report here
-          url: ""
+          url: /security/report-a-scam/report-scam/
   - textcards:
       title: Browse topics
       id: textcards
