@@ -21,7 +21,7 @@ sections:
         - title: I forgot my Singpass password. How do I reset it?
           description: ""
           linktext: Reset password
-          url: ""
+          url: /my-account/trouble-logging-in/forgot-password/
         - title: How do I register for a Singpass account?
           description: ""
           linktext: Register here
