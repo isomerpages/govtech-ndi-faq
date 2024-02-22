@@ -12,7 +12,7 @@ description: ""
 <p>Scam Support (available 24/7)</p>
 </li>
 <li>
-<p>General Enquires (Mon-Fri: 8am-8pm / Sat: 8am-2pm)</p>
+<p>General Enquires (Mon to Fri: 8am - 8pm / Sat: 8am - 2pm)</p>
 </li>
 </ul>
 <h4>Email us ✉️</h4>
