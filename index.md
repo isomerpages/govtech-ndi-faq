@@ -51,7 +51,7 @@ sections:
             • Face verification <br>
             • Report a scam
           linktext: Learn more
-          url: ""
+          url: /security/report-a-scam/report-scam/
         - title: Using Singpass
           description: |-
             • Singpass app <br>
