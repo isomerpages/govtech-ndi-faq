@@ -71,7 +71,7 @@ sections:
       id: infopic
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
-      url: /counter-locations
+      url: https://www.singpass.gov.sg/home/ui/counter-locations
       image: /images/ivan_placeholder.png
       alt: Image alt text
   - infopic:
