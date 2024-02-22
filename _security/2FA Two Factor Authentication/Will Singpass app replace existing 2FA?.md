@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2FA Two Factor Authentication
 ---
+<h3>Will Singpass app replace my existing Singpass 2FA methods?</h3>
+<p>Singpass app does not replace existing Singpass 2FA methods. You can still
+choose to use your existing Singpass 2FA mode(s), such as SMS 2FA or Face
+Verification. Singpass app is an alternative mode of 2FA.</p>
