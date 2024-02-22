@@ -83,13 +83,4 @@ sections:
       image: /images/otter2_placeholder.png
       description: Your digital identity contains personal information and should be
         treated like your physical identity card (e.g. NRIC or FIN).
-  - announcements:
-      id: announcements
-      announcement_items:
-        - title: New update
-          date: 14 February 2024
-          announcement: Insert release notes content
-          link_text: ""
-          link_url: ""
-      title: Latest updates
 ---
