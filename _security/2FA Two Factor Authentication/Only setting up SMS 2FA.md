@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: 2FA Two Factor Authentication
 ---
+<h3>Can I set up SMS 2FA only?</h3>
+<p>You can choose to set up SMS 2FA, Singpass app, or use Face Verification
+which does not require additional setup.</p>
