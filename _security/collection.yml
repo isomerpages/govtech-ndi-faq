@@ -16,16 +16,16 @@ collections:
       - General security/Can malicious apps gain access to my Singpass data?.md
       - General security/Accessing Singpass using public computers.md
       - General security/Singpass app auto closing with security alert.md
-      - 2FA Two Factor Authentication/Using SMS 2FA while travelling overseas.md
-      - 2FA Two Factor Authentication/Will Singpass app replace existing 2FA?.md
-      - 2FA Two Factor Authentication/What are my options for 2FA?.md
-      - 2FA Two Factor Authentication/OTP (one time password) expired.md
-      - 2FA Two Factor Authentication/What transactions require 2FA?.md
-      - 2FA Two Factor Authentication/Only setting up SMS 2FA.md
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
-      - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
+      - 2FA Two Factor Authentication/What transactions require 2FA?.md
+      - 2FA Two Factor Authentication/What are my options for 2FA?.md
+      - 2FA Two Factor Authentication/Only setting up SMS 2FA.md
+      - 2FA Two Factor Authentication/Using SMS 2FA while travelling overseas.md
+      - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
+      - 2FA Two Factor Authentication/Will Singpass app replace existing 2FA?.md
+      - 2FA Two Factor Authentication/OTP (one time password) expired.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/How does it work?.md
