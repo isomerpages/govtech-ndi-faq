@@ -5,6 +5,7 @@ collections:
       - Report a scam/.keep
       - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/Received SMS OTP that I did not request.md
+      - General security/App auto closing upon security alert.md
       - General security/How to see who have I shared my data with?.md
       - General security/What if I forget to logout?.md
       - General security/.keep
