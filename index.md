@@ -58,14 +58,14 @@ sections:
             • Corppass <br>
             • Digital IC & cards
           linktext: Learn more
-          url: ""
+          url: /using-singpass/overview/
         - title: General Info
           description: |-
             • About Singpass <br>
             • Singpass for Foreign Users <br>
             • Work pass holders
           linktext: Learn more
-          url: ""
+          url: /general-info/about-singpass/what-is-singpass/
   - infopic:
       title: Need in-person help?
       id: infopic
