@@ -10,9 +10,9 @@ collections:
       - General security/Why does Singpass app have no logout button?.md
       - General security/Can malicious apps gain access to my Singpass data?.md
       - General security/Accessing Singpass using public computers.md
-      - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
+      - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
