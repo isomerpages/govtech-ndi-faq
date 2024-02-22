@@ -6,8 +6,6 @@ collections:
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
       - About Singpass/Feedback on translations.md
-      - Family or trusted care usage/Can I continue using existing 2FA
-        methods?.md
       - Family or trusted care usage/.keep
       - Family or trusted care usage/Overview.md
       - Family or trusted care usage/What services are available for Multi User
@@ -15,6 +13,8 @@ collections:
       - Family or trusted care usage/How to sign up for Multi User 2FA?.md
       - Family or trusted care usage/Is this only for family members?.md
       - Family or trusted care usage/Is this available for overseas users?.md
+      - Family or trusted care usage/Can I continue using existing 2FA
+        methods?.md
       - Family or trusted care usage/Documents needed for LPA Donee.md
       - Family or trusted care usage/Documents needed for Court Order Deputy.md
       - Family or trusted care usage/Unable to be physically present for
