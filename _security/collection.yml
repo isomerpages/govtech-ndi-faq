@@ -20,12 +20,12 @@ collections:
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
       - 2FA Two Factor Authentication/Set up SMS 2FA.md
-      - Singpass Face Verification/Can I turn this feature off?.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/How does it work?.md
       - Singpass Face Verification/How to use?.md
       - Singpass Face Verification/How to set up?.md
+      - Singpass Face Verification/Can I turn this feature off?.md
       - Singpass Face Verification/Collection of data.md
       - Singpass Face Verification/How is my data protected?.md
       - Singpass Face Verification/Safeguards against impersonation.md
