@@ -72,7 +72,7 @@ sections:
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
       url: /counter-locations
-      image: /images/_300x300__Illust_w_Frame___Loading_Man_for_Personal.png
+      image: /images/ivan_placeholder.png
       alt: Image alt text
   - infopic:
       title: Keep your Singpass safe and secure
@@ -80,7 +80,7 @@ sections:
       button: Learn security tips
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
-      image: /images/Illust_w_Frame___App_Set_up_3___Otter_Tries_Face_ID.svg
+      image: /images/otter2_placeholder.png
   - announcements:
       id: announcements
       announcement_items:
