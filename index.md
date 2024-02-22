@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Hello! Welcome to Singpass Help Centre
-      background: /images/otter_placeholder.png
+      background: /images/otter_placeholder_1_.png
       variant: side
       backgroundColor: white
       size: md
@@ -72,7 +72,7 @@ sections:
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
-      image: /images/ivan_placeholder.png
+      image: /images/ivan_placeholder_1_.png
       alt: Image alt text
   - infopic:
       title: Keep your Singpass safe and secure
@@ -80,7 +80,7 @@ sections:
       button: Learn security tips
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
-      image: /images/otter2_placeholder.png
+      image: /images/otter2_placeholder_1_.png
       description: Your digital identity contains personal information and should be
         treated like your physical identity card (e.g. NRIC or FIN).
 ---
