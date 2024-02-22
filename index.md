@@ -81,6 +81,8 @@ sections:
       url: https://www.youtube.com/watch?v=kbkKQONONmE
       alt: Image alt text
       image: /images/otter2_placeholder.png
+      description: Your digital identity contains personal information and should be
+        treated like your physical identity card (e.g. NRIC or FIN).
   - announcements:
       id: announcements
       announcement_items:
