@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Hello! Welcome to Singpass Help Centre
-      background: /images/Frame_7509.png
+      background: /images/otter_placeholder.png
       variant: side
       backgroundColor: white
       size: md
