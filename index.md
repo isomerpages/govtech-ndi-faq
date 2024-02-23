@@ -39,32 +39,23 @@ sections:
       id: textcards
       cards:
         - title: My Account
-          description: |-
-            • Registration <br>
-            • Troubleshooting <br>
-            • Managing account details
-          linktext: Learn more
+          description: Registration, account troubleshooting, managing account details and
+            more
+          linktext: Go to section
           url: /my-account/trouble-logging-in/forgot-password/
         - title: Security
-          description: |-
-            • 2-factor authentication <br> 
-            • Face verification <br>
-            • Report a scam
-          linktext: Learn more
+          description: Topics related to 2-factor authentication, face verification, scam
+            reports
+          linktext: Go to section
           url: /security/report-a-scam/report-scam/
         - title: Using Singpass
-          description: |-
-            • Singpass app <br>
-            • Corppass <br>
-            • Digital IC & cards
-          linktext: Learn more
+          description: Using the Singpass app, Corppass, features like Digital IC, cards
+            and more
+          linktext: Go to section
           url: /using-singpass/overview/
         - title: General Info
-          description: |-
-            • About Singpass <br>
-            • Singpass for Foreign Users <br>
-            • Work pass holders
-          linktext: Learn more
+          description: Learn more about Singpass, how it works and more
+          linktext: Go to section
           url: /general-info/about-singpass/what-is-singpass/
   - infopic:
       title: Need in-person help?
