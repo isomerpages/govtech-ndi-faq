@@ -19,6 +19,13 @@ service, instead of repeatedly providing data for every online transaction.
 Users can view their own personal data profile on their Singpass app under
 Profile.</p>
 <p></p>
+<h4>What are the benefits of Myinfo?</h4>
+<p>By using your profile, you can enjoy the following 3 benefits:</p>
+<p>• No more repetitive filling of your personal information for multiple
+online transactions;</p>
+<p>• Reduce incidence of mistakes as a result of human error;</p>
+<p>• Do away with the need for physical documents as verifications to complete
+transactions.&nbsp;</p>
 <hr>
 <p><em>Tags: my, info</em>
 </p>
