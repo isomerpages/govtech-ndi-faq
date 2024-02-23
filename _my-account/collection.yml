@@ -2,7 +2,6 @@ collections:
   my-account:
     output: true
     order:
-      - Random page.md
       - Trouble logging in/.keep
       - Trouble logging in/Forgot (or reset) password.md
       - Trouble logging in/Did not receive OTP or One Time Password.md
