@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Myinfo
 ---
-<h3>How does Myinfo work for government digital services?</h3>
+<h3>How Myinfo works for:</h3>
+<h4>Government digital services</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Authentication</strong>:<strong> </strong>After initiating a transaction,
@@ -53,4 +54,32 @@ data.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>Private sector services</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Choose Myinfo option</strong>: you must click on the ‘Retrieve
+Myinfo’ button when using private sector digital services&nbsp;to launch
+the service.</p>
+</li>
+<li>
+<p><strong>Authentication</strong>: Upon clicking ‘Retrieve Myinfo’, you
+will be directed to Singpass to authenticate yourself.</p>
+</li>
+<li>
+<p><strong>Give consent</strong>: To protect your privacy, you are required
+to explicitly give consent for any information to be used with private
+sector digital services. If you do not give consent, you can proceed to
+fill up the form manually and submit the requested supporting documents.&nbsp;</p>
+</li>
+<li>
+<p><strong>Verification</strong>: Once consent has been obtained, your details
+will be retrieved from various participating public&nbsp;agencies into
+the digital service form. Please verify that the information in the form
+is accurate.</p>
+</li>
+<li>
+<p><strong>Submit the application</strong>: Complete the transaction.&nbsp;</p>
+</li>
+</ol>
 <p></p>
