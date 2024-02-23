@@ -34,20 +34,16 @@ agency.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Citizen / Permanent Resident</strong>
-</p>
+<p>Singapore Citizen / Permanent Resident</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Foreigner</strong>
-</p>
+<p>Foreigner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Citizen / Permanent Resident</strong>
-</p>
+<p>Singapore Citizen / Permanent Resident</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Foreigner</strong>
-</p>
+<p>Foreigner</p>
 </td>
 </tr>
 <tr>
@@ -58,67 +54,56 @@ agency.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name in NRIC/FIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ica.gov.sg/documents/ic/update_particulars" rel="noopener" target="_blank"><u>ICA</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name in NRIC/FIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.ica.gov.sg/documents/ic/update_particulars" rel="noopener" target="_blank"><u>ICA</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/#!/5ba84de965171a000fda5f3e" rel="noopener" target="_blank"><u>MOM</u></a></strong>
+<p><a href="https://form.gov.sg/#!/5ba84de965171a000fda5f3e" rel="noopener" target="_blank"><u>MOM</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Work Permit Holder</strong>
-</p>
+<p>Work Permit Holder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/notify-mom-of-changes" rel="noopener" target="_blank"><u>MOM</u></a></strong>
+<p><a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/notify-mom-of-changes" rel="noopener" target="_blank"><u>MOM</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Employment Pass Holder</strong>
-</p>
+<p>Employment Pass Holder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mom.gov.sg/passes-and-permits/employment-pass/notify-mom-of-changes" rel="noopener" target="_blank"><u>MOM</u></a></strong>
+<p><a href="https://www.mom.gov.sg/passes-and-permits/employment-pass/notify-mom-of-changes" rel="noopener" target="_blank"><u>MOM</u></a>
 </p>
 </td>
 </tr>
@@ -130,19 +115,16 @@ agency.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
+<p>✔</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Residential Address</strong>
-</p>
+<p>Residential Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener" target="_blank"><u>ICA</u></a></strong>
+<p><a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener" target="_blank"><u>ICA</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,68 +148,55 @@ agency.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Update Marital Status</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.marriage.gov.sg/marital-status-update" rel="noopener" target="_blank"><u>MSF</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Update Marital Status</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.marriage.gov.sg/marital-status-update" rel="noopener" target="_blank"><u>MSF</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔&nbsp;</strong>
-</p>
+<p>✔&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Update Local* Marriage</strong>
-</p>
+<p>Update Local* Marriage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.marriage.gov.sg/marital-status-update" rel="noopener" target="_blank"><u>MSF</u></a></strong>&nbsp;<strong>&nbsp;</strong>
-</p>
+<p><a href="https://www.marriage.gov.sg/marital-status-update" rel="noopener" target="_blank"><u>MSF</u></a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other enquiries related to marital status updates</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:msf_msr@msf.gov.sg" rel="noopener" target="_blank"><u>MSF</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Other enquiries related to marital status updates</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:msf_msr@msf.gov.sg" rel="noopener" target="_blank"><u>MSF</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -247,23 +216,20 @@ the marriage in Singapore, but is now Singapore Citizen/Permanent Resident.&nbsp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vehicle Ownership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feedback@lta.gov.sg" rel="noopener" target="_blank"><u>LTA</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>✔</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Vehicle Ownership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:feedback@lta.gov.sg" rel="noopener" target="_blank"><u>LTA</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:feedback@lta.gov.sg" rel="noopener" target="_blank"><u>LTA</u></a></strong>
+<p><a href="mailto:feedback@lta.gov.sg" rel="noopener" target="_blank"><u>LTA</u></a>
 </p>
 </td>
 </tr>
