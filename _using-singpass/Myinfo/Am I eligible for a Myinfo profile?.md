@@ -9,3 +9,5 @@ third_nav_title: Myinfo
 <p>All Singpass users will have a profile. Foreigners who have a valid permit
 (e.g. work permit / employment pass) can also register for Singpass and
 have their own Profile.</p>
+<hr>
+<p>Tags: my, info</p>
