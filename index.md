@@ -20,19 +20,19 @@ sections:
       cards:
         - title: I forgot my Singpass password. How do I reset it?
           description: ""
-          linktext: Reset password
+          linktext: →
           url: /my-account/trouble-logging-in/forgot-password/
         - title: How do I register for a Singpass account?
           description: ""
-          linktext: Register here
+          linktext: →
           url: /my-account/register-and-set-up/how-to-register/
         - title: How do I update my mobile number or email?
           description: ""
-          linktext: Update personal details
+          linktext: →
           url: /my-account/managing-my-singpass-account/change-mobile-number/
         - title: I want to report a scam related to Singpass
           description: ""
-          linktext: Report here
+          linktext: →
           url: /security/report-a-scam/report-scam/
   - textcards:
       title: Browse topics
