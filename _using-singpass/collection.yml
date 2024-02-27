@@ -10,14 +10,13 @@ collections:
       - Login shortcuts/.keep
       - Login shortcuts/What are Login Shortcuts?.md
       - Login shortcuts/How to use Login Shorcuts.md
-      - Myinfo/Change in data fields available.md
-      - Myinfo/Can I choose what data to display?.md
       - Myinfo/.keep
       - Myinfo/What is Myinfo?.md
       - Myinfo/Which digital services can I use Myinfo for?.md
       - Myinfo/How does Myinfo work?.md
       - Myinfo/Key functions available for Myinfo profile.md
       - Myinfo/How do I provide my information?.md
+      - Myinfo/Can I choose what data to display?.md
       - Myinfo/How do I update Myinfo?.md
       - Myinfo/Am I eligible for a Myinfo profile?.md
       - Myinfo/Security measures to safeguard data.md
@@ -26,6 +25,7 @@ collections:
       - Myinfo/Why wasn't my financial info auto filled?.md
       - Myinfo/Can I delete my profile?.md
       - Myinfo/Inactive Myinfo Profile.md
+      - Myinfo/Change in data fields available.md
       - Myinfo/Printing my CPF Contribution history.md
       - Myinfo/Myinfo helpdesk.md
       - Digital IC/.keep
