@@ -16,16 +16,17 @@ card.
 <br>You may refer to these links for more FAQs on the specific cards:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Digital IC</p>
+<p><a href="/using-singpass/digital-ic/what-is/" rel="noopener noreferrer nofollow" target="_blank">Digital IC</a>
+</p>
 </li>
 <li>
 <p>Practising Certificates (PCs) from the healthcare Professional Boards
 (<a href="https://www.healthprofessionals.gov.sg/ahpc/home/announcement/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>AHPC</u></a>,&nbsp;
-<a href="https://www.healthprofessionals.gov.sg/oob/home/Announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>OOB</u>
+<a href="https://www.healthprofessionals.gov.sg/oob/home/Announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>OOB</u> 
 </a>,&nbsp;<a href="https://www.healthprofessionals.gov.sg/sdc/home/announcement/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SDC</u></a>,&nbsp;
-<a href="https://www.healthprofessionals.gov.sg/smc/home/announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SMC</u>
+<a href="https://www.healthprofessionals.gov.sg/smc/home/announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SMC</u> 
 </a>,&nbsp;<a href="https://www.healthprofessionals.gov.sg/snb/home/Announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SNB</u></a>,&nbsp;
-<a href="https://www.healthprofessionals.gov.sg/spc/home/Announcement/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SPC</u>
+<a href="https://www.healthprofessionals.gov.sg/spc/home/Announcement/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>SPC</u> 
 </a>,&nbsp;<a href="https://www.healthprofessionals.gov.sg/tcmpb/en/home/Announcements/Index/your-digital-practising-certificate-in-the-singpass-app" rel="noopener" target="_blank"><u>TCMPB</u></a>)</p>
 </li>
 <li>
