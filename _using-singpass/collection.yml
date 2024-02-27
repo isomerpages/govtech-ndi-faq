@@ -5,6 +5,8 @@ collections:
       - Overview.md
       - Singpass app/.keep
       - Singpass app/What is Singpass app?.md
+      - Login & Singpass QR code/What are the different methods to log in to
+        Singpass?.md
       - Login & Singpass QR code/.keep
       - Login & Singpass QR code/Using the QR code scanner.md
       - Login shortcuts/.keep
