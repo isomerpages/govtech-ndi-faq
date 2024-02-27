@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Overview.md
-      - Singpass app/Do I need an internet connection to use Singpass?.md
-      - Singpass app/Accessing digital services.md
-      - Singpass app/Multi language support.md
-      - Singpass app/My Profile.md
-      - Singpass app/Why is there no logout button?.md
       - Singpass app/.keep
       - Singpass app/What is Singpass app?.md
+      - Singpass app/Accessing digital services.md
+      - Singpass app/My Profile.md
+      - Singpass app/Multi language support.md
+      - Singpass app/Why is there no logout button?.md
+      - Singpass app/Do I need an internet connection to use Singpass?.md
       - Login & Singpass QR code/.keep
       - Login & Singpass QR code/What are the different methods to log in to
         Singpass?.md
