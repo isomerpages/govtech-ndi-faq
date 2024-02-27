@@ -2,8 +2,6 @@ collections:
   security:
     output: true
     order:
-      - OneKey token/Setting up another 2FA method.md
-      - OneKey token/.keep
       - Report a scam/.keep
       - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/Received SMS OTP that I did not request.md
@@ -53,3 +51,5 @@ collections:
       - Suspending your account/Unable to suspend after calling Helpdesk.md
       - Suspending your account/Unable to suspend through self service.md
       - Suspending your account/Reactivating a suspended account.md
+      - OneKey token/.keep
+      - OneKey token/Setting up another 2FA method.md
