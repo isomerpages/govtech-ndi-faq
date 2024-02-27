@@ -45,6 +45,7 @@ collections:
       - Biometric authentication/Singpass app only supports strong biometrics.md
       - Biometric authentication/What strong biometrics can I set up?.md
       - Biometric authentication/Precautions to take with biometrics.md
+      - OneKey token/How to set up SMS 2FA.md
       - OneKey token/.keep
       - OneKey token/Setting up another 2FA method.md
       - OneKey token/What are the alternatives if i have no mobile phone?.md
