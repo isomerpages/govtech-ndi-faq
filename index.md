@@ -20,42 +20,42 @@ sections:
       cards:
         - title: I forgot my Singpass password. How do I reset it?
           description: ""
-          linktext: →
+          linktext: View answer →
           url: /my-account/trouble-logging-in/forgot-password/
         - title: How do I register for a Singpass account?
           description: ""
-          linktext: →
+          linktext: View answer →
           url: /my-account/register-and-set-up/how-to-register/
         - title: How do I update my mobile number or email?
           description: ""
-          linktext: →
+          linktext: View answer →
           url: /my-account/managing-my-singpass-account/change-mobile-number/
         - title: I want to report a scam related to Singpass
           description: ""
-          linktext: →
+          linktext: View answer →
           url: /security/report-a-scam/report-scam/
   - textcards:
       title: Browse topics
       id: textcards
       cards:
-        - title: My Account
+        - title: My Account 👤
           description: Registration, account troubleshooting, managing account details and
             more
-          linktext: Go to section
+          linktext: Go to section →
           url: /my-account/trouble-logging-in/forgot-password/
-        - title: Security
+        - title: Security 🔒
           description: Topics related to 2-factor authentication, face verification, scam
             reports
-          linktext: Go to section
+          linktext: Go to section →
           url: /security/report-a-scam/report-scam/
-        - title: Using Singpass
+        - title: Using Singpass 🔑
           description: Using the Singpass app, Corppass, features like Digital IC, cards
             and more
-          linktext: Go to section
+          linktext: Go to section →
           url: /using-singpass/overview/
-        - title: General Info
+        - title: General Info 📚
           description: Learn more about Singpass, how it works and more
-          linktext: Go to section
+          linktext: Go to section →
           url: /general-info/about-singpass/what-is-singpass/
   - infopic:
       title: Need in-person help?
