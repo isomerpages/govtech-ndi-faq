@@ -82,4 +82,5 @@ is accurate.</p>
 <p><strong>Submit the application</strong>: Complete the transaction.&nbsp;</p>
 </li>
 </ol>
-<p></p>
+<hr>
+<p>Tags: my, info</p>
