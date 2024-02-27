@@ -2,8 +2,6 @@ collections:
   using-singpass:
     output: true
     order:
-      - Document Wallet/What is Document Wallet?.md
-      - Document Wallet/.keep
       - Overview.md
       - Singpass app/.keep
       - Singpass app/What is Singpass app?.md
@@ -63,5 +61,7 @@ collections:
       - NS Benefits/What is the NS benefits feature?.md
       - NS Benefits/Is pay out balance updated in real time?.md
       - NS Benefits/Amount on Singpass app different from letter or SMS.md
+      - Document Wallet/.keep
+      - Document Wallet/What is Document Wallet?.md
       - Corppass/.keep
       - Corppass/What is My Corporate Profile on Singpass app?.md
