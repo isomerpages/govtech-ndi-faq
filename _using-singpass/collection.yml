@@ -2,6 +2,7 @@ collections:
   using-singpass:
     output: true
     order:
+      - Document Wallet/What is Document Wallet?.md
       - Document Wallet/.keep
       - Overview.md
       - Singpass app/.keep
