@@ -7,7 +7,7 @@ third_nav_title: Singpass app
 ---
 <h3>What is Singpass app?</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="singpass app home screen with text: singpass, your trusted digital identity" src="/images/singpass_app_feature_image.png">
+<img style="width: 75%;" height="auto" width="100%" alt="singpass app home screen with text: singpass, your trusted digital identity" src="/images/singpass_app_feature_image.png">
 </div>
 <p>Singpass app is a mobile application that is available on iOS, Android
 and Huawei operating systems. The Singpass app is compatible with operating
@@ -24,3 +24,7 @@ from government agencies.
 <br>
 <br>More features will be added to the app so keep your app updated!</p>
 <p></p>
+<h3>Is Singpass app free?</h3>
+<p>Singpass app is free. All you need is a smartphone and Internet connection
+to access services enabled by Singpass, even when you are on-the-go or
+overseas.</p>
