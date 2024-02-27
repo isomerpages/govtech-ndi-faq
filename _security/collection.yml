@@ -2,6 +2,7 @@ collections:
   security:
     output: true
     order:
+      - OneKey token/Setting up another 2FA method.md
       - OneKey token/.keep
       - Report a scam/.keep
       - Report a scam/Reporting a scam or account compromised.md
