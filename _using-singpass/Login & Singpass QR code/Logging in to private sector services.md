@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Login & Singpass QR code
 ---
-<h3>Can I log in to private sector services using Singpass?</h3>
+<h3>How do I log in to private sector digital services using Singpass?</h3>
+<p>Singpass users can log in to participating private organisations' digital
+services using the Singpass app only. With the Singpass app, users can
+tap/ scan the Singpass QR code on the login page and authenticate using
+their face, fingerprint or six-digit passcode.</p>
+<h3>List of private sector services using log in with Singpass</h3>
 <p>As part of the National Digital Identity initiative, the Singpass team
 is working with industry partners to extend the use of Singpass app to
 private sector services. This saves users the hassle of remembering different
