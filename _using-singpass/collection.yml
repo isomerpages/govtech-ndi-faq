@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Singpass app/Do I need an internet connection?.md
       - Singpass app/Accessing digital services.md
       - Singpass app/Multi language support.md
       - Singpass app/My Profile.md
