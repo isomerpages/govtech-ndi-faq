@@ -23,11 +23,11 @@ Certification Authority from <a href="https://www.nca.gov.sg/SNRCA-G1.fdf" rel="
 complete the one-time configuration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="screenshot of the data exchange file, import contact feature" src="/images/sign_configure_adobe_1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="screenshot of the data exchange file, import contact feature" src="/images/sign_configure_adobe_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="screenshot of the import contact settings feature" src="/images/sign_configure_adobe_2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="screenshot of the import contact settings feature" src="/images/sign_configure_adobe_2.png">
 </div>
 <p></p>
 </li>
