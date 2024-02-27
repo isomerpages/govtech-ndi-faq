@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Singpass app/Multi language support.md
       - Singpass app/My Profile.md
       - Singpass app/Why is there no logout button?.md
       - Singpass app/.keep
