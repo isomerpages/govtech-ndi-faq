@@ -36,7 +36,6 @@ collections:
       - Digital IC/.keep
       - Digital IC/What is the Digital IC?.md
       - My Cards/.keep
-      - Sign with Singpass/What is a signing certificate?.md
       - Sign with Singpass/.keep
       - Sign with Singpass/What is Sign with Singpass?.md
       - Sign with Singpass/How do I sign with Singpass?.md
@@ -44,6 +43,7 @@ collections:
       - Sign with Singpass/Safeguards put in place.md
       - Sign with Singpass/Will signed documents be stored on Singpass app?.md
       - Sign with Singpass/Do I still need to sign a hardcopy?.md
+      - Sign with Singpass/What is a signing certificate?.md
       - Sign with Singpass/What if I don't have a signing certificate?.md
       - Sign with Singpass/Downloading the Root NCA certificate.md
       - Sign with Singpass/Configure Adobe Acrobat Reader to auto validate.md
