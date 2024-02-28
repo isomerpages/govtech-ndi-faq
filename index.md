@@ -30,10 +30,6 @@ sections:
           description: ""
           linktext: View answer →
           url: /my-account/managing-my-singpass-account/change-mobile-number/
-        - title: I want to report a scam related to Singpass
-          description: ""
-          linktext: View answer →
-          url: /security/report-a-scam/report-scam/
   - textcards:
       title: Browse topics
       id: textcards
