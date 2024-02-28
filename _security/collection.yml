@@ -46,8 +46,8 @@ collections:
       - Biometric authentication/What strong biometrics can I set up?.md
       - Biometric authentication/Precautions to take with biometrics.md
       - OneKey token   discontinued/.keep
-      - OneKey token   discontinued/What are the alternatives if i have no
-        mobile phone?.md
+      - OneKey token   discontinued/Alternatives to OneKey token if i don't have
+        a mobile phone.md
       - OneKey token   discontinued/How to set up SMS 2FA.md
       - OneKey token   discontinued/Setting up another 2FA method.md
       - Suspending your account/.keep
