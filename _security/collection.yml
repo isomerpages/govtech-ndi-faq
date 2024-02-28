@@ -5,6 +5,20 @@ collections:
       - Report a scam/.keep
       - Report a scam/Reporting a scam or account compromised.md
       - Report a scam/Received SMS OTP that I did not request.md
+      - Singpass Face Verification/.keep
+      - Singpass Face Verification/What is Singpass Face Verification?.md
+      - Singpass Face Verification/How does it work?.md
+      - Singpass Face Verification/How to use?.md
+      - Singpass Face Verification/How to set up?.md
+      - Singpass Face Verification/Can I turn this feature off?.md
+      - Singpass Face Verification/Collection of data.md
+      - Singpass Face Verification/How is my data protected?.md
+      - Singpass Face Verification/Safeguards against impersonation.md
+      - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
+      - Singpass Face Verification/Why am I suddenly prompted?.md
+      - Singpass Face Verification/Singpass Face Verification unsuccessful.md
+      - Singpass Face Verification/Alternatives to Singpass Face Verification.md
+      - Singpass Face Verification/What if my facial features change?.md
       - General security/.keep
       - General security/How can I keep my Singpass account safe?.md
       - General security/How does my data remain secure during transactions?.md
@@ -26,20 +40,6 @@ collections:
       - 2FA Two Factor Authentication/How is Singpass app a mode of 2FA?.md
       - 2FA Two Factor Authentication/Will Singpass app replace existing 2FA?.md
       - 2FA Two Factor Authentication/OTP (one time password) expired.md
-      - Singpass Face Verification/.keep
-      - Singpass Face Verification/What is Singpass Face Verification?.md
-      - Singpass Face Verification/How does it work?.md
-      - Singpass Face Verification/How to use?.md
-      - Singpass Face Verification/How to set up?.md
-      - Singpass Face Verification/Can I turn this feature off?.md
-      - Singpass Face Verification/Collection of data.md
-      - Singpass Face Verification/How is my data protected?.md
-      - Singpass Face Verification/Safeguards against impersonation.md
-      - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
-      - Singpass Face Verification/Why am I suddenly prompted?.md
-      - Singpass Face Verification/Singpass Face Verification unsuccessful.md
-      - Singpass Face Verification/Alternatives to Singpass Face Verification.md
-      - Singpass Face Verification/What if my facial features change?.md
       - Biometric authentication/.keep
       - Biometric authentication/Strong vs weak biometrics.md
       - Biometric authentication/Singpass app only supports strong biometrics.md
