@@ -44,9 +44,9 @@ collections:
       - 2FA Two Factor Authentication/Will Singpass app replace existing 2FA?.md
       - 2FA Two Factor Authentication/OTP (one time password) expired.md
       - Biometric authentication/.keep
-      - Biometric authentication/Strong vs weak biometrics.md
-      - Biometric authentication/Singpass app only supports strong biometrics.md
       - Biometric authentication/What strong biometrics can I set up?.md
+      - Biometric authentication/Singpass app only supports strong biometrics.md
+      - Biometric authentication/Strong vs weak biometrics.md
       - Biometric authentication/Precautions to take with biometrics.md
       - OneKey token   discontinued/.keep
       - OneKey token   discontinued/How to set up SMS 2FA to replace OneKey
