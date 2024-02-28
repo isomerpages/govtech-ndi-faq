@@ -16,6 +16,5 @@ This includes the latest photograph you have provided to the Immigration
 passport or re-registered your NRIC. The retrieval of the latest photograph
 from ICA’s records for display on the Singpass Digital IC applies to all
 Singpass users.</p>
-<p>&nbsp;</p>
 <p>The updated photograph in the app helps counter officers verify your identity
 more accurately, improving overall security for users.</p>
