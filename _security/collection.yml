@@ -19,17 +19,20 @@ collections:
       - Singpass Face Verification/Singpass Face Verification unsuccessful.md
       - Singpass Face Verification/Alternatives to Singpass Face Verification.md
       - Singpass Face Verification/What if my facial features change?.md
-      - General security/.keep
-      - General security/How can I keep my Singpass account safe?.md
-      - General security/How does my data remain secure during transactions?.md
-      - General security/What if I forget to logout of a digital service?.md
-      - General security/Why does Singpass app have no logout button?.md
-      - General security/How to review transaction history.md
-      - General security/How to see who have I shared my data with?.md
-      - General security/Can Singpass app access my personal files?.md
-      - General security/Can malicious apps gain access to my Singpass data?.md
-      - General security/Accessing Singpass using public computers.md
-      - General security/Singpass app auto closing with security alert.md
+      - Account & app security/.keep
+      - Account & app security/How can I keep my Singpass account safe?.md
+      - Account & app security/How does my data remain secure during
+        transactions?.md
+      - Account & app security/What if I forget to logout of a digital
+        service?.md
+      - Account & app security/Why does Singpass app have no logout button?.md
+      - Account & app security/How to review transaction history.md
+      - Account & app security/How to see who have I shared my data with?.md
+      - Account & app security/Can Singpass app access my personal files?.md
+      - Account & app security/Can malicious apps gain access to my Singpass
+        data?.md
+      - Account & app security/Accessing Singpass using public computers.md
+      - Account & app security/Singpass app auto closing with security alert.md
       - 2FA Two Factor Authentication/.keep
       - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - 2FA Two Factor Authentication/How to set up SMS 2FA?.md
