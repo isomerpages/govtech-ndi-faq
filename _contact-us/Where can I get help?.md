@@ -28,87 +28,134 @@ following:</p>
 </p>
 </li>
 </ul>
-<p>If you visiting a Singpass counter, please bring the following documents
-for verification purposes:</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required Documents</p>
-<p>(Must be original and are still valid)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Citizens (SC) &amp; Permanent</strong>
-</p>
-<p><strong>Residents (PR)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<h4>If you are visiting a Singpass counter, <strong>please bring the following documents for verification purposes</strong>:</h4>
+<h4><em>Singapore Citizens (SC) &amp; Permanent Residents (PR)</em></h4>
 <p><strong>For Singaporean (SC):</strong>
 </p>
-<p>1. National Registration Identification Card (NRIC) or</p>
-<p>2. Singapore Passport or</p>
-<p>3. Singapore Driving Licence or</p>
-<p>4. National Service IDs (11Bs) from SAF, SPF and SCDF</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Registration Identification Card (NRIC)</p>
+</li>
+<li>
+<p>or Singapore Passport</p>
+</li>
+<li>
+<p>or Singapore Driving Licence</p>
+</li>
+<li>
+<p>or National Service IDs (11Bs) from SAF, SPF and SCDF</p>
+</li>
+</ul>
 <p><strong>For National Service Personnel:</strong>
 </p>
-<p>1. National Service IDs (11Bs) from SAF, SPF and SCDF or</p>
-<p>2. Singapore Passport or</p>
-<p>3. Singapore Driving License</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Service IDs (11Bs) from SAF, SPF and SCDF</p>
+</li>
+<li>
+<p>or Singapore Passport</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
 <p><strong>For Permanent Residents (PR):</strong>
 </p>
-<p>1. National Registration Identification Card (NRIC) or</p>
-<p>2. Passport with Re-entry Permit or</p>
-<p>3. Singapore Driving Licence or</p>
-<p>4. National Service IDs from SAF, SPF and SCDF</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Foreign Identity Number (FIN) Card Holders</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Registration Identification Card (NRIC) or</p>
+</li>
+<li>
+<p>or Passport with Re-entry Permit or</p>
+</li>
+<li>
+<p>or Singapore Driving Licence or</p>
+</li>
+<li>
+<p>or National Service IDs from SAF, SPF and SCDF</p>
+</li>
+</ul>
+<h4><em>Foreign Identity Number (FIN) Card Holders</em></h4>
+<p><strong>For Employment Pass and Personalised Employment Pass Holders:</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>For Employment Pass and Personalised Employment Pass Holders</strong>
-</p>
-<p>1. Employment Pass (EP) Card or</p>
-<p>2. Personalised Pass (PEP) card or</p>
-<p>3. Singapore Driving License</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Employment Pass (EP) Card</p>
+</li>
+<li>
+<p>or Personalised Pass (PEP) card</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
 <p><strong>For S-Pass Holders</strong>
 </p>
-<p>1. S-Pass Card or</p>
-<p>2. Singapore Driving License</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S-Pass Card</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
 <p><strong>For Eligible Work permit (WP) holders</strong>
 </p>
-<p>1. WP Card or</p>
-<p>2. Singapore Driving License</p>
-<p><strong>For Dependent Pass Holders </strong>(of EP, PEP, EntrePass and
-S-Pass)</p>
-<p>1. DP Pass card or</p>
-<p>2. Singapore Driving Licence</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>WP Card</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
+<p><strong>For Dependent Pass Holders <em>(of EP, PEP, EntrePass and S-Pass)</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>DP Pass card</p>
+</li>
+<li>
+<p>or Singapore Driving Licence</p>
+</li>
+</ul>
 <p><strong>For Long-Term Visit Pass-Plus (LTVP+) or Long-Term Visit Pass Holders</strong>
 </p>
-<p>1. Visit Pass (PLUS) Card/Visit Pass Card or</p>
-<p>2. Singapore Driving License</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit Pass (PLUS) Card/Visit Pass Card</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
 <p><strong>EntrePass Holders</strong>
 </p>
-<p>1. EntrePass card or</p>
-<p>2. Approval-In-Principle letter (AIP) and Passport or</p>
-<p>3. Singapore Driving License</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>EntrePass card</p>
+</li>
+<li>
+<p>or Approval-In-Principle letter (AIP) and Passport</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+</li>
+</ul>
 <p><strong>Student Pass Holders</strong>
 </p>
-<p>1. Student Pass card</p>
-<p>2. Singapore Driving License</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;Important Notes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Pass card</p>
+</li>
+<li>
+<p>or Singapore Driving License</p>
+<p></p>
+</li>
+</ul>
+<hr>
+<p><em>Important notes:</em>
+</p>
 <p>Only original documents listed in the above table will be accepted at
 the Singpass counter for verification (Documents, such as In-Principle-
 Approval (IPA) Letter, police report for lost NRIC, ez-link card and senior
