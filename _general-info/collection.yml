@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/What information can business users see?.md
       - Business users/What information do different account holders see?.md
       - Business users/Auto linking future Corppass accounts assigned to you.md
       - Business users/Unlinking Corppass accounts in Singpass app.md
