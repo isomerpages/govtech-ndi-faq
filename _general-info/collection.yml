@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/Unlinking Corppass accounts in Singpass app.md
       - Business users/Some or none of Corppass accounts appearing during
         linking.md
       - Business users/What other features are available?.md
