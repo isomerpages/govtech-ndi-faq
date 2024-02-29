@@ -16,15 +16,16 @@ following:</p>
 </p>
 </li>
 <li>
-<p><a href="security/2fa-two-factor-authentication/setup-sms-2fa/" rel="noopener noreferrer nofollow" target="_blank"><u>Set up SMS 2FA</u></a>
+<p><a href="/security/2fa-two-factor-authentication/setup-sms-2fa/" rel="noopener noreferrer nofollow" target="_blank"><u>Set up SMS 2FA</u></a>
 </p>
 </li>
 <li>
-<p><a href="my-account/trouble-logging-in/forgot-password/" rel="noopener noreferrer nofollow" target="_blank">Reset Singpass password</a>
+<p><a href="/my-account/trouble-logging-in/forgot-password/" rel="noopener noreferrer nofollow" target="_blank">Reset Singpass password</a>
 </p>
 </li>
 <li>
-<p>Update account information, e.g. mobile number</p>
+<p>Update account information, e.g. <a href="/my-account/managing-my-singpass-account/change-mobile-number/" rel="noopener noreferrer nofollow" target="_blank">mobile number</a>
+</p>
 </li>
 </ul>
 <p>If you visiting a Singpass counter, please bring the following documents
