@@ -2,23 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Business users/How to access My Corporate Profile?.md
-      - Business users/What is My Corporate Profile on Singpass app?.md
-      - Business users/Access to My Corporate Profile.md
-      - Business users/Will the Singpass app replace Corppass?.md
-      - Business users/Is my Corppass account valid for My Corporate Profile
-        feature?.md
-      - Business users/Updating My Corporate Profile data.md
-      - Business users/Corporate data privacy on Singpass app.md
-      - Business users/What information can business users see?.md
-      - Business users/What information do different account holders see?.md
-      - Business users/Auto linking future Corppass accounts assigned to you.md
-      - Business users/Unlinking Corppass accounts in Singpass app.md
-      - Business users/Some or none of Corppass accounts appearing during
-        linking.md
-      - Business users/What other features are available?.md
-      - Business users/Multi language support.md
-      - Business users/.keep
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
@@ -54,6 +37,23 @@ collections:
         Singpass app.md
       - Singaporeans located overseas/I don't have a Singapore registered mobile
         number.md
+      - Business users/.keep
+      - Business users/How to access My Corporate Profile?.md
+      - Business users/What is My Corporate Profile on Singpass app?.md
+      - Business users/Access to My Corporate Profile.md
+      - Business users/Will the Singpass app replace Corppass?.md
+      - Business users/Is my Corppass account valid for My Corporate Profile
+        feature?.md
+      - Business users/Updating My Corporate Profile data.md
+      - Business users/Corporate data privacy on Singpass app.md
+      - Business users/What information can business users see?.md
+      - Business users/What information do different account holders see?.md
+      - Business users/Auto linking future Corppass accounts assigned to you.md
+      - Business users/Unlinking Corppass accounts in Singpass app.md
+      - Business users/Some or none of Corppass accounts appearing during
+        linking.md
+      - Business users/What other features are available?.md
+      - Business users/Multi language support.md
       - Singpass Foreign user Account/.keep
       - Singpass Foreign user Account/Overview.md
       - Singpass Foreign user Account/Services available.md
