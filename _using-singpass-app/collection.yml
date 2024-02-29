@@ -2,7 +2,6 @@ collections:
   using-singpass-app:
     output: true
     order:
-      - Set up Singpass app/.keep
       - About Singpass app/.keep
       - About Singpass app/What is Singpass app?.md
       - About Singpass app/Accessing digital services.md
@@ -10,6 +9,7 @@ collections:
       - About Singpass app/Multi language support.md
       - About Singpass app/Why is there no logout button?.md
       - About Singpass app/Do I need an internet connection to use Singpass?.md
+      - Set up Singpass app/.keep
       - Login & Singpass QR code/.keep
       - Login & Singpass QR code/What are the different methods to log in to
         Singpass?.md
