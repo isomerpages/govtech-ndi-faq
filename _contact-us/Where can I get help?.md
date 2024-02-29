@@ -28,7 +28,7 @@ following:</p>
 </p>
 </li>
 </ul>
-<h4>If you are visiting a Singpass counter, <strong>please bring the following documents for verification purposes</strong>:</h4>
+<h4>If you are visiting a <a href="https://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank">Singpass counter</a>, <strong>please bring the following documents for verification purposes</strong>:</h4>
 <h4><em>Singapore Citizens (SC) &amp; Permanent Residents (PR)</em></h4>
 <p><strong>For Singaporean (SC):</strong>
 </p>
