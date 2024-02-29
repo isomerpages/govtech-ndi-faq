@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Family (multi user) usage
 ---
-<h3>What is family/trusted care usage? (also known as Multi-User SMS 2FA)</h3>
+<h3>What is Multi-User SMS 2FA?</h3>
 <p>We recognise that there might be a group of users without personal mobile
 smartphones and/or computers. These users may rely on a trusted family
 member or caregiver to help transact digitally with the Government.
