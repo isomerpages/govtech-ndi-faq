@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/Access to My Corporate Profile.md
       - Business users/Will the Singpass app replace Corppass?.md
       - Business users/Is my Corppass account valid for My Corporate Profile
         feature?.md
