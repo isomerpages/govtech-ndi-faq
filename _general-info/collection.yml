@@ -2,6 +2,8 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/Some or none of Corppass accounts appearing during
+        linking.md
       - Business users/What other features are available?.md
       - Business users/Multi language support.md
       - Business users/.keep
