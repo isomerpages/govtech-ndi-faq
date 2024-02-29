@@ -6,17 +6,6 @@ collections:
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
       - About Singpass/Feedback on translations.md
-      - Singaporeans located overseas/.keep
-      - Singaporeans located overseas/How does Singpass app benefit overseas
-        users?.md
-      - Singaporeans located overseas/Registering account from overseas.md
-      - Singaporeans located overseas/Setting up your Singpass app overseas.md
-      - Singaporeans located overseas/Misplaced or did not receive PIN mailer.md
-      - Singaporeans located overseas/Using overseas mobile number for SMS FA.md
-      - Singaporeans located overseas/Unable to use existing 2FA modes to set up
-        Singpass app.md
-      - Singaporeans located overseas/I don't have a Singapore registered mobile
-        number.md
       - Business users/.keep
       - Business users/What is My Corporate Profile on Singpass app?.md
       - Business users/How to access My Corporate Profile?.md
@@ -34,6 +23,17 @@ collections:
         linking.md
       - Business users/What other features are available?.md
       - Business users/Multi language support.md
+      - Singaporeans located overseas/.keep
+      - Singaporeans located overseas/How does Singpass app benefit overseas
+        users?.md
+      - Singaporeans located overseas/Registering account from overseas.md
+      - Singaporeans located overseas/Setting up your Singpass app overseas.md
+      - Singaporeans located overseas/Misplaced or did not receive PIN mailer.md
+      - Singaporeans located overseas/Using overseas mobile number for SMS FA.md
+      - Singaporeans located overseas/Unable to use existing 2FA modes to set up
+        Singpass app.md
+      - Singaporeans located overseas/I don't have a Singapore registered mobile
+        number.md
       - Singpass Foreign user Account/.keep
       - Singpass Foreign user Account/Overview.md
       - Singpass Foreign user Account/Services available.md
