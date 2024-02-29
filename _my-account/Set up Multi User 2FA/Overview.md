@@ -22,4 +22,8 @@ involve more sensitive data.
 <br>Primary users will not be able to see what the secondary user is transacting
 on nor receive any government-linked mailers or notifications on behalf
 of the secondary user.</p>
-<p></p>
+<h3>What type of services can I expect with Multi-User SMS 2FA?</h3>
+<p>This feature is offered as an alternative Two-Factor Authentication for
+citizens to transact using their Singpass account. It provides access to
+any government digital services and services of industry partners which
+require Singpass login.</p>
