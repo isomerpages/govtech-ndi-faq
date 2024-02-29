@@ -6,6 +6,8 @@ description: ""
 third_nav_title: Set up Multi User 2FA
 ---
 <h3>What is Multi-User SMS 2FA?</h3>
+<p><strong>Family or trusted care support</strong>
+</p>
 <p>We recognise that there might be a group of users without personal mobile
 smartphones and/or computers. These users may rely on a trusted family
 member or caregiver to help transact digitally with the Government.
