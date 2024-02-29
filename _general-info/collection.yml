@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/What other features are available?.md
       - Business users/Multi language support.md
       - Business users/.keep
       - About Singpass/.keep
