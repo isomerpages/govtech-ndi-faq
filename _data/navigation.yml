@@ -4,8 +4,8 @@ links:
     collection: my-account
   - title: Security
     collection: security
-  - title: Using Singpass App
-    collection: using-singpass-app
+  - title: Singpass App
+    collection: singpass-app
   - title: General info
     collection: general-info
   - title: Contact us
