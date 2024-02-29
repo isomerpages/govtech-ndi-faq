@@ -12,7 +12,7 @@ set up your 2FA.</p>
 following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="my-account/register-and-set-up/how-to-register/" rel="noopener noreferrer nofollow" target="_blank"><u>Register for Singpass account</u></a>
+<p><a href="/my-account/register-and-set-up/how-to-register/" rel="noopener noreferrer nofollow" target="_blank"><u>Register for Singpass account</u></a>
 </p>
 </li>
 <li>
