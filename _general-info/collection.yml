@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Business users/.keep
       - About Singpass/.keep
       - About Singpass/What is Singpass?.md
       - About Singpass/Where can I get help?.md
