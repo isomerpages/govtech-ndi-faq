@@ -39,17 +39,17 @@ sections:
           linktext: Go to section →
           url: /my-account/trouble-logging-in/forgot-password/
         - title: Security 🔒
-          description: Topics related to 2-factor authentication, face verification, scam
-            reports
+          description: Topics related to Face Verification, 2-factor authentication,
+            reporting scams
           linktext: Go to section →
           url: /security/report-a-scam/report-scam/
         - title: Singpass App 📱
-          description: Using the Singpass app, Corppass, features like Digital IC, cards
-            and more
+          description: Setting up your Singpass app, topics on Digital IC, Myinfo and more
           linktext: Go to section →
           url: /using-singpass/overview/
         - title: General Info 📚
-          description: Learn more about Singpass, how it works and more
+          description: Learn about Singpass, using it overseas, info for business users
+            and more
           linktext: Go to section →
           url: /general-info/about-singpass/what-is-singpass/
   - infopic:
