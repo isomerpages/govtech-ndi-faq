@@ -43,7 +43,7 @@ sections:
             reports
           linktext: Go to section →
           url: /security/report-a-scam/report-scam/
-        - title: Using Singpass 🔑
+        - title: Singpass App 🔑
           description: Using the Singpass app, Corppass, features like Digital IC, cards
             and more
           linktext: Go to section →
