@@ -23,3 +23,11 @@ safeguard the interest of our users and to avoid any potential misuse.
 <br>To schedule a video call with the Singpass Helpdesk, please contact
 <a href="http://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank"><u>support@singpass.gov.sg</u> 
 </a>or <a href="tel:+6563353533" rel="noopener noreferrer nofollow" target="_blank">+65 6335 3533</a>.</p>
+<h3>Is this service available when either or both users are based overseas?</h3>
+<p>This service is available as long as the mobile number is locally registered,
+i.e., starts with +65. Users who are not able to visit Singpass counter
+can present their NRIC/FIN to verify their identities and activate Multi-User
+SMS 2FA over a video call with the Singpass Helpdesk.
+<br>
+<br>Please contact <a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>support@singpass.gov.sg</u></a> to
+set up a video call.</p>
