@@ -44,7 +44,7 @@ sections:
           linktext: Go to section →
           url: /security/report-a-scam/report-scam/
         - title: Singpass App 📱
-          description: Setting up your Singpass app, topics on Digital IC, Myinfo and more
+          description: Setting up your Singpass app, info on Digital IC, Myinfo and more
           linktext: Go to section →
           url: /using-singpass/overview/
         - title: General Info 📚
