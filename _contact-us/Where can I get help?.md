@@ -63,7 +63,7 @@ following:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National Registration Identification Card (NRIC) or</p>
+<p>National Registration Identification Card (NRIC)</p>
 </li>
 <li>
 <p>or Passport with Re-entry Permit or</p>
