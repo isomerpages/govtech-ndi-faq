@@ -43,7 +43,7 @@ data from the My Corporate Profile section.</p>
 account, please approach your business entity’s Corppass Administrator
 for assistance. Alternatively, if you have been nominated as a Corppass
 Administrator by your entity's Registered Officer (RO), you may click
-<a href="https://www.corppass.gov.sg/" rel="noopener" target="_blank"><u>here</u>
+<a href="https://www.corppass.gov.sg/" rel="noopener" target="_blank"><u>here</u> 
 </a>to register for a Corppass Administrator account.</p>
 <p></p>
 <p></p>
