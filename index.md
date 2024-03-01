@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       title: Hello! Welcome to Singpass Help Centre
-      background: /images/otter_placeholder_1_.png
-      variant: side
+      background: /images/Site assets/Placeholder_banner.svg
+      variant: image
       backgroundColor: white
       size: md
       alignment: left
