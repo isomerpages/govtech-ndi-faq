@@ -22,3 +22,10 @@ description: ""
 <h4>Find a Singpass counter 🏛️</h4>
 <p><a href="http://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
 find a Singpass counter nearest to you</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>If you are visiting a Singpass counter, </em><a href="./where-to-get-help/" rel="noopener noreferrer nofollow" target="_blank">click here</a><em> to find the documents you need to bring for verification purposes.</em>
+</p>
+</li>
+</ul>
+<p></p>
