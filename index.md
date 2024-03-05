@@ -46,7 +46,7 @@ sections:
         - title: Singpass App 📱
           description: Setting up your Singpass app, info on Digital IC, Myinfo and more
           linktext: Go to section →
-          url: /using-singpass/overview/
+          url: /using-singpass/singpass-app/what-is/
         - title: General Info 📚
           description: Learn about Singpass, using it overseas, info for business users
             and more
