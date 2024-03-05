@@ -64,7 +64,7 @@ sections:
       title: Keep your Singpass safe and secure
       id: infopic
       button: Learn security tips
-      url: https://www.singpass.gov.sg/main/security/
+      url: /security/general-security/how-to-keep-account-safe/
       alt: Image alt text
       image: /images/otter2_placeholder_1_.png
       description: Your digital identity contains personal information and should be
