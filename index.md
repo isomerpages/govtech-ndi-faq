@@ -19,15 +19,15 @@ sections:
       cards:
         - title: I forgot my Singpass password. How do I reset it?
           description: ""
-          linktext: View answer →
+          linktext: View article →
           url: /my-account/trouble-logging-in/forgot-password/
         - title: How do I register for a Singpass account?
           description: ""
-          linktext: View answer →
+          linktext: View article →
           url: /my-account/register-and-set-up/how-to-register/
         - title: How do I update my mobile number or email?
           description: ""
-          linktext: View answer →
+          linktext: View article →
           url: /my-account/managing-my-singpass-account/change-mobile-number/
   - textcards:
       title: Browse topics
