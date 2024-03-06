@@ -53,7 +53,7 @@ plugins:
 staging: https://staging-lite.d2rpks4wslnenv.amplifyapp.com
 prod: https://master.d1um6a6kdbbku8.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Site assets/Singpass_logo.svg
+shareicon: /images/Site assets/help_center.svg
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
