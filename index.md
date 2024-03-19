@@ -9,10 +9,12 @@ notification: ""
 sections:
   - hero:
       background: /images/helpcentre_hero.svg
-      variant: side
+      variant: center
       backgroundColor: white
       size: md
       alignment: left
+      title: Hello, how can we help you?
+      subtitle: Singpass Help Centre
   - textcards:
       title: Frequently-asked questions
       id: textcards
