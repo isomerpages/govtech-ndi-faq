@@ -8,8 +8,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero_banner.svg
-      variant: image
+      background: /images/helpcentre_hero_banner.svg
+      variant: side
       backgroundColor: white
       size: md
       alignment: left
