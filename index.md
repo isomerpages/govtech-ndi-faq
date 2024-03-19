@@ -8,8 +8,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site assets/Placeholder_banner.png
-      variant: image
+      background: /images/helpcentre_hero.svg
+      variant: side
       backgroundColor: white
       size: md
       alignment: left
@@ -58,7 +58,7 @@ sections:
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
-      image: /images/counter_sp.png
+      image: /images/singpass_counter.svg
       alt: Image alt text
   - infopic:
       title: Keep your Singpass safe and secure
