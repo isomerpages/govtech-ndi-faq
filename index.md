@@ -65,7 +65,7 @@ sections:
   - infopic:
       title: Keep your Singpass account safe
       id: infopic
-      button: Learn security tips
+      button: Learn how
       url: /security/general-security/how-to-keep-account-safe/
       alt: Image alt text
       image: /images/Uncle_with_SP_app.svg
