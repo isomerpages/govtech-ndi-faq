@@ -63,12 +63,12 @@ sections:
       image: /images/singpass_counter.svg
       alt: Image alt text
   - infopic:
-      title: Keep your Singpass safe and secure
+      title: Keep your Singpass account safe
       id: infopic
       button: Learn security tips
       url: /security/general-security/how-to-keep-account-safe/
       alt: Image alt text
-      image: /images/otter2_placeholder_1_.png
-      description: Your digital identity contains personal information and should be
-        treated like your physical identity card (e.g. NRIC or FIN).
+      image: /images/Uncle_with_SP_app.svg
+      description: Your Singpass app holds your digital identity, just like your
+        physical NRIC/FIN card. You can take steps to keep it safe.
 ---
