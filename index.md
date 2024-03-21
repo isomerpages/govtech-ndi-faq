@@ -60,7 +60,7 @@ sections:
       description: Visit our Singpass counters to get specific, in-person help
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
-      image: /images/singpass_counter_final.svg
+      image: /images/spcounter.svg
       alt: Image alt text
   - infopic:
       title: Keep your Singpass account safe
