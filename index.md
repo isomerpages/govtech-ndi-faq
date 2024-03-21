@@ -68,7 +68,7 @@ sections:
       button: Learn how
       url: /security/general-security/how-to-keep-account-safe/
       alt: Image alt text
-      image: /images/Uncle_with_SP_app___alt3.svg
+      image: /images/Uncle_with_SP_app___final.svg
       description: Your Singpass app holds your digital identity, just like your
         physical NRIC/FIN card. You can take steps to keep it safe.
 ---
