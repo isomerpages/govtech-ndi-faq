@@ -1,5 +1,5 @@
 collections:
-  singpass-app:
+  using-singpass-app:
     output: true
     order:
       - About Singpass app/.keep
