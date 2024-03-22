@@ -12,20 +12,16 @@ set up your 2FA.</p>
 following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/my-account/register-and-set-up/how-to-register/" rel="noopener noreferrer nofollow" target="_blank"><u>Register for Singpass account</u></a>
-</p>
+<p>Register for Singpass account</p>
 </li>
 <li>
-<p><a href="/security/2fa-two-factor-authentication/setup-sms-2fa/" rel="noopener noreferrer nofollow" target="_blank"><u>Set up SMS 2FA</u></a>
-</p>
+<p>Set up SMS 2FA</p>
 </li>
 <li>
-<p><a href="/my-account/trouble-logging-in/forgot-password/" rel="noopener noreferrer nofollow" target="_blank">Reset Singpass password</a>
-</p>
+<p>Reset Singpass password</p>
 </li>
 <li>
-<p>Update account information, e.g. <a href="/my-account/managing-my-singpass-account/change-mobile-number/" rel="noopener noreferrer nofollow" target="_blank">mobile number</a>
-</p>
+<p>Update account information, e.g. mobile number</p>
 </li>
 </ul>
 <h3>If you are visiting a <a href="https://go.gov.sg/singpass-counters" rel="noopener noreferrer nofollow" target="_blank">Singpass counter</a>, <strong>please bring the following documents for verification purposes 🪪</strong>:</h3>
