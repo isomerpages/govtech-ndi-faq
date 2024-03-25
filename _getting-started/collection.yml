@@ -1,5 +1,5 @@
 collections:
-  general-info:
+  getting-started:
     output: true
     order:
       - About Singpass/.keep
