@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Help_Centre_hero_banner_2x.png
+      background: /images/Homepage/hero_banner.png
       variant: image
       backgroundColor: white
       size: md
