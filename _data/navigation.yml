@@ -1,12 +1,12 @@
 logo: /images/Site assets/Singpass_Help_Centre_logo.svg
 links:
-  - title: My account
+  - title: Getting Started
+    collection: general-info
+  - title: Using Singpass App
+    collection: using-singpass-app
+  - title: Account & Log-in
     collection: my-account
   - title: Security
     collection: security
-  - title: Using Singpass App
-    collection: using-singpass-app
-  - title: General info
-    collection: general-info
   - title: Contact us
     url: /contact
