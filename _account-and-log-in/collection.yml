@@ -1,5 +1,5 @@
 collections:
-  my-account:
+  account-and-log-in:
     output: true
     order:
       - Trouble logging in/.keep
