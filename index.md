@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero_banner2.png
+      background: /images/hero_banner_3.png
       variant: floating
       backgroundColor: white
       size: md
@@ -61,7 +61,7 @@ sections:
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
       image: /images/Homepage/singpass counter.svg
-      alt: "Illustration of "
+      alt: Illustration of
   - infopic:
       title: Keep your Singpass account safe
       id: infopic
