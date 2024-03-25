@@ -57,10 +57,10 @@ sections:
   - infopic:
       title: Need in-person help?
       id: infopic
-      description: Visit our Singpass counters to get specific, in-person help
+      description: "Our friendly Singpass counter staff are here to help. "
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
-      image: /images/spcounter.svg
+      image: /images/Homepage/singpass counter.svg
       alt: Image alt text
   - infopic:
       title: Keep your Singpass account safe
