@@ -35,7 +35,16 @@ sections:
       title: Browse topics
       id: textcards
       cards:
-        - title: My Account 👤
+        - title: Getting Started 📚
+          description: Learn about Singpass, using it overseas, info for business users
+            and more
+          linktext: Go to section →
+          url: /general-info/about-singpass/what-is-singpass/
+        - title: Using Singpass App 📱
+          description: Setting up your Singpass app, info on Digital IC, Myinfo and more
+          linktext: Go to section →
+          url: /using-singpass/singpass-app/what-is/
+        - title: Account & Log-in 👤
           description: Registration, account troubleshooting, managing account details and
             more
           linktext: Go to section →
@@ -45,15 +54,6 @@ sections:
             reporting scams
           linktext: Go to section →
           url: /security/report-a-scam/report-scam/
-        - title: Singpass App 📱
-          description: Setting up your Singpass app, info on Digital IC, Myinfo and more
-          linktext: Go to section →
-          url: /using-singpass/singpass-app/what-is/
-        - title: General Info 📚
-          description: Learn about Singpass, using it overseas, info for business users
-            and more
-          linktext: Go to section →
-          url: /general-info/about-singpass/what-is-singpass/
   - infopic:
       title: Need in-person help?
       id: infopic
