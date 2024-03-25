@@ -57,7 +57,7 @@ sections:
   - infopic:
       title: Need in-person help?
       id: infopic
-      description: "Our friendly Singpass counter staff are here to help. "
+      description: Our friendly Singpass counter staff are here to help.
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
       image: /images/Homepage/singpass counter.svg
@@ -68,7 +68,7 @@ sections:
       button: Learn how
       url: /security/general-security/how-to-keep-account-safe/
       alt: Image alt text
-      image: /images/Uncle_with_SP_app___final.svg
+      image: /images/Homepage/uncle with sp app.svg
       description: Your Singpass app holds your digital identity, just like your
         physical NRIC/FIN card. You can take steps to keep it safe.
 ---
