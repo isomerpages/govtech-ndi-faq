@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - Singpass Face Verification/How to use?.md
       - Singpass Face Verification/How to set up?.md
       - Singpass Face Verification/Can I turn this feature off?.md
       - Singpass Face Verification/Collection of data.md
