@@ -2,6 +2,7 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/Updating My Corporate Profile data.md
       - My Corporate Profile/Corporate data privacy on Singpass app.md
       - My Corporate Profile/What information can business users see?.md
       - My Corporate Profile/What information do different account holders
