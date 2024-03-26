@@ -25,7 +25,6 @@ collections:
       - 2FA Two Factor Authentication/How to set up SMS 2FA?.md
       - 2FA Two Factor Authentication/What transactions require 2FA?.md
       - 2FA Two Factor Authentication/What are my options for 2FA?.md
-      - 2FA Two Factor Authentication/Only setting up SMS 2FA.md
       - Biometric authentication/.keep
       - Biometric authentication/What strong biometrics can I set up?.md
       - Biometric authentication/Singpass app only supports strong biometrics.md
