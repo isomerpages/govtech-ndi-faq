@@ -19,7 +19,6 @@ collections:
         data?.md
       - Account & app security/Accessing Singpass using public computers.md
       - Account & app security/Singpass app auto closing with security alert.md
-      - 2FA Two Factor Authentication/.keep
       - Biometric authentication/.keep
       - OneKey token   discontinued/.keep
       - Suspending your account/.keep
