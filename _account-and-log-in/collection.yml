@@ -2,20 +2,6 @@ collections:
   account-and-log-in:
     output: true
     order:
-      - Singpass Face Verification/What is Singpass Face Verification?.md
-      - Singpass Face Verification/How does it work?.md
-      - Singpass Face Verification/How to use?.md
-      - Singpass Face Verification/How to set up?.md
-      - Singpass Face Verification/Can I turn this feature off?.md
-      - Singpass Face Verification/Collection of data.md
-      - Singpass Face Verification/How is my data protected?.md
-      - Singpass Face Verification/Safeguards against impersonation.md
-      - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
-      - Singpass Face Verification/Why am I suddenly prompted?.md
-      - Singpass Face Verification/Singpass Face Verification unsuccessful.md
-      - Singpass Face Verification/Alternatives to Singpass Face Verification.md
-      - Singpass Face Verification/What if my facial features change?.md
-      - Singpass Face Verification/.keep
       - Trouble logging in/.keep
       - Trouble logging in/Forgot (or reset) password.md
       - Trouble logging in/Trouble logging into Singpass account.md
@@ -40,6 +26,20 @@ collections:
       - Managing my account/New mobile device.md
       - Managing my account/Lost mobile device.md
       - Managing my account/Check if Singpass FA has been set up.md
+      - Singpass Face Verification/.keep
+      - Singpass Face Verification/What is Singpass Face Verification?.md
+      - Singpass Face Verification/How does it work?.md
+      - Singpass Face Verification/How to use?.md
+      - Singpass Face Verification/How to set up?.md
+      - Singpass Face Verification/Can I turn this feature off?.md
+      - Singpass Face Verification/Collection of data.md
+      - Singpass Face Verification/How is my data protected?.md
+      - Singpass Face Verification/Safeguards against impersonation.md
+      - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
+      - Singpass Face Verification/Why am I suddenly prompted?.md
+      - Singpass Face Verification/Singpass Face Verification unsuccessful.md
+      - Singpass Face Verification/Alternatives to Singpass Face Verification.md
+      - Singpass Face Verification/What if my facial features change?.md
       - Set up Multi User 2FA/.keep
       - Set up Multi User 2FA/Overview.md
       - Set up Multi User 2FA/How to sign up for Multi User 2FA?.md
