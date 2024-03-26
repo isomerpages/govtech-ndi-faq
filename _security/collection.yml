@@ -25,8 +25,6 @@ collections:
       - OneKey token   discontinued/.keep
       - OneKey token   discontinued/How to set up SMS 2FA to replace OneKey
         token.md
-      - OneKey token   discontinued/Setting up another 2FA method to replace
-        OneKey token.md
       - Suspending your account/.keep
       - Suspending your account/Why do I have to suspend my Singpass account?.md
       - Suspending your account/How do I suspend my Singpass account?.md
