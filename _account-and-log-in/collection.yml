@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - Singpass Face Verification/What if my facial features change?.md
       - Singpass Face Verification/.keep
       - Trouble logging in/.keep
       - Trouble logging in/Forgot (or reset) password.md
