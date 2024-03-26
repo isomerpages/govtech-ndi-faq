@@ -2,6 +2,7 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/What information can business users see?.md
       - My Corporate Profile/What information do different account holders
         see?.md
       - My Corporate Profile/Auto linking future Corppass accounts assigned to
