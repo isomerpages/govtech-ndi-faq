@@ -2,37 +2,6 @@ collections:
   account-and-log-in:
     output: true
     order:
-      - OneKey token discontinued/How to set up SMS 2FA to replace OneKey
-        token.md
-      - OneKey token discontinued/Setting up another 2FA method to replace
-        OneKey token.md
-      - OneKey token discontinued/Alternatives to OneKey token if i don't have a
-        mobile phone.md
-      - OneKey token discontinued/Alternatives to OneKey token for Singaporeans
-        overseas.md
-      - OneKey token discontinued/.keep
-      - Biometric authentication/What strong biometrics can I set up?.md
-      - Biometric authentication/Singpass app only supports strong biometrics.md
-      - Biometric authentication/Strong vs weak biometrics.md
-      - Biometric authentication/Precautions to take with biometrics.md
-      - Biometric authentication/.keep
-      - 2 Factor Authentication (2FA)/What is Singpass 2FA?.md
-      - 2 Factor Authentication (2FA)/How to set up SMS 2FA?.md
-      - 2 Factor Authentication (2FA)/What transactions require 2FA?.md
-      - 2 Factor Authentication (2FA)/What are my options for 2FA?.md
-      - 2 Factor Authentication (2FA)/Only setting up SMS 2FA.md
-      - 2 Factor Authentication (2FA)/Using SMS 2FA while travelling overseas.md
-      - 2 Factor Authentication (2FA)/How is Singpass app a mode of 2FA?.md
-      - 2 Factor Authentication (2FA)/Will Singpass app replace existing 2FA?.md
-      - 2 Factor Authentication (2FA)/OTP (one time password) expired.md
-      - 2 Factor Authentication (2FA)/.keep
-      - Trouble logging in/.keep
-      - Trouble logging in/Forgot (or reset) password.md
-      - Trouble logging in/Trouble logging into Singpass account.md
-      - Trouble logging in/Trouble logging in with Singpass app.md
-      - Trouble logging in/Trouble logging into government app with Singpass.md
-      - Trouble logging in/Did not receive OTP or One Time Password.md
-      - Trouble logging in/Request expired right after scanning QR code.md
       - Managing my account/.keep
       - Managing my account/What is my Singpass ID?.md
       - Managing my account/Change Singpass ID.md
@@ -49,6 +18,23 @@ collections:
       - Managing my account/New mobile device.md
       - Managing my account/Lost mobile device.md
       - Managing my account/Check if Singpass FA has been set up.md
+      - Trouble logging in/.keep
+      - Trouble logging in/Forgot (or reset) password.md
+      - Trouble logging in/Trouble logging into Singpass account.md
+      - Trouble logging in/Trouble logging in with Singpass app.md
+      - Trouble logging in/Trouble logging into government app with Singpass.md
+      - Trouble logging in/Did not receive OTP or One Time Password.md
+      - Trouble logging in/Request expired right after scanning QR code.md
+      - 2 Factor Authentication (2FA)/.keep
+      - 2 Factor Authentication (2FA)/What is Singpass 2FA?.md
+      - 2 Factor Authentication (2FA)/How to set up SMS 2FA?.md
+      - 2 Factor Authentication (2FA)/What transactions require 2FA?.md
+      - 2 Factor Authentication (2FA)/What are my options for 2FA?.md
+      - 2 Factor Authentication (2FA)/Only setting up SMS 2FA.md
+      - 2 Factor Authentication (2FA)/Using SMS 2FA while travelling overseas.md
+      - 2 Factor Authentication (2FA)/How is Singpass app a mode of 2FA?.md
+      - 2 Factor Authentication (2FA)/Will Singpass app replace existing 2FA?.md
+      - 2 Factor Authentication (2FA)/OTP (one time password) expired.md
       - Singpass Face Verification/.keep
       - Singpass Face Verification/What is Singpass Face Verification?.md
       - Singpass Face Verification/How does it work?.md
@@ -78,3 +64,17 @@ collections:
       - Set up Multi User 2FA/Can a secondary user be linked to multiple primary
         numbers?.md
       - Set up Multi User 2FA/Terminating Multi User 2FA service.md
+      - Biometric authentication/.keep
+      - Biometric authentication/What strong biometrics can I set up?.md
+      - Biometric authentication/Singpass app only supports strong biometrics.md
+      - Biometric authentication/Strong vs weak biometrics.md
+      - Biometric authentication/Precautions to take with biometrics.md
+      - OneKey token discontinued/.keep
+      - OneKey token discontinued/How to set up SMS 2FA to replace OneKey
+        token.md
+      - OneKey token discontinued/Setting up another 2FA method to replace
+        OneKey token.md
+      - OneKey token discontinued/Alternatives to OneKey token if i don't have a
+        mobile phone.md
+      - OneKey token discontinued/Alternatives to OneKey token for Singaporeans
+        overseas.md
