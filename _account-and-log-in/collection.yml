@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - Singpass Face Verification/Safeguards against impersonation.md
       - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
       - Singpass Face Verification/Why am I suddenly prompted?.md
       - Singpass Face Verification/Singpass Face Verification unsuccessful.md
