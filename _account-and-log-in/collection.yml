@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - 2 Factor Authentication (2FA)/What is Singpass 2FA?.md
       - 2 Factor Authentication (2FA)/How to set up SMS 2FA?.md
       - 2 Factor Authentication (2FA)/What transactions require 2FA?.md
       - 2 Factor Authentication (2FA)/What are my options for 2FA?.md
