@@ -2,6 +2,7 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/What other features are available?.md
       - My Corporate Profile/Multi language support.md
       - My Corporate Profile/.keep
       - About Singpass app/.keep
