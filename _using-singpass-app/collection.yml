@@ -2,6 +2,7 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/.keep
       - About Singpass app/.keep
       - About Singpass app/What is Singpass app?.md
       - About Singpass app/Accessing digital services.md
