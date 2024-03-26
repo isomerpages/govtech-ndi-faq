@@ -2,6 +2,8 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - OneKey token discontinued/How to set up SMS 2FA to replace OneKey
+        token.md
       - OneKey token discontinued/Setting up another 2FA method to replace
         OneKey token.md
       - OneKey token discontinued/Alternatives to OneKey token if i don't have a
