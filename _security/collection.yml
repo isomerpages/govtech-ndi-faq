@@ -22,7 +22,6 @@ collections:
       - Account & app security/Singpass app auto closing with security alert.md
       - 2FA Two Factor Authentication/.keep
       - Biometric authentication/.keep
-      - Biometric authentication/What strong biometrics can I set up?.md
       - OneKey token   discontinued/.keep
       - OneKey token   discontinued/How to set up SMS 2FA to replace OneKey
         token.md
