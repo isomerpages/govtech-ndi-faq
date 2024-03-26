@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - Singpass Face Verification/Singpass Face Verification unsuccessful.md
       - Singpass Face Verification/Alternatives to Singpass Face Verification.md
       - Singpass Face Verification/What if my facial features change?.md
       - Singpass Face Verification/.keep
