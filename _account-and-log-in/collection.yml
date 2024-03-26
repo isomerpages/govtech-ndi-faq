@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - Singpass Face Verification/Collection of data.md
       - Singpass Face Verification/How is my data protected?.md
       - Singpass Face Verification/Safeguards against impersonation.md
       - Singpass Face Verification/Is Singpass Face Verification compulsory?.md
