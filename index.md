@@ -61,13 +61,13 @@ sections:
       button: Locate your nearest counter
       url: https://www.singpass.gov.sg/home/ui/counter-locations
       image: /images/Homepage/singpass counter.svg
-      alt: Illustration of
+      alt: Woman and Counter staff
   - infopic:
       title: Keep your Singpass account safe
       id: infopic
       button: Learn how
       url: /security/general-security/how-to-keep-account-safe/
-      alt: Image alt text
+      alt: Elderly man using Singpass app
       image: /images/Homepage/uncle with sp app.svg
       description: Your Singpass app holds your digital identity, just like your
         physical NRIC/FIN card. You can take steps to keep it safe.
