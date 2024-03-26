@@ -2,6 +2,8 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/Auto linking future Corppass accounts assigned to
+        you.md
       - My Corporate Profile/Unlinking Corppass accounts in Singpass app.md
       - My Corporate Profile/Some or none of Corppass accounts appearing during
         linking.md
