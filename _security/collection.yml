@@ -21,7 +21,6 @@ collections:
       - Account & app security/Accessing Singpass using public computers.md
       - Account & app security/Singpass app auto closing with security alert.md
       - 2FA Two Factor Authentication/.keep
-      - 2FA Two Factor Authentication/What is Singpass 2FA?.md
       - Biometric authentication/.keep
       - Biometric authentication/What strong biometrics can I set up?.md
       - Biometric authentication/Singpass app only supports strong biometrics.md
