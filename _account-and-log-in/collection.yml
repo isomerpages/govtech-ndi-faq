@@ -2,6 +2,7 @@ collections:
   account-and-log-in:
     output: true
     order:
+      - 2 Factor Authentication (2FA)/Using SMS 2FA while travelling overseas.md
       - 2 Factor Authentication (2FA)/How is Singpass app a mode of 2FA?.md
       - 2 Factor Authentication (2FA)/Will Singpass app replace existing 2FA?.md
       - 2 Factor Authentication (2FA)/OTP (one time password) expired.md
