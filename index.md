@@ -36,8 +36,7 @@ sections:
       id: textcards
       cards:
         - title: Getting Started 📚
-          description: Learn about Singpass, using it overseas, info for business users
-            and more
+          description: Learn about Singpass, registration, using it overseas and more
           linktext: Go to section →
           url: /general-info/about-singpass/what-is-singpass/
         - title: Using Singpass App 📱
@@ -45,13 +44,11 @@ sections:
           linktext: Go to section →
           url: /using-singpass/singpass-app/what-is/
         - title: Account & Log-in 👤
-          description: Registration, account troubleshooting, managing account details and
-            more
+          description: Account troubleshooting, managing account details and more
           linktext: Go to section →
           url: /my-account/trouble-logging-in/forgot-password/
         - title: Security 🔒
-          description: Topics related to Face Verification, 2-factor authentication,
-            reporting scams
+          description: Reporting scams, security tips and more
           linktext: Go to section →
           url: /security/report-a-scam/report-scam/
   - infopic:
