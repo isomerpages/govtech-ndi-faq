@@ -2,6 +2,7 @@ collections:
   using-singpass-app:
     output: true
     order:
+      - My Corporate Profile/How to access My Corporate Profile?.md
       - My Corporate Profile/Access to My Corporate Profile.md
       - My Corporate Profile/Will the Singpass app replace Corppass?.md
       - My Corporate Profile/Is my Corppass account valid for My Corporate
